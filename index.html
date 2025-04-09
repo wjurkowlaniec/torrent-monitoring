@@ -10,6 +10,133 @@
     <script src="https://cdn.jsdelivr.net/npm/date-fns@^2/index.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@^2/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
 
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 0 15px;
+        }
+
+        header {
+            background-color: #f8f9fa;
+            padding: 10px 0;
+            border-bottom: 1px solid #dee2e6;
+            margin-bottom: 20px;
+            text-align: center; /* Center header content */
+        }
+
+        h1 {
+            margin: 0;
+            padding: 0 15px;
+        }
+
+        .rankings-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Default grid layout */
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .ranking-card {
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #fff;
+        }
+
+        .ranking-card h2 {
+            margin-top: 0;
+            font-size: 1.2em;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+
+        .ranking-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .ranking-table th,
+        .ranking-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .ranking-table th {
+            background-color: #f2f2f2;
+        }
+
+        .charts-container {
+            display: grid;
+            grid-template-columns: 1fr; /* Default to single column */
+            gap: 30px;
+        }
+
+        .chart-card {
+             border: 1px solid #ddd;
+             padding: 15px;
+             border-radius: 5px;
+             background-color: #fff;
+             /* Ensure charts can shrink */
+             position: relative; 
+             min-height: 250px; /* Give charts some minimum height */
+        }
+        
+        .chart-card canvas {
+             max-width: 100%; /* Ensure canvas doesn't overflow */
+             height: auto !important; /* Override potential fixed height */
+        }
+
+        /* --- Mobile Styles --- */
+        @media (max-width: 768px) {
+            .rankings-container {
+                grid-template-columns: 1fr; /* Stack rankings on mobile */
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+            /* Stack nav items */
+            nav .tabs {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            nav .tabs li {
+                margin-bottom: 5px; /* Add space between stacked items */
+            }
+            nav .tabs li a {
+                 display: block; /* Make links take full width */
+                 text-align: center;
+            }
+            /* Enable horizontal scroll for tables */
+            .table-container {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch; /* Smoother scrolling on iOS */
+            }
+            /* Prevent table itself from shrinking columns too much */
+            .ranking-table {
+                min-width: 500px; /* Adjust as needed based on content */
+            }
+        }
+
+        @media (max-width: 600px) {
+            /* Further adjustments for very small screens if needed */
+            .ranking-table th,
+            .ranking-table td {
+                font-size: 0.9em;
+                padding: 5px;
+            }
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -34,7 +161,7 @@
         <!-- Top Rankings Tab -->
         <section id="top-rankings" class="tab-content active">
             <div class="rankings-container">
-                <div class="ranking-section">
+                <div class="ranking-card">
                     <h2>Top 20 Movies</h2>
                     <div class="period-selector">
                         <button class="period-btn active" data-period="daily" data-category="movies">24h Changes</button>
@@ -59,7 +186,7 @@
                     </div>
                 </div>
 
-                <div class="ranking-section">
+                <div class="ranking-card">
                     <h2>Top 20 Games</h2>
                     <div class="period-selector">
                         <button class="period-btn active" data-period="daily" data-category="games">24h Changes</button>
@@ -91,6 +218,8 @@
 
         <!-- Movies Chart Tab -->
         <section id="movies-chart" class="tab-content">
+            <div class="charts-container">
+                <div class="chart-card">
             <h2>Top Movies Trends</h2>
             <div class="chart-controls">
                 <div class="legend-container" id="movies-legend">
@@ -99,6 +228,8 @@
             </div>
             <div class="chart-container">
                 <canvas id="moviesChart"></canvas>
+                </div>
+            </div>
             </div>
             <div class="chart-info">
                 <p>This chart shows the number of peers (seeders + leechers) for the top 20 movies over time.</p>
@@ -108,6 +239,8 @@
 
         <!-- Games Chart Tab -->
         <section id="games-chart" class="tab-content">
+            <div class="charts-container">
+                <div class="chart-card">
             <h2>Top Games Trends</h2>
             <div class="chart-controls">
                 <div class="legend-container" id="games-legend">
@@ -116,6 +249,8 @@
             </div>
             <div class="chart-container">
                 <canvas id="gamesChart"></canvas>
+                </div>
+            </div>
             </div>
             <div class="chart-info">
                 <p>This chart shows the number of peers (seeders + leechers) for the top 20 games over time.</p>

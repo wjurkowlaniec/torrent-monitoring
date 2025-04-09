@@ -10,6 +10,7 @@ from datetime import datetime
 import subprocess
 from scrapers.games_scraper import GamesScraper
 from scrapers.movies_scraper import MoviesScraper
+from scrapers.base_scraper import get_movie_grouping_key, get_game_grouping_key
 from data_manager import DataManager
 
 def scrape_data():
@@ -26,7 +27,42 @@ def scrape_data():
     
     if games_data:
         print(f"Successfully scraped {len(games_data)} games.")
-        games_grouped = games_scraper.group_similar_items(games_data)
+        # --- Custom Game Grouping Logic ---
+        game_groups = {}
+        for game in games_data:
+            current_peers = game.get('seeders', 0) + game.get('leechers', 0)
+            grouping_key, display_title = get_game_grouping_key(game['title'])
+            
+            if grouping_key not in game_groups:
+                game_groups[grouping_key] = {
+                    'display_title': display_title,
+                    'torrents': [],
+                    'total_seeders': 0,
+                    'total_leechers': 0,
+                    'total_peers': 0
+                }
+            
+            game_groups[grouping_key]['torrents'].append(game)
+            game_groups[grouping_key]['total_seeders'] += game.get('seeders', 0)
+            game_groups[grouping_key]['total_leechers'] += game.get('leechers', 0)
+            game_groups[grouping_key]['total_peers'] += current_peers
+
+        games_grouped = []
+        for _, group_data in game_groups.items():
+            if not group_data['torrents']: continue
+            
+            representative_game = max(group_data['torrents'], key=lambda x: x.get('seeders', 0) + x.get('leechers', 0))
+            representative_game_copy = representative_game.copy()
+            representative_game_copy['clean_title'] = group_data['display_title']
+
+            games_grouped.append({
+                'representative': representative_game_copy,
+                'total_seeders': group_data['total_seeders'],
+                'total_leechers': group_data['total_leechers'],
+                'total_peers': group_data['total_peers'],
+                'torrents': group_data['torrents']
+            })
+        # --- End Custom Grouping ---
         print(f"Grouped into {len(games_grouped)} unique games.")
     else:
         games_grouped = []
@@ -39,7 +75,52 @@ def scrape_data():
     
     if movies_data:
         print(f"Successfully scraped {len(movies_data)} movies.")
-        movies_grouped = movies_scraper.group_similar_items(movies_data)
+        # --- Custom Movie Grouping Logic ---
+        movie_groups = {}
+        for movie in movies_data:
+            # Calculate peers for this item (without modifying the dict)
+            current_peers = movie.get('seeders', 0) + movie.get('leechers', 0)
+            # Get both the key for grouping and the prefix for display
+            grouping_key, display_prefix = get_movie_grouping_key(movie['title'])
+            
+            if grouping_key not in movie_groups:
+                movie_groups[grouping_key] = {
+                    'display_prefix': display_prefix, # Store the prefix for the group
+                    'torrents': [],
+                    'total_seeders': 0,
+                    'total_leechers': 0,
+                    'total_peers': 0
+                }
+            
+            # Store original movie dict
+            movie_groups[grouping_key]['torrents'].append(movie)
+            # Add to totals
+            movie_groups[grouping_key]['total_seeders'] += movie.get('seeders', 0)
+            movie_groups[grouping_key]['total_leechers'] += movie.get('leechers', 0)
+            movie_groups[grouping_key]['total_peers'] += current_peers
+
+        movies_grouped = []
+        for _, group_data in movie_groups.items():
+            if not group_data['torrents']: continue # Skip empty groups
+            
+            # Select representative (e.g., highest peers, calculate peers on the fly)
+            # Note: representative_movie is still one of the original dicts
+            representative_movie = max(group_data['torrents'], key=lambda x: x.get('seeders', 0) + x.get('leechers', 0))
+            
+            # Create a copy to avoid modifying the original dict in movies_data
+            representative_movie_copy = representative_movie.copy()
+            # Set the 'clean_title' to the stored display_prefix for the group
+            representative_movie_copy['clean_title'] = group_data['display_prefix'] 
+
+            movies_grouped.append({
+                # Use the modified copy as the representative
+                'representative': representative_movie_copy, 
+                'total_seeders': group_data['total_seeders'],
+                'total_leechers': group_data['total_leechers'],
+                'total_peers': group_data['total_peers'],
+                'torrents': group_data['torrents'] # Keep the list of original torrents if needed later
+            })
+        # --- End Custom Grouping ---
         print(f"Grouped into {len(movies_grouped)} unique movies.")
     else:
         movies_grouped = []

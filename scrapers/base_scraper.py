@@ -34,86 +34,258 @@ def clean_title(title, for_display=False):
     
     Args:
         title (str): Original title
-        for_display (bool): If True, clean the title for display purposes
-                           If False, clean for matching purposes
+        for_display (bool): If True, clean the title for display purposes (less aggressive).
+                           If False, clean for matching purposes (more aggressive).
         
     Returns:
         str: Cleaned title
     """
-    # Remove common patterns in titles that indicate versions, repacks, etc.
-    patterns = [
-        r'\(v[\d\.]+.*?\)',  # Version numbers like (v1.2.3)
-        r'v[\d\.]+',  # Version numbers like v1.2.3
-        r'\[.*?\]',  # Content in square brackets
-        r'\(.*?\)',  # Content in parentheses
-        r'Update.*$',  # Updates
-        r'Repack',  # Repacks
-        r'MULTi\d+',  # Multi-language indicators
-        r'DLC',  # DLC mentions
-        r'\+.*$',  # Everything after a plus sign
-        r'REMASTERED',  # Remastered versions
-        r'EXTENDED',  # Extended versions
-        r'DIRECTORS CUT',  # Director's cut
-        r'UNRATED',  # Unrated versions
-        r'BRRip',  # Blu-ray rips
-        r'DVDRip',  # DVD rips
-        r'HDRip',  # HD rips
-        r'WEBRip',  # Web rips
-        r'XviD',  # Video codec
-        r'x264',  # Video codec
-        r'x265',  # Video codec
-        r'HEVC',  # Video codec
-        r'AAC',  # Audio codec
-        r'AC3',  # Audio codec
-        r'FLAC',  # Audio codec
-        r'\d{3,4}p',  # Resolution like 1080p, 720p
-        r'HDTV',  # TV source
-        r'WEB-DL',  # Web download
-        r'BluRay',  # Blu-ray source
-    ]
-    
-    # Additional patterns for display cleaning (more aggressive)
-    display_patterns = [
-        r'-[^-]*$',  # Everything after the last hyphen if it's not part of the name
-        r'\s*:\s*$',  # Trailing colons with optional spaces
-        r'\s*-\s*$',  # Trailing hyphens with optional spaces
-        r'FitGirl',  # FitGirl repacks
-        r'DODI',  # DODI repacks
-        r'CODEX',  # CODEX releases
-        r'PLAZA',  # PLAZA releases
-        r'SKIDROW',  # SKIDROW releases
-        r'RELOADED',  # RELOADED releases
-        r'TENOKE',  # TENOKE releases
-        r'RUNE',  # RUNE releases
-        r'YIFY',  # YIFY releases
-        r'YTS',  # YTS releases
-        r'RARBG',  # RARBG releases
-        r'ETRG',  # ETRG releases
-        r'EtHD',  # EtHD releases
-        r'Selective Download',  # Selective download option
-    ]
-    
     cleaned = title
-    for pattern in patterns:
-        cleaned = re.sub(pattern, '', cleaned, flags=re.IGNORECASE)
     
-    # Apply additional cleaning for display purposes
-    if for_display:
-        # Special case for "Edition" - keep it if it's part of the title
-        if "Edition" in cleaned:
-            # Keep "Edition" in the title
-            pass
+    # --- Initial Universal Cleaning --- 
+    # Replace dots with spaces early on
+    cleaned = cleaned.replace('.', ' ')
+    
+    # --- Patterns to remove for BOTH matching and display --- 
+    # These are generally noise regardless of context
+    patterns_all = [
+        # Brackets/Parentheses content
+        r'\[.*?\]',              # Content in square brackets: [Multi] etc.
+        r'\(.*?\)',              # Content in parentheses: (Extended Cut) etc. 
+                                   # (Might remove intended parts like "(I)" for movies)
         
-        # Special case for titles with hyphens that are part of the name
-        # Don't remove hyphens from titles like "Spider-Man"
-        for pattern in display_patterns:
+        # Technical details (Quality, Codecs, Source, Resolution)
+        r'\b(CAM|TS|TELESYNC|TC|HC)\b', # Early release types (CAM, Telesync, Hardcoded Subs)
+        r'\b(BRRip|BDRip|BluRay|DVDRip|HDRip|WEBRip|WEB-DL|HDTV)\b', # Rip/Source types
+        r'\b(REMUX)\b',             # Remux 
+        r'\b(x264|x265|HEVC|XviD)\b', # Video Codecs
+        r'\b(AAC|AC3|DTS|FLAC)\b',   # Audio Codecs
+        r'\b(\d{3,4}p)\b',          # Resolution (720p, 1080p, 2160p)
+        r'\b(\d\.\d)\b',          # Audio channels (5.1, 7.1)
+        r'\b(4K)\b',                # 4K indicator
+
+        # Versioning/Type indicators (Common in games, sometimes movies)
+        r'\(v[\d\.]+.*?\)',     # Version numbers like (v1.2.3)
+        r'\b(v[\d\.]+)',         # Version numbers like v1.2.3
+        r'\b(Update.*$)',        # Updates (often game-related)
+        r'\b(Repack)\b',          # Repacks (often game-related)
+        r'\b(MULTi\d*)\b',       # Multi-language indicators (MULTi, MULTi12)
+        r'\b(DLC)\b',             # DLC mentions (often game-related)
+        r'\b(REMASTERED)\b',      # Remastered versions
+        r'\b(EXTENDED)\b',        # Extended versions
+        r'\b(DIRECTORS? CUT)\b', # Director's cut
+        r'\b(UNRATED)\b',         # Unrated versions
+        r'\b(COMPLETE.*?EDITION)\b', # Complete/Special Editions
+
+        # Years (Standalone 4 digits: 19xx or 20xx)
+        r'\b(19\d{2}|20\d{2})\b',  
+
+        # Other common noise
+        r'\+.*$',                 # Everything after a plus sign (often DLCs)
+        r'\b(RUS|ENG|ITA|SPA|GER|FRE)\b', # Simple language tags (use MULTi for broader cases)
+        r'\b(LiMiTED)\b',          # Limited tag
+    ]
+    
+    # --- Patterns ONLY removed for matching (more aggressive) ---
+    # These might remove parts of a desired display title but help grouping
+    patterns_matching_only = [
+        # Common Release Groups (Focus on movie groups here, game groups below)
+        r'\b(YIFY|YTS|RARBG|ETRG|EtHD|EVO|PSA|NTb|MT|TGx|GalaxyRG)\b', 
+        # Game-specific groups/repackers (also removed for matching games)
+        r'\b(FitGirl|DODI|CODEX|PLAZA|SKIDROW|RELOADED|TENOKE|RUNE|CPY|EMPRESS|GOG|FLT)\b',
+        # Generic pattern for ending group names (Use cautiously)
+        # r'-[a-z0-9]+$', # Example: Movie-Title-GROUP -> Movie-Title
+        # r'\b[a-z0-9]+$', # Example? Movie Title GROUP -> Movie Title (Risky! Might remove year/part of title)
+        # Sticking to specific group names is safer
+        r'\b(COLLECTiVE)\b', # Added from user example
+        r'\b(BONE)\b',       # Added from user example
+        
+        # --- Added for better game key generation ---
+        # Remove hyphen followed by potential group name (ONLY at the end)
+        r'\s*-\s*[a-z\d]+$', 
+        # Remove parenthesized content ONLY at the end (often build numbers, etc.)
+        r'\s*\(.*\)$', 
+        # Remove bracketed content ONLY at the end (like [F])
+        r'\s*\[.*\]$',
+        # DO NOT remove everything after colon, as it breaks titles like 'Game: Subtitle'
+        # Instead, rely on removing specific tags/editions/versions after the colon if needed
+        # Remove common game editions/tags aggressively for matching (might appear after colon)
+        r'\b(?:deluxe|ultimate|gold|complete|collectors?|definitive|remastered|enhanced|goty|game of the year|premium|supporter|standard|bundle|pack|edition)\b',
+        r'\b(?:repack|rip|preinstalled|portable)\b',
+        r'\b(?:v\d+(?:[.]\d+)*|build[-.\s]?\d+|update[-.\s]?\d+)\b', # Versions, builds, updates
+        r'\b(?:multi\d*|eng|rus|ita|esp|jpn|kor|fre|ger|\d{1,2} languages?)\b', # Languages
+        # Also remove specific group names here for consistency (already listed above, but ensure RUNE etc. are covered)
+        r'\b(RUNE|FitGirl|DODI|CODEX|PLAZA|SKIDROW|RELOADED|TENOKE|CPY|EMPRESS|GOG|FLT|BONE)\b',
+    ]
+
+    # --- Patterns ONLY removed for display --- 
+    # Less aggressive, keeps more detail for the user to see
+    patterns_display_only = [
+        r'\b(Selective Download)\b', # Less relevant info for display
+        # Consider removing very specific technical details ONLY for display if needed?
+        # e.g., r'H264' if 'x264' wasn't caught
+    ]
+
+    # Apply the patterns
+    for pattern in patterns_all:
+        cleaned = re.sub(pattern, '', cleaned, flags=re.IGNORECASE)
+
+    if not for_display: 
+        # Aggressive cleaning for matching
+        for pattern in patterns_matching_only:
             cleaned = re.sub(pattern, '', cleaned, flags=re.IGNORECASE)
-    
-    # Remove extra whitespace and normalize
+        # Remove common punctuation for matching key consistency
+        cleaned = re.sub(r'[:;,.\-\'"`~!@#$%^&*()_+={}\[\]|\\<>?]+', '', cleaned)
+    else: 
+        # Less aggressive cleaning for display
+        for pattern in patterns_display_only:
+            cleaned = re.sub(pattern, '', cleaned, flags=re.IGNORECASE)
+
+    # Final whitespace cleanup
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+    # Remove trailing characters like hyphens or colons that might be left after removals
+    cleaned = re.sub(r'[\s:-]+$', '', cleaned).strip()
     
-    # Return lowercase for matching, original case for display
+    # Return lowercase for matching, attempt to preserve original case for display
     return cleaned.lower() if not for_display else cleaned
+
+def get_movie_grouping_key(title):
+    """
+    Generates a normalized key for grouping movie titles and a clean display prefix.
+    It bases the prefix on the content before the first 4-digit year found.
+    Falls back to aggressive cleaning if no year or prefix is suitable.
+
+    Args:
+        title (str): The original movie torrent title.
+
+    Returns:
+        tuple(str, str): (normalized_key, display_prefix)
+                       normalized_key: Lowercase, no spaces key for grouping.
+                       display_prefix: Cleaned prefix suitable for display.
+    """
+    cleaned_for_year_find = title.replace('.', ' ') # Replace dots before year finding
+    
+    # Find the first 4-digit year (19xx or 20xx)
+    year_match = re.search(r'\b(19\d{2}|20\d{2})\b', cleaned_for_year_find)
+    
+    display_prefix = "" # Initialize display prefix
+    base_for_key = "" # Initialize the string that will become the normalized key
+
+    if year_match:
+        potential_prefix = cleaned_for_year_find[:year_match.start()].strip()
+        # Use prefix if it seems reasonable (not empty, not just digits/symbols maybe?)
+        # For now, just check if it's not empty
+        if potential_prefix and len(potential_prefix.split()) >= 1:
+             display_prefix = potential_prefix
+             base_for_key = potential_prefix
+        else:
+            # Year found but prefix is bad/empty, fall back to aggressive clean for both
+             aggressive_cleaned = clean_title(title, for_display=False)
+             display_prefix = aggressive_cleaned # Use aggressive clean for display too
+             base_for_key = aggressive_cleaned
+    else:
+        # No year found, use aggressively cleaned title as basis for key and display
+        aggressive_cleaned = clean_title(title, for_display=False)
+        display_prefix = aggressive_cleaned # Use aggressive clean for display
+        base_for_key = aggressive_cleaned
+
+    # Normalize the key: lowercase and remove all whitespace from the base
+    normalized_key = re.sub(r'\s+', '', base_for_key).lower()
+    
+    # Final safety checks
+    if not normalized_key:
+        # If key is somehow empty, use a hash or placeholder
+        normalized_key = "unknown_movie_group"
+        # Ensure display_prefix isn't empty either
+        if not display_prefix:
+            display_prefix = clean_title(title, for_display=True) # Fallback display
+            if not display_prefix: # Absolute last resort
+                display_prefix = title 
+                
+    # Ensure display_prefix is not empty if key is valid
+    if not display_prefix and normalized_key != "unknown_movie_group":
+        display_prefix = clean_title(title, for_display=True) # Fallback display
+        if not display_prefix:
+             display_prefix = title
+
+    # Clean trailing brackets/parentheses from display prefix
+    final_display_prefix = display_prefix.strip()
+    if final_display_prefix.endswith(('(', '[')):
+        final_display_prefix = final_display_prefix[:-1].strip()
+
+    # Return the normalized key for grouping and the cleaned prefix for display
+    return normalized_key, final_display_prefix
+
+def get_game_grouping_key(title):
+    """
+    Generates a normalized key and display title for grouping game titles.
+    Uses aggressive cleaning for the key and less aggressive for the display title,
+    followed by specific game-related suffix removal for display.
+
+    Args:
+        title (str): The original game torrent title.
+
+    Returns:
+        tuple(str, str): (normalized_key, display_title)
+                       normalized_key: Lowercase, no spaces key for grouping.
+                       display_title: Cleaned title suitable for display, preserving case.
+    """
+    # 1. Get base for display title (less aggressive, preserves case)
+    display_title = clean_title(title, for_display=True)
+    if not display_title: # Fallback if cleaning removed everything
+        display_title = title # Use original title
+
+    # 2. Get base for grouping key (aggressive, lowercase)
+    key_base = clean_title(title, for_display=False)
+    normalized_key = re.sub(r'\s+', '', key_base).lower()
+    
+    # Handle potential empty key
+    if not normalized_key:
+        normalized_key = "unknown_game_group"
+        # If key is unknown, use less aggressive cleaning for display title too
+        if display_title == title: # Check if fallback was already used
+             display_title = clean_title(title, for_display=True) or title 
+
+    # 3. Perform additional display_title specific cleaning (preserve case)
+    # Remove common game suffixes/patterns left after general cleaning
+    # Examples: '[ , sel', '( 0', ': premium edition [fi', ' - digital deluxe edition' etc.
+    # Using broad patterns to catch variations
+    # Define patterns to remove specifically from the *end* of the display title
+    # These operate *after* the initial clean_title(for_display=True)
+    suffixes_to_remove = [
+        # Hyphen/colon/paren/bracket followed by common tags/groups/versions
+        # Need to be careful not to remove intended parts like ': Subtitle'
+        r'\s*[-\(:]\s*(?:\d+\s*[/.]?\s*\d+|v\d+|build|update|dlc|ost|soundtrack|multi\d*|eng|rus|ita|jpn|kor)\b.*', # Build nums, versions, lang etc after separator
+        r'\s*[-\(:]\s*(?:premium|deluxe|supporter|ultimate|standard|collector.?s|goty|digital|definitive|complete|remastered|gold|enhanced|bundle|pack|edition|repack|rip|fitgirl|dodi|codex|rune|p2p|gog|flt)\b.*', # Editions, groups etc. after separator
+        # Standalone bracketed/parenthesized content at the very end
+        r'\s*\(.*\)$', # Parenthesized content at end
+        r'\s*\[[^\]]*\]$', # Bracketed content at end (less greedy)
+        # Specific leftovers seen in examples
+        r'\s*-\s*RUNE$', # Explicitly match -RUNE at the end
+        r'\s*: Khaos Reigns Kollection.*', # Specific MK1 edition noise
+        r'\s*with early p.*', # Early purchase bonus
+        r'\s*3 3f\d+$', # Schedule I noise
+        r'\s*-\s*\(\s*\d+\s+\d+\s+\d+\s*\)$' # Specific TLOU build number format
+    ]
+    temp_title = display_title
+    for suffix_pattern in suffixes_to_remove:
+        # Match suffix at the end of the string, case-insensitive for the pattern
+        match = re.search(suffix_pattern + '$', temp_title, re.IGNORECASE)
+        if match:
+            # Remove the matched part from the original cased string
+            temp_title = temp_title[:match.start()].strip()
+            
+    # Remove trailing special characters again after suffix removal
+    display_title = re.sub(r'[\s:;,.\(\[\-]+$', '', temp_title).strip()
+
+    # Ensure display title isn't empty after all cleaning
+    if not display_title:
+        display_title = clean_title(title, for_display=True) # Try again with less aggressive
+        if not display_title:
+            display_title = title # Absolute fallback
+
+    return normalized_key, display_title
+
 
 def calculate_similarity(title1, title2):
     """
