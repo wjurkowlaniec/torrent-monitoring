@@ -6,14 +6,13 @@ This module provides the base functionality for scraping torrent websites.
 It contains common utility functions and the BaseScraper class that other scrapers inherit from.
 """
 
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import time
 import random
 import re
+import brotli
 from difflib import SequenceMatcher
-from requests.adapters import HTTPAdapter
-from requests.packages.urllib3.util.retry import Retry
 
 # Define user agents to rotate and avoid being blocked
 USER_AGENTS = [
@@ -176,38 +175,50 @@ class BaseScraper:
         
         return headers
     
-    def create_session(self):
+    def create_scraper(self):
         """
-        Create a requests session with retry logic
+        Create a cloudscraper session that can bypass Cloudflare protection
         
         Returns:
-            requests.Session: Configured session object
+            cloudscraper.CloudScraper: Scraper session
         """
-        session = requests.Session()
-        
-        # Configure retry strategy
-        retry_strategy = Retry(
-            total=3,  # Maximum number of retries
-            backoff_factor=1,  # Time factor between retries
-            status_forcelist=[429, 500, 502, 503, 504],  # Retry on these status codes
-            allowed_methods=["GET", "HEAD"]  # Only retry for these methods
+        # Create a cloudscraper session with browser-like headers
+        scraper = cloudscraper.create_scraper(
+            browser={
+                'browser': 'firefox',  # Try Firefox instead of Chrome
+                'platform': 'windows',
+                'mobile': False
+            },
+            delay=5,  # Shorter delay between requests
+            debug=True,  # Enable debug mode to see what's happening
+            allow_brotli=True,  # Allow brotli compression
+            cipherSuite='ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256',  # Modern cipher suite
+            captcha={'provider': 'return_response'}  # Return the response even if there's a captcha
         )
         
-        adapter = HTTPAdapter(max_retries=retry_strategy)
-        session.mount("http://", adapter)
-        session.mount("https://", adapter)
+        # Set additional browser-like attributes
+        scraper.headers.update({
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1',
+            'Upgrade-Insecure-Requests': '1',
+            'Referer': 'https://www.google.com/',  # Pretend we came from Google
+            'DNT': '1'
+        })
         
-        return session
+        return scraper
 
     def make_request(self, url):
         """
-        Make a request to the specified URL with retry logic
+        Make a request to the specified URL using cloudscraper to bypass protection
         
         Args:
             url (str): URL to request
             
         Returns:
-            requests.Response: Response object or None if all retries failed
+            cloudscraper.Response: Response object or None if all retries failed
         """
         max_retries = 3
         retry_delay = 2
@@ -217,27 +228,35 @@ class BaseScraper:
                 # Add a delay to be respectful to the server (increase with each retry)
                 time.sleep(retry_delay * (attempt + 1))
                 
-                # Create a session to maintain cookies
-                session = requests.Session()
+                # Create a cloudscraper session
+                scraper = self.create_scraper()
+                
+                # Add additional headers
+                for key, value in self.get_headers().items():
+                    scraper.headers[key] = value
                 
                 # Make the request
-                response = session.get(url, headers=self.get_headers(), timeout=15)
+                print(f"Attempting to access {url} with cloudscraper (Attempt {attempt+1}/{max_retries})")
+                response = scraper.get(url, timeout=30)  # Longer timeout for challenge solving
                 
                 # Check for common error codes
                 if response.status_code == 403:
-                    print(f"Access forbidden (403). Retrying with different headers... (Attempt {attempt+1}/{max_retries})")
+                    print(f"Access forbidden (403). Retrying... (Attempt {attempt+1}/{max_retries})")
                     continue
                 elif response.status_code == 429:
                     print(f"Rate limited (429). Waiting longer before retry... (Attempt {attempt+1}/{max_retries})")
                     time.sleep(10)  # Wait longer for rate limit
                     continue
                 
-                # Raise an exception for other HTTP errors
-                response.raise_for_status()
+                # Check if we got a successful response
+                if response.status_code == 200:
+                    print(f"Successfully accessed {url} with cloudscraper")
+                    return response
+                else:
+                    # Raise an exception for other HTTP errors
+                    response.raise_for_status()
                 
-                return response
-                
-            except requests.exceptions.RequestException as e:
+            except Exception as e:
                 print(f"Request error on attempt {attempt+1}/{max_retries}: {e}")
                 if attempt < max_retries - 1:
                     print(f"Retrying in {retry_delay * (attempt + 2)} seconds...")
@@ -252,7 +271,7 @@ class BaseScraper:
         Parse the response into BeautifulSoup
         
         Args:
-            response (requests.Response): Response to parse
+            response (cloudscraper.Response): Response to parse
             
         Returns:
             BeautifulSoup: Parsed HTML or None if response is None
@@ -261,19 +280,68 @@ class BaseScraper:
             return None
             
         try:
-            soup = BeautifulSoup(response.text, 'html.parser')
+            # Print response info for debugging
+            print(f"Response status: {response.status_code}, Content length: {len(response.content)} bytes")
+            print(f"Content encoding: {response.headers.get('Content-Encoding', 'none')}")
+            
+            # Get the content, handling any encoding
+            content = response.content
+            
+            # Manually decode if needed
+            if 'br' in response.headers.get('Content-Encoding', '').lower():
+                try:
+                    content = brotli.decompress(content)
+                    print("Successfully decompressed brotli content")
+                except Exception as e:
+                    print(f"Failed to decompress brotli content: {e}")
+                    # If brotli decompression fails, use the response.text which might already be decoded
+                    if hasattr(response, 'text') and response.text:
+                        print("Using response.text as fallback")
+                        content = response.text.encode('utf-8')
+            
+            # Use html5lib parser for better handling of malformed HTML
+            soup = BeautifulSoup(content, 'html5lib')
             
             # Check if we got a CloudFlare or similar challenge page
-            if soup.find(text=re.compile(r"(cloudflare|challenge|captcha|blocked|access denied)", re.I)):
-                print("Detected anti-bot challenge or access denied page.")
-                return None
+            challenge_indicators = [
+                "cloudflare", "challenge", "captcha", "blocked", "access denied",
+                "ddos", "protection", "javascript", "browser check", "security check"
+            ]
+            
+            page_text = soup.get_text().lower()
+            for indicator in challenge_indicators:
+                if indicator in page_text:
+                    print(f"Detected anti-bot indicator: '{indicator}'")
+                    # Don't return None immediately, try to proceed anyway
+            
+            # Check for the presence of the table we need
+            table = soup.find('table', class_='table-list') or soup.find('table', class_='table-list table table-responsive table-striped')
+            if table:
+                print("Found the expected table structure!")
+                return soup
+            else:
+                print("Could not find the expected table structure in the response.")
                 
-            # Check if we got an empty or very small page (likely blocked)
-            if len(response.text) < 1000:
-                print(f"Response too small ({len(response.text)} bytes), might be blocked.")
-                return None
+                # Try a more generic approach to find any table
+                tables = soup.find_all('table')
+                if tables:
+                    print(f"Found {len(tables)} tables with different classes:")
+                    for i, t in enumerate(tables):
+                        print(f"Table {i+1} class: {t.get('class', 'None')}")
+                    
+                    # Try the first table that might contain our data
+                    for t in tables:
+                        rows = t.find_all('tr')
+                        if len(rows) > 10:  # Assuming top-100 will have many rows
+                            print(f"Using table with {len(rows)} rows")
+                            return soup
                 
-            return soup
+                # Save a sample of the HTML for debugging
+                print("Sample of HTML content:")
+                print(str(soup)[:500])
+                
+                return soup  # Return the soup anyway, let the scraper handle it
+                
         except Exception as e:
             print(f"Error parsing response: {e}")
             return None
