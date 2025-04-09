@@ -84,9 +84,6 @@ def update_website():
     """
     Update the website files with the latest data
     """
-    # Copy the latest data files to the root data directory for GitHub Pages
-    os.makedirs("data", exist_ok=True)
-    
     # Copy all JSON files from data-summary to data directory
     data_dir = "data-summary"
     website_data_dir = "data"
