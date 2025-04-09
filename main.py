@@ -85,17 +85,22 @@ def update_website():
     """
     Update the website files with the latest data
     """
-    # Copy all JSON files from data-summary to data directory
-    data_dir = "data-summary"
-    website_data_dir = "data"
+    data_summary_dir = "data-summary"
+    data_dir = "data"  # Single data directory for both website and GitHub Actions
     
-    for filename in os.listdir(data_dir):
+    # Create the data directory if it doesn't exist
+    os.makedirs(data_dir, exist_ok=True)
+    
+    for filename in os.listdir(data_summary_dir):
         if filename.endswith(".json"):
-            source_path = os.path.join(data_dir, filename)
-            dest_path = os.path.join(website_data_dir, filename)
+            source_path = os.path.join(data_summary_dir, filename)
+            dest_path = os.path.join(data_dir, filename)
+            
+            # Copy to the data directory
             with open(source_path, 'r', encoding='utf-8') as source_file:
+                content = source_file.read()
                 with open(dest_path, 'w', encoding='utf-8') as dest_file:
-                    dest_file.write(source_file.read())
+                    dest_file.write(content)
     
     print("Website data files updated.")
 
