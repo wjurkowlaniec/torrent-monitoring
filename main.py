@@ -11,17 +11,7 @@ from datetime import datetime
 import subprocess
 from scrapers.games_scraper import GamesScraper
 from scrapers.movies_scraper import MoviesScraper
-from scrapers.archive_scraper import GamesArchiveScraper, MoviesArchiveScraper
 from data_manager import DataManager
-
-def is_github_actions():
-    """
-    Check if the script is running in GitHub Actions
-    
-    Returns:
-        bool: True if running in GitHub Actions, False otherwise
-    """
-    return os.environ.get('GITHUB_ACTIONS') == 'true'
 
 def scrape_data():
     """
@@ -30,57 +20,27 @@ def scrape_data():
     Returns:
         tuple: (games_data, games_grouped, movies_data, movies_grouped)
     """
-    # Determine if we're running in GitHub Actions
-    running_in_actions = is_github_actions()
-    source = "archive" if running_in_actions else "direct"
-    
     # Scrape games data
-    print(f"Starting to scrape top games from 1337x.to using {source} method...")
-    
-    if running_in_actions:
-        # Use archive scraper for GitHub Actions
-        games_scraper = GamesArchiveScraper()
-    else:
-        # Use direct scraper for local runs
-        games_scraper = GamesScraper()
-        
+    print("Starting to scrape top games from 1337x.to...")
+    games_scraper = GamesScraper()
     games_data = games_scraper.scrape()
     
     if games_data:
         print(f"Successfully scraped {len(games_data)} games.")
-        if not running_in_actions:
-            games_grouped = games_scraper.group_similar_items(games_data)
-        else:
-            # For archive scraper, we need to use the base scraper's grouping method
-            from scrapers.base_scraper import BaseScraper
-            base_scraper = BaseScraper("https://1337x.to", "games")
-            games_grouped = base_scraper.group_similar_items(games_data)
+        games_grouped = games_scraper.group_similar_items(games_data)
         print(f"Grouped into {len(games_grouped)} unique games.")
     else:
         games_grouped = []
         print("Failed to scrape games data.")
     
     # Scrape movies data
-    print(f"\nStarting to scrape top movies from 1337x.to using {source} method...")
-    
-    if running_in_actions:
-        # Use archive scraper for GitHub Actions
-        movies_scraper = MoviesArchiveScraper()
-    else:
-        # Use direct scraper for local runs
-        movies_scraper = MoviesScraper()
-        
+    print("\nStarting to scrape top movies from 1337x.to...")
+    movies_scraper = MoviesScraper()
     movies_data = movies_scraper.scrape()
     
     if movies_data:
         print(f"Successfully scraped {len(movies_data)} movies.")
-        if not running_in_actions:
-            movies_grouped = movies_scraper.group_similar_items(movies_data)
-        else:
-            # For archive scraper, we need to use the base scraper's grouping method
-            from scrapers.base_scraper import BaseScraper
-            base_scraper = BaseScraper("https://1337x.to", "movies")
-            movies_grouped = base_scraper.group_similar_items(movies_data)
+        movies_grouped = movies_scraper.group_similar_items(movies_data)
         print(f"Grouped into {len(movies_grouped)} unique movies.")
     else:
         movies_grouped = []
