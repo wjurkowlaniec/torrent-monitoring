@@ -11,14 +11,19 @@ from bs4 import BeautifulSoup
 import time
 import random
 import re
+import logging
 from difflib import SequenceMatcher
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 
 # Define user agents to rotate and avoid being blocked
 USER_AGENTS = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0'
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15'
 ]
 
 def get_random_user_agent():
@@ -148,13 +153,46 @@ class BaseScraper:
         """Get headers for HTTP requests"""
         return {
             'User-Agent': get_random_user_agent(),
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
-            'Cache-Control': 'max-age=0'
+            'Cache-Control': 'max-age=0',
+            'Sec-Ch-Ua': '"Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"',
+            'Sec-Ch-Ua-Mobile': '?0',
+            'Sec-Ch-Ua-Platform': '"Windows"',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1',
+            'Pragma': 'no-cache',
+            'Priority': 'u=0, i'
         }
     
+    def create_session(self):
+        """
+        Create a requests session with retry logic
+        
+        Returns:
+            requests.Session: Configured session object
+        """
+        session = requests.Session()
+        
+        # Configure retry strategy
+        retry_strategy = Retry(
+            total=3,  # Maximum number of retries
+            backoff_factor=1,  # Time factor between retries
+            status_forcelist=[429, 500, 502, 503, 504],  # Retry on these status codes
+            allowed_methods=["GET", "HEAD"]  # Only retry for these methods
+        )
+        
+        adapter = HTTPAdapter(max_retries=retry_strategy)
+        session.mount("http://", adapter)
+        session.mount("https://", adapter)
+        
+        return session
+
     def make_request(self, url):
         """
         Make an HTTP request to the specified URL
@@ -165,17 +203,36 @@ class BaseScraper:
         Returns:
             requests.Response: Response object
         """
-        # Add a delay to be respectful to the server
-        time.sleep(2)
+        # Add a random delay between 2-5 seconds to be respectful to the server
+        # and to appear more like a human user
+        delay = random.uniform(2, 5)
+        time.sleep(delay)
+        
+        # Create a session with retry logic
+        session = self.create_session()
         
         # Make the request
         try:
-            response = requests.get(url, headers=self.get_headers())
+            headers = self.get_headers()
+            response = session.get(url, headers=headers, timeout=10)
+            
+            # Check for Cloudflare or other protection
+            if response.status_code == 403:
+                print(f"Access forbidden (403) for {url}. The site may be using protection measures.")
+                print("Trying alternative approach...")
+                
+                # Wait longer and try again with a different user agent
+                time.sleep(random.uniform(5, 10))
+                headers['User-Agent'] = get_random_user_agent()
+                response = session.get(url, headers=headers, timeout=15)
+            
             response.raise_for_status()  # Raise an exception for HTTP errors
             return response
         except requests.RequestException as e:
             print(f"Error making request to {url}: {e}")
             return None
+        finally:
+            session.close()
     
     def parse_response(self, response):
         """
