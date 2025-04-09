@@ -6,16 +6,12 @@ This script scrapes top games and movies from 1337x.to and generates a dashboard
 """
 
 import os
-import sys
-import time
 import argparse
-import datetime
-import json
-import platform
+from datetime import datetime
+import subprocess
 from scrapers.games_scraper import GamesScraper
 from scrapers.movies_scraper import MoviesScraper
 from scrapers.archive_scraper import GamesArchiveScraper, MoviesArchiveScraper
-import data_manager
 from data_manager import DataManager
 
 def is_github_actions():
@@ -171,7 +167,7 @@ def main():
     args = parser.parse_args()
     
     # Run scrapers
-    games_data, games_grouped, movies_data, movies_grouped = run_scrapers()
+    games_data, games_grouped, movies_data, movies_grouped = scrape_data()
     
     # Save data
     save_data(games_data, games_grouped, movies_data, movies_grouped)
