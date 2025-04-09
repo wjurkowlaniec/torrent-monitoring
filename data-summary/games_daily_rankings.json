@@ -1,0 +1,186 @@
+{
+  "period": "daily",
+  "updated_at": "2025-04-09 16:07:44",
+  "rankings": [
+    {
+      "title": "Street Fighter 6",
+      "current_rank": 1,
+      "previous_rank": 14,
+      "rank_change": 13,
+      "seeders": 5483,
+      "leechers": 901,
+      "peers": 6384
+    },
+    {
+      "title": "Call of Duty: Modern Warfare III",
+      "current_rank": 2,
+      "previous_rank": 1,
+      "rank_change": -1,
+      "seeders": 5464,
+      "leechers": 661,
+      "peers": 6125
+    },
+    {
+      "title": "Assassin's Creed Mirage",
+      "current_rank": 3,
+      "previous_rank": 6,
+      "rank_change": 3,
+      "seeders": 5243,
+      "leechers": 835,
+      "peers": 6078
+    },
+    {
+      "title": "Resident Evil 4",
+      "current_rank": 4,
+      "previous_rank": 16,
+      "rank_change": 12,
+      "seeders": 4156,
+      "leechers": 1101,
+      "peers": 5257
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "current_rank": 5,
+      "previous_rank": 17,
+      "rank_change": 12,
+      "seeders": 4185,
+      "leechers": 877,
+      "peers": 5062
+    },
+    {
+      "title": "The Last of Us Part I",
+      "current_rank": 6,
+      "previous_rank": 20,
+      "rank_change": 14,
+      "seeders": 4550,
+      "leechers": 291,
+      "peers": 4841
+    },
+    {
+      "title": "Mortal Kombat 1",
+      "current_rank": 7,
+      "previous_rank": 2,
+      "rank_change": -5,
+      "seeders": 3951,
+      "leechers": 402,
+      "peers": 4353
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "current_rank": 8,
+      "previous_rank": 11,
+      "rank_change": 3,
+      "seeders": 3149,
+      "leechers": 1161,
+      "peers": 4310
+    },
+    {
+      "title": "Star Wars Jedi: Survivor",
+      "current_rank": 9,
+      "previous_rank": 10,
+      "rank_change": 1,
+      "seeders": 3072,
+      "leechers": 649,
+      "peers": 3721
+    },
+    {
+      "title": "The Witcher 3",
+      "current_rank": 10,
+      "previous_rank": 9,
+      "rank_change": -1,
+      "seeders": 2713,
+      "leechers": 982,
+      "peers": 3695
+    },
+    {
+      "title": "Alan Wake 2",
+      "current_rank": 11,
+      "previous_rank": 15,
+      "rank_change": 4,
+      "seeders": 2840,
+      "leechers": 848,
+      "peers": 3688
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "current_rank": 12,
+      "previous_rank": 5,
+      "rank_change": -7,
+      "seeders": 2625,
+      "leechers": 939,
+      "peers": 3564
+    },
+    {
+      "title": "Forza Horizon 5",
+      "current_rank": 13,
+      "previous_rank": 13,
+      "rank_change": 0,
+      "seeders": 2506,
+      "leechers": 937,
+      "peers": 3443
+    },
+    {
+      "title": "Lies of P",
+      "current_rank": 14,
+      "previous_rank": 3,
+      "rank_change": -11,
+      "seeders": 2258,
+      "leechers": 1115,
+      "peers": 3373
+    },
+    {
+      "title": "Dead Space",
+      "current_rank": 15,
+      "previous_rank": 4,
+      "rank_change": -11,
+      "seeders": 2070,
+      "leechers": 1031,
+      "peers": 3101
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "current_rank": 16,
+      "previous_rank": 7,
+      "rank_change": -9,
+      "seeders": 2521,
+      "leechers": 520,
+      "peers": 3041
+    },
+    {
+      "title": "Diablo IV",
+      "current_rank": 17,
+      "previous_rank": 12,
+      "rank_change": -5,
+      "seeders": 2316,
+      "leechers": 639,
+      "peers": 2955
+    },
+    {
+      "title": "Starfield",
+      "current_rank": 18,
+      "previous_rank": 8,
+      "rank_change": -10,
+      "seeders": 2175,
+      "leechers": 661,
+      "peers": 2836
+    },
+    {
+      "title": "Elden Ring",
+      "current_rank": 19,
+      "previous_rank": 19,
+      "rank_change": 0,
+      "seeders": 2542,
+      "leechers": 263,
+      "peers": 2805
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "current_rank": 20,
+      "previous_rank": 18,
+      "rank_change": -2,
+      "seeders": 1767,
+      "leechers": 363,
+      "peers": 2130
+    }
+  ]
+}

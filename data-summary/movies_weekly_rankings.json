@@ -1,0 +1,186 @@
+{
+  "period": "weekly",
+  "updated_at": "2025-04-09 16:07:44",
+  "rankings": [
+    {
+      "title": "Killers of the Flower Moon",
+      "current_rank": 1,
+      "previous_rank": 13,
+      "rank_change": 12,
+      "seeders": 5920,
+      "leechers": 1118,
+      "peers": 7038
+    },
+    {
+      "title": "Creed III",
+      "current_rank": 2,
+      "previous_rank": 16,
+      "rank_change": 14,
+      "seeders": 5744,
+      "leechers": 750,
+      "peers": 6494
+    },
+    {
+      "title": "The Batman",
+      "current_rank": 3,
+      "previous_rank": 19,
+      "rank_change": 16,
+      "seeders": 4428,
+      "leechers": 1297,
+      "peers": 5725
+    },
+    {
+      "title": "Poor Things",
+      "current_rank": 4,
+      "previous_rank": 14,
+      "rank_change": 10,
+      "seeders": 4545,
+      "leechers": 996,
+      "peers": 5541
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "current_rank": 5,
+      "previous_rank": 1,
+      "rank_change": -4,
+      "seeders": 4930,
+      "leechers": 583,
+      "peers": 5513
+    },
+    {
+      "title": "Barbie",
+      "current_rank": 6,
+      "previous_rank": 17,
+      "rank_change": 11,
+      "seeders": 4348,
+      "leechers": 921,
+      "peers": 5269
+    },
+    {
+      "title": "Transformers: Rise of the Beasts",
+      "current_rank": 7,
+      "previous_rank": 7,
+      "rank_change": 0,
+      "seeders": 4768,
+      "leechers": 415,
+      "peers": 5183
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 3",
+      "current_rank": 8,
+      "previous_rank": 15,
+      "rank_change": 7,
+      "seeders": 4772,
+      "leechers": 345,
+      "peers": 5117
+    },
+    {
+      "title": "Wonka",
+      "current_rank": 9,
+      "previous_rank": 10,
+      "rank_change": 1,
+      "seeders": 3760,
+      "leechers": 872,
+      "peers": 4632
+    },
+    {
+      "title": "The Super Mario Bros. Movie",
+      "current_rank": 10,
+      "previous_rank": 9,
+      "rank_change": -1,
+      "seeders": 3581,
+      "leechers": 1039,
+      "peers": 4620
+    },
+    {
+      "title": "The Marvels",
+      "current_rank": 11,
+      "previous_rank": 12,
+      "rank_change": 1,
+      "seeders": 3708,
+      "leechers": 874,
+      "peers": 4582
+    },
+    {
+      "title": "Oppenheimer",
+      "current_rank": 12,
+      "previous_rank": 4,
+      "rank_change": -8,
+      "seeders": 3556,
+      "leechers": 814,
+      "peers": 4370
+    },
+    {
+      "title": "Napoleon",
+      "current_rank": 13,
+      "previous_rank": 8,
+      "rank_change": -5,
+      "seeders": 2961,
+      "leechers": 998,
+      "peers": 3959
+    },
+    {
+      "title": "The Color Purple",
+      "current_rank": 14,
+      "previous_rank": 3,
+      "rank_change": -11,
+      "seeders": 3126,
+      "leechers": 780,
+      "peers": 3906
+    },
+    {
+      "title": "Aquaman and the Lost Kingdom",
+      "current_rank": 15,
+      "previous_rank": 2,
+      "rank_change": -13,
+      "seeders": 2364,
+      "leechers": 1150,
+      "peers": 3514
+    },
+    {
+      "title": "Dune: Part Two",
+      "current_rank": 16,
+      "previous_rank": 5,
+      "rank_change": -11,
+      "seeders": 2088,
+      "leechers": 1115,
+      "peers": 3203
+    },
+    {
+      "title": "John Wick: Chapter 4",
+      "current_rank": 17,
+      "previous_rank": 11,
+      "rank_change": -6,
+      "seeders": 1729,
+      "leechers": 1202,
+      "peers": 2931
+    },
+    {
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "current_rank": 18,
+      "previous_rank": 20,
+      "rank_change": 2,
+      "seeders": 2129,
+      "leechers": 797,
+      "peers": 2926
+    },
+    {
+      "title": "Mission: Impossible - Dead Reckoning",
+      "current_rank": 19,
+      "previous_rank": 18,
+      "rank_change": -1,
+      "seeders": 1700,
+      "leechers": 710,
+      "peers": 2410
+    },
+    {
+      "title": "Fast X",
+      "current_rank": 20,
+      "previous_rank": 6,
+      "rank_change": -14,
+      "seeders": 1458,
+      "leechers": 943,
+      "peers": 2401
+    }
+  ]
+}
