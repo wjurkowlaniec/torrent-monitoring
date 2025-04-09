@@ -114,7 +114,7 @@ def push_to_github():
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
         
         # Push to GitHub
-        subprocess.run(["git", "push", "origin", "main"], check=True)
+        subprocess.run(["git", "push", "origin", "master"], check=True)
         
         print("Successfully pushed updates to GitHub.")
     except subprocess.CalledProcessError as e:
