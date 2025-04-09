@@ -1,10 +1,10 @@
 # Torrent Monitoring Dashboard
 
-A web-based dashboard that displays rankings for top games and movies from torrent sources. This project scrapes data from 1337x.to, processes it, and displays real-time rankings and trends on a website.
+A web-based dashboard that displays rankings for top games and movies from torrent sources. This project scrapes data from 1337x.to, processes it, and displays real-time rankings and trends on a website hosted on GitHub Pages.
 
 ## Features
 
-- **Automated Data Collection**: Scrapes top games and movies from 1337x.to every 3 hours
+- **Automated Data Collection**: Scrapes top games and movies from 1337x.to every 3 hours using GitHub Actions
 - **Intelligent Title Grouping**: Groups similar titles using text similarity algorithms
 - **Ranking Visualization**: 
   - Daily (24h) and weekly (7d) ranking changes
@@ -13,7 +13,7 @@ A web-based dashboard that displays rankings for top games and movies from torre
 
 ## Project Structure
 
-```
+```bash
 torrent-monitoring/
 ├── scrapers/
 │   ├── base_scraper.py     # Base scraper functionality
@@ -28,9 +28,10 @@ torrent-monitoring/
 │   └── data/               # Generated data files for website
 ├── data-raw/               # Raw scraped data
 ├── data-summary/           # Processed summary data
+├── .github/
+│   └── workflows/          # GitHub Actions configuration
 ├── main.py                 # Main script to run scrapers and update data
 ├── data_manager.py         # Handles data saving and processing
-├── ecosystem.config.js     # PM2 configuration
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
@@ -40,25 +41,21 @@ torrent-monitoring/
 ### Prerequisites
 
 - Python 3.8+
-- Node.js and npm (for PM2)
 - Git (for GitHub integration)
 
 ### Installation
 
 1. Clone the repository:
-   ```
+
+   ```bash
    git clone https://github.com/yourusername/torrent-monitoring.git
    cd torrent-monitoring
    ```
 
 2. Install Python dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
 
-3. Install PM2 globally (for scheduled execution):
-   ```
-   npm install -g pm2
+   ```bash
+   pip install -r requirements.txt
    ```
 
 ### Running the Scraper
@@ -67,32 +64,28 @@ torrent-monitoring/
 
 To run the scraper manually:
 
-```
+```bash
 python main.py
 ```
 
-Add the `--no-push` flag to prevent pushing to GitHub:
+Add the `--push` flag to push changes to GitHub (only needed for local runs):
 
-```
-python main.py --no-push
-```
-
-#### Scheduled Execution with PM2
-
-To set up scheduled execution with PM2:
-
-```
-pm2 start ecosystem.config.js
-pm2 save
+```bash
+python main.py --push
 ```
 
-This will run the scraper every 3 hours as configured in `ecosystem.config.js`.
+#### Automated Execution with GitHub Actions
+
+The scraper is configured to run automatically every 3 hours using GitHub Actions. The workflow configuration is in `.github/workflows/scraper.yml`.
+
+You can also manually trigger the workflow from the Actions tab in your GitHub repository.
 
 ## Data Structure
 
 ### Raw Data
 
 Raw data is stored in CSV files with the following columns:
+
 - `title`: Original title from the torrent site
 - `clean_title`: Cleaned and normalized title
 - `seeders`: Number of seeders
@@ -103,6 +96,7 @@ Raw data is stored in CSV files with the following columns:
 ### Grouped Data
 
 Grouped data combines similar titles and includes:
+
 - `main_title`: Representative title for the group
 - `total_seeders`: Sum of seeders for all items in the group
 - `total_leechers`: Sum of leechers for all items in the group
@@ -111,6 +105,7 @@ Grouped data combines similar titles and includes:
 ### Summary Data
 
 Summary data is used to generate rankings and charts, including:
+
 - Daily rankings (24-hour changes)
 - Weekly rankings (7-day changes)
 - Chart data for visualizing trends

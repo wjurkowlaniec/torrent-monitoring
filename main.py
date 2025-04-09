@@ -84,12 +84,12 @@ def update_website():
     """
     Update the website files with the latest data
     """
-    # Copy the latest data files to the website directory
-    os.makedirs("website/data", exist_ok=True)
+    # Copy the latest data files to the root data directory for GitHub Pages
+    os.makedirs("data", exist_ok=True)
     
-    # Copy all JSON files from data-summary to website/data
+    # Copy all JSON files from data-summary to data directory
     data_dir = "data-summary"
-    website_data_dir = "website/data"
+    website_data_dir = "data"
     
     for filename in os.listdir(data_dir):
         if filename.endswith(".json"):
@@ -104,6 +104,8 @@ def update_website():
 def push_to_github():
     """
     Push the updated data and website to GitHub
+    Note: This function is kept for manual usage, but GitHub Actions
+    will handle the push automatically when running in the cloud.
     """
     try:
         # Add all files
@@ -123,7 +125,7 @@ def push_to_github():
 def main():
     """Main function"""
     parser = argparse.ArgumentParser(description="Torrent Monitoring Tool")
-    parser.add_argument("--no-push", action="store_true", help="Don't push to GitHub")
+    parser.add_argument("--push", action="store_true", help="Push to GitHub (only needed for local runs)")
     args = parser.parse_args()
     
     # Run scrapers
@@ -135,8 +137,9 @@ def main():
     # Update website
     update_website()
     
-    # Push to GitHub if not disabled
-    if not args.no_push:
+    # Push to GitHub only if explicitly requested (for local runs)
+    # GitHub Actions will handle this automatically
+    if args.push:
         push_to_github()
     
     print("Done!")
