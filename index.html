@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torrent Monitoring Dashboard</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Torrent Monitoring Dashboard</h1>
+            <p>Tracking top games and movies from 1337x.to</p>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul class="tabs">
+                <li><a href="#" class="tab active" data-tab="top-rankings">Top Rankings</a></li>
+                <li><a href="#" class="tab" data-tab="movies-chart">Movies Chart</a></li>
+                <li><a href="#" class="tab" data-tab="games-chart">Games Chart</a></li>
+                <li><a href="https://github.com/wjurkowlaniec/torrent-monitoring" target="_blank" class="tab">GitHub <i class="fab fa-github"></i></a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Top Rankings Tab -->
+        <section id="top-rankings" class="tab-content active">
+            <div class="rankings-container">
+                <div class="ranking-section">
+                    <h2>Top 20 Movies</h2>
+                    <div class="period-selector">
+                        <button class="period-btn active" data-period="daily" data-category="movies">24h Changes</button>
+                        <button class="period-btn" data-period="weekly" data-category="movies">7d Changes</button>
+                    </div>
+                    <div class="table-container">
+                        <table id="movies-table" class="rankings-table">
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Title</th>
+                                    <th>Change</th>
+                                    <th>Seeders</th>
+                                    <th>Peers</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Movies data will be loaded here -->
+                                <tr><td colspan="5" class="loading">Loading data...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="ranking-section">
+                    <h2>Top 20 Games</h2>
+                    <div class="period-selector">
+                        <button class="period-btn active" data-period="daily" data-category="games">24h Changes</button>
+                        <button class="period-btn" data-period="weekly" data-category="games">7d Changes</button>
+                    </div>
+                    <div class="table-container">
+                        <table id="games-table" class="rankings-table">
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Title</th>
+                                    <th>Change</th>
+                                    <th>Seeders</th>
+                                    <th>Peers</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Games data will be loaded here -->
+                                <tr><td colspan="5" class="loading">Loading data...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="last-updated">
+                Last updated: <span id="last-updated-time">Loading...</span>
+            </div>
+        </section>
+
+        <!-- Movies Chart Tab -->
+        <section id="movies-chart" class="tab-content">
+            <h2>Top Movies Trends</h2>
+            <div class="chart-controls">
+                <div class="legend-container" id="movies-legend">
+                    <!-- Legend items will be added here -->
+                </div>
+            </div>
+            <div class="chart-container">
+                <canvas id="moviesChart"></canvas>
+            </div>
+            <div class="chart-info">
+                <p>This chart shows the number of peers (seeders + leechers) for the top 20 movies over time.</p>
+                <p>Click on the legend items to show/hide specific movies on the chart.</p>
+            </div>
+        </section>
+
+        <!-- Games Chart Tab -->
+        <section id="games-chart" class="tab-content">
+            <h2>Top Games Trends</h2>
+            <div class="chart-controls">
+                <div class="legend-container" id="games-legend">
+                    <!-- Legend items will be added here -->
+                </div>
+            </div>
+            <div class="chart-container">
+                <canvas id="gamesChart"></canvas>
+            </div>
+            <div class="chart-info">
+                <p>This chart shows the number of peers (seeders + leechers) for the top 20 games over time.</p>
+                <p>Click on the legend items to show/hide specific games on the chart.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Torrent Monitoring Dashboard. For educational purposes only.</p>
+            <p>Data sourced from <a href="https://1337x.to" target="_blank">1337x.to</a></p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
