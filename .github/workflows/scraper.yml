@@ -5,6 +5,9 @@ on:
     - cron: '0 */3 * * *'  # Run every 3 hours
   workflow_dispatch:  # Allow manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: self-hosted
@@ -39,7 +42,9 @@ jobs:
         if [[ -n $(git status --porcelain) ]]; then
           git add .
           git commit -m "Update data and website - $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
         else
           echo "No changes to commit"
         fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
