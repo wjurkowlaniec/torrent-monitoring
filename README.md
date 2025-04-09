@@ -4,6 +4,8 @@ A web-based dashboard that displays rankings for top games and movies from torre
 
 It's "Github self-hosted" - it scrapes data through Github Actions and serves on [github.io/torrent-monitoring](https://wjurkowlaniec.github.io/torrent-monitoring/)
 
+Created using Codeium and Claude 3.7 in 1h start-to-finish
+
 ## Features
 
 - **Automated Data Collection**: Scrapes top games and movies from 1337x.to every 3 hours using GitHub Actions
