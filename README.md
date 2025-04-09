@@ -1,6 +1,8 @@
 # Torrent Monitoring Dashboard
 
-A web-based dashboard that displays rankings for top games and movies from torrent sources. This project scrapes data from 1337x.to, processes it, and displays real-time rankings and trends on a website hosted on GitHub Pages.
+A web-based dashboard that displays rankings for top games and movies from torrent sources. This project scrapes data from 1337x.to, processes it, and displays real-time rankings and trends.
+
+It's "Github self-hosted" - it scrapes data through Github Actions and serves on [github.io/torrent-monitoring](https://wjurkowlaniec.github.io/torrent-monitoring/)
 
 ## Features
 
