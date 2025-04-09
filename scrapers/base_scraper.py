@@ -11,7 +11,6 @@ from bs4 import BeautifulSoup
 import time
 import random
 import re
-import logging
 from difflib import SequenceMatcher
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
@@ -150,25 +149,32 @@ class BaseScraper:
         self.category = category
         
     def get_headers(self):
-        """Get headers for HTTP requests"""
-        return {
-            'User-Agent': get_random_user_agent(),
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-            'Accept-Language': 'en-US,en;q=0.9',
-            'Accept-Encoding': 'gzip, deflate, br',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
-            'Cache-Control': 'max-age=0',
-            'Sec-Ch-Ua': '"Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"',
-            'Sec-Ch-Ua-Mobile': '?0',
-            'Sec-Ch-Ua-Platform': '"Windows"',
-            'Sec-Fetch-Dest': 'document',
-            'Sec-Fetch-Mode': 'navigate',
-            'Sec-Fetch-Site': 'none',
-            'Sec-Fetch-User': '?1',
-            'Pragma': 'no-cache',
-            'Priority': 'u=0, i'
+        """
+        Get random user agent headers with additional browser-like headers
+        
+        Returns:
+            dict: Headers for HTTP request
+        """
+        user_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 11.5; rv:90.0) Gecko/20100101 Firefox/90.0",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15"
+        ]
+        
+        headers = {
+            "User-Agent": random.choice(user_agents),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Cache-Control": "max-age=0",
+            "TE": "Trailers",
+            "DNT": "1"
         }
+        
+        return headers
     
     def create_session(self):
         """
@@ -195,59 +201,82 @@ class BaseScraper:
 
     def make_request(self, url):
         """
-        Make an HTTP request to the specified URL
+        Make a request to the specified URL with retry logic
         
         Args:
             url (str): URL to request
             
         Returns:
-            requests.Response: Response object
+            requests.Response: Response object or None if all retries failed
         """
-        # Add a random delay between 2-5 seconds to be respectful to the server
-        # and to appear more like a human user
-        delay = random.uniform(2, 5)
-        time.sleep(delay)
+        max_retries = 3
+        retry_delay = 2
         
-        # Create a session with retry logic
-        session = self.create_session()
-        
-        # Make the request
-        try:
-            headers = self.get_headers()
-            response = session.get(url, headers=headers, timeout=10)
-            
-            # Check for Cloudflare or other protection
-            if response.status_code == 403:
-                print(f"Access forbidden (403) for {url}. The site may be using protection measures.")
-                print("Trying alternative approach...")
+        for attempt in range(max_retries):
+            try:
+                # Add a delay to be respectful to the server (increase with each retry)
+                time.sleep(retry_delay * (attempt + 1))
                 
-                # Wait longer and try again with a different user agent
-                time.sleep(random.uniform(5, 10))
-                headers['User-Agent'] = get_random_user_agent()
-                response = session.get(url, headers=headers, timeout=15)
-            
-            response.raise_for_status()  # Raise an exception for HTTP errors
-            return response
-        except requests.RequestException as e:
-            print(f"Error making request to {url}: {e}")
-            return None
-        finally:
-            session.close()
+                # Create a session to maintain cookies
+                session = requests.Session()
+                
+                # Make the request
+                response = session.get(url, headers=self.get_headers(), timeout=15)
+                
+                # Check for common error codes
+                if response.status_code == 403:
+                    print(f"Access forbidden (403). Retrying with different headers... (Attempt {attempt+1}/{max_retries})")
+                    continue
+                elif response.status_code == 429:
+                    print(f"Rate limited (429). Waiting longer before retry... (Attempt {attempt+1}/{max_retries})")
+                    time.sleep(10)  # Wait longer for rate limit
+                    continue
+                
+                # Raise an exception for other HTTP errors
+                response.raise_for_status()
+                
+                return response
+                
+            except requests.exceptions.RequestException as e:
+                print(f"Request error on attempt {attempt+1}/{max_retries}: {e}")
+                if attempt < max_retries - 1:
+                    print(f"Retrying in {retry_delay * (attempt + 2)} seconds...")
+                else:
+                    print("All retry attempts failed.")
+                    return None
+        
+        return None
     
     def parse_response(self, response):
         """
-        Parse the HTTP response
+        Parse the response into BeautifulSoup
         
         Args:
-            response (requests.Response): Response object
+            response (requests.Response): Response to parse
             
         Returns:
-            BeautifulSoup: Parsed HTML
+            BeautifulSoup: Parsed HTML or None if response is None
         """
-        if not response:
+        if response is None:
             return None
-        
-        return BeautifulSoup(response.text, 'html.parser')
+            
+        try:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Check if we got a CloudFlare or similar challenge page
+            if soup.find(text=re.compile(r"(cloudflare|challenge|captcha|blocked|access denied)", re.I)):
+                print("Detected anti-bot challenge or access denied page.")
+                return None
+                
+            # Check if we got an empty or very small page (likely blocked)
+            if len(response.text) < 1000:
+                print(f"Response too small ({len(response.text)} bytes), might be blocked.")
+                return None
+                
+            return soup
+        except Exception as e:
+            print(f"Error parsing response: {e}")
+            return None
     
     def group_similar_items(self, items_data, similarity_threshold=0.6):
         """

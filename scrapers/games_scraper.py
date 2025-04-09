@@ -30,7 +30,7 @@ class GamesScraper(BaseScraper):
             return []
         
         # Find the table containing the game list
-        table = soup.find('table', class_='table-list')
+        table = soup.find('table', class_='table-list') or soup.find('table', class_='table-list table table-responsive table-striped')
         if not table:
             print("Could not find the table with games. The website structure might have changed.")
             return []
