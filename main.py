@@ -5,7 +5,6 @@ Torrent Monitoring Dashboard
 This script scrapes top games and movies from 1337x.to and generates a dashboard.
 """
 
-import os
 import argparse
 from datetime import datetime
 import subprocess
@@ -81,29 +80,6 @@ def save_data(games_data, games_grouped, movies_data, movies_grouped):
     # Generate chart data
     data_manager.generate_chart_data()
 
-def update_website():
-    """
-    Update the website files with the latest data
-    """
-    data_summary_dir = "data-summary"
-    data_dir = "data"  # Single data directory for both website and GitHub Actions
-    
-    # Create the data directory if it doesn't exist
-    os.makedirs(data_dir, exist_ok=True)
-    
-    for filename in os.listdir(data_summary_dir):
-        if filename.endswith(".json"):
-            source_path = os.path.join(data_summary_dir, filename)
-            dest_path = os.path.join(data_dir, filename)
-            
-            # Copy to the data directory
-            with open(source_path, 'r', encoding='utf-8') as source_file:
-                content = source_file.read()
-                with open(dest_path, 'w', encoding='utf-8') as dest_file:
-                    dest_file.write(content)
-    
-    print("Website data files updated.")
-
 def push_to_github():
     """
     Push the updated data and website to GitHub
@@ -137,9 +113,7 @@ def main():
     # Save data
     save_data(games_data, games_grouped, movies_data, movies_grouped)
     
-    # Update website
-    update_website()
-    
+
     # Push to GitHub only if explicitly requested (for local runs)
     # GitHub Actions will handle this automatically
     if args.push:

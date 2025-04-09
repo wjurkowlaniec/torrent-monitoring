@@ -8,6 +8,11 @@ This module handles saving, loading, and processing scraped data.
 import os
 import csv
 import json
+# Make sure pandas errors are accessible
+try:
+    from pandas.errors import ParserError
+except ImportError: # Older pandas versions might not have this specific error separated
+    ParserError = ValueError
 from datetime import datetime
 import pandas as pd
 
@@ -108,8 +113,8 @@ class DataManager:
         Returns:
             str: Path to the saved summary file
         """
-        # Current timestamp
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        # Current timestamp in ISO 8601 format
+        timestamp_iso = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
         current_date = datetime.now().strftime("%Y-%m-%d")
         
         # Create summary data for the current scrape
@@ -122,34 +127,34 @@ class DataManager:
                 'peers': group['total_peers'],
                 'category': category,
                 'date': current_date,
-                'timestamp': timestamp
+                'timestamp': timestamp_iso,
             })
         
-        # Load existing summary data if available
+        # Convert the list of new summary data points to a DataFrame
+        new_df = pd.DataFrame(current_summary)
+
+        # Append new data to summary file
         summary_file = os.path.join(self.summary_data_dir, "summary_data.csv")
-        
-        if os.path.exists(summary_file):
-            # Read existing data
-            existing_data = pd.read_csv(summary_file)
-            
-            # Convert current summary to DataFrame
-            current_df = pd.DataFrame(current_summary)
-            
-            # Append new data
-            combined_df = pd.concat([existing_data, current_df], ignore_index=True)
-        else:
-            # Create new DataFrame if no existing data
-            combined_df = pd.DataFrame(current_summary)
-        
-        # Save updated summary data
-        combined_df.to_csv(summary_file, index=False)
+        file_exists = os.path.exists(summary_file)
+        new_df.to_csv(
+            summary_file, 
+            mode='a', 
+            header=not file_exists, # Write header only if file doesn't exist
+            index=False, 
+            encoding='utf-8'
+            # No date_format needed as we write ISO strings
+        )
         print(f"Summary data updated at {summary_file}")
-        
-        # Generate daily rankings
-        self._generate_daily_rankings(combined_df)
-        
-        # Generate weekly rankings
-        self._generate_weekly_rankings(combined_df)
+
+        # Load the *complete* updated data for ranking generation
+        try:
+            full_summary_df = pd.read_csv(summary_file)
+            # Generate daily rankings
+            self._generate_daily_rankings(full_summary_df)
+            # Generate weekly rankings
+            self._generate_weekly_rankings(full_summary_df)
+        except Exception as e:
+            print(f"Error reading full summary file {summary_file} after update for ranking generation: {e}")
         
         return summary_file
     
@@ -261,17 +266,16 @@ class DataManager:
                 'leechers': row['leechers'],
                 'peers': row['peers']
             })
-        
-        # Save to JSON
-        output_path = os.path.join(self.summary_data_dir, output_filename)
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump({
-                'period': period,
-                'updated_at': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                'rankings': rankings
-            }, f, indent=2)
-        
-        print(f"{period.capitalize()} rankings saved to {output_path}")
+            # Save to JSON
+            output_path = os.path.join(self.summary_data_dir, output_filename)
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump({
+                    'period': period,
+                    'updated_at': datetime.now().strftime('%Y-%m-%dT%H:%M:%S'), # ISO Format
+                    'rankings': rankings
+                }, f, indent=2)
+            
+            print(f"{period.capitalize()} rankings saved to {output_path}")
     
     def generate_chart_data(self):
         """
@@ -281,45 +285,88 @@ class DataManager:
         """
         # Load summary data
         summary_file = os.path.join(self.summary_data_dir, "summary_data.csv")
-        
-        if not os.path.exists(summary_file):
-            print("No summary data available for generating charts")
+        df = None # Initialize df to handle case where file reading fails completely
+
+        try:
+            # Read CSV without initial date parsing
+            df = pd.read_csv(summary_file)
+
+            # Explicitly convert ISO string timestamp column to datetime, coercing errors to NaT
+            # Attempt parsing ISO 8601 format; this is often default but specifying can help
+            df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce', format='ISO8601')
+
+            # Check for NaT values (from read or explicit conversion) and drop them
+            initial_rows = len(df)
+            df.dropna(subset=['timestamp'], inplace=True) # Drops rows where parsing failed (NaT)
+            dropped_rows = initial_rows - len(df)
+            if dropped_rows > 0:
+                 print(f"Warning: Dropped {dropped_rows} rows from {summary_file} due to invalid/unparseable timestamps during read.")
+
+        except FileNotFoundError: # Use specific exception
+             print(f"Error: Summary file {summary_file} not found. Skipping chart generation.")
+             return
+        except (ValueError, TypeError, ParserError) as e:
+            print(f"Warning: Error reading {summary_file}: {e}. Attempting to delete corrupted file and skipping chart generation.")
+            try:
+                # Check if file exists before attempting removal
+                if os.path.exists(summary_file):
+                    os.remove(summary_file)
+                    print(f"Successfully deleted potentially corrupted {summary_file}")
+                else:
+                    print(f"File {summary_file} not found, cannot delete.")
+            except OSError as remove_error:
+                print(f"Error deleting file {summary_file}: {remove_error}")
+            return # Exit the function since we can't generate charts
+        except Exception as e: # Catch other potential errors during read/initial processing
+            print(f"An unexpected error occurred while processing {summary_file}: {e}. Skipping chart generation.")
             return
-        
-        df = pd.read_csv(summary_file)
-        
+
+        # Check if df is None (file not found or other major error) or empty after processing
+        if df is None or df.empty:
+             print(f"Warning: No valid timestamp data loaded from {summary_file}. Skipping chart generation.")
+             return
+
         # Generate chart data for each category
         for category in ['games', 'movies']:
             category_data = df[df['category'] == category]
             
-            # Group by date and title, and calculate the max peers for each day
-            # This handles multiple scrapes per day by taking the maximum value
-            daily_data = category_data.groupby(['date', 'title'])['peers'].max().reset_index()
-            
-            # Pivot to get titles as columns and dates as rows
-            pivot_data = daily_data.pivot(index='date', columns='title', values='peers')
+            # Use pivot_table to handle potential duplicate timestamps for a title
+            # We use 'timestamp' directly for the index to preserve time information
+            pivot_data = pd.pivot_table(category_data, values='peers', index='timestamp', columns='title', aggfunc='max')
             
             # Fill NaN values with 0
             pivot_data = pivot_data.fillna(0)
-            
+
             # Sort columns by the most recent values
             if not pivot_data.empty:
-                most_recent_date = pivot_data.index[-1]
-                sorted_columns = pivot_data.loc[most_recent_date].sort_values(ascending=False).index
-                pivot_data = pivot_data[sorted_columns]
-            
+                most_recent_timestamp = pivot_data.index[-1]
+                try:
+                    # Ensure the timestamp exists in the index before accessing
+                    if most_recent_timestamp in pivot_data.index:
+                        sorted_columns = pivot_data.loc[most_recent_timestamp].sort_values(ascending=False).index
+                        pivot_data = pivot_data[sorted_columns]
+                    else:
+                        print(f"Warning: Most recent timestamp {most_recent_timestamp} not found in pivot_data index for sorting.")
+                except KeyError:
+                     print(f"Warning: KeyError accessing {most_recent_timestamp} for sorting columns.")
+
             # Keep only top 20 titles
             pivot_data = pivot_data.iloc[:, :20]
-            
+
             # Convert to the format needed for charts
+            # Convert datetime index to ISO format strings
+            iso_dates = [ts.strftime('%Y-%m-%dT%H:%M:%S') for ts in pivot_data.index] # Apply strftime to each timestamp
+
             chart_data = {
-                'dates': pivot_data.index.tolist(),
+                'updated_at': datetime.now().strftime('%Y-%m-%dT%H:%M:%S'), # ISO Format
+                'dates': iso_dates, # Use ISO formatted timestamps
                 'titles': pivot_data.columns.tolist(),
                 'data': pivot_data.values.tolist()
             }
             
-            # Save to JSON
+            # Define output path
             output_path = os.path.join(self.summary_data_dir, f"{category}_chart_data.json")
+
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(chart_data, f, indent=2)
             

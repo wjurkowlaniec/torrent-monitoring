@@ -323,72 +323,66 @@ function setupPeriodButtons() {
  */
 
 
-function loadRankingsData(category, period) {
-
-
+function loadRankingsData(category, period) { // Note: 'period' argument is no longer used for URL
     const tableBody = category === 'movies' ? moviesTable : gamesTable;
 
-
-    
-
-
     // Show loading indicator
+    tableBody.innerHTML = '<tr><td colspan="5" class="loading">Loading latest data...</td></tr>';
 
+    // Fetch the chart data (contains latest info)
+    const url = `data-summary/${category}_chart_data.json`;
 
-    tableBody.innerHTML = '<tr><td colspan="5" class="loading">Loading data...</td></tr>';
-
-
-    
-
-
-    // Fetch the data
-
-
-    fetch(`data/${category}_${period}_rankings.json`)
-
-
+    fetch(url)
         .then(response => {
-
-
             if (!response.ok) {
-
-
-                throw new Error('Network response was not ok');
-
-
+                // Handle network errors (including 404 for chart data, which shouldn't happen normally)
+                throw new Error(`Failed to fetch chart data (${url}): ${response.status} ${response.statusText}`);
             }
-
-
-            return response.json();
-
-
+            return response.json(); // Proceed to parse JSON
         })
-
-
         .then(data => {
+            if (data && data.titles && data.data && data.data.length > 0) {
+                // Extract the latest data point (last row in the data array)
+                const latestDataRow = data.data[data.data.length - 1];
 
+                // Construct rankings array from titles and latest data row
+                const rankings = data.titles.map((title, index) => ({
+                    title: title,
+                    peers: latestDataRow[index] !== null && latestDataRow[index] !== undefined ? latestDataRow[index] : 0, // Get peers from the last row, default to 0 if null/undefined
+                    seeders: 'N/A', // Chart data doesn't store separate seeders/leechers
+                    leechers: 'N/A',
+                    change: 'N/A'   // Chart data doesn't store change info
+                }));
 
-            displayRankings(tableBody, data.rankings);
+                // Sort by peers descending
+                rankings.sort((a, b) => b.peers - a.peers);
 
+                displayRankings(tableBody, rankings);
+                updateLastUpdatedTime(data.updated_at); // Update time using chart data timestamp
 
-            updateLastUpdatedTime(data.updated_at);
-
-
+            } else {
+                // Handle cases where chart data is empty or malformed
+                console.warn(`No valid chart data found in ${url}`);
+                tableBody.innerHTML = '<tr><td colspan="5" class="loading">Latest data not available or file is empty.</td></tr>';
+                // Attempt to update timestamp even if data is bad, might still be in file
+                if (data && data.updated_at) {
+                    updateLastUpdatedTime(data.updated_at);
+                } else {
+                     // If absolutely no data, try fetching the other category's chart data just for the timestamp
+                    const otherCategory = category === 'movies' ? 'games' : 'movies';
+                    fetch(`data-summary/${otherCategory}_chart_data.json`)
+                        .then(res => res.ok ? res.json() : null)
+                        .then(otherData => {
+                            if (otherData && otherData.updated_at) updateLastUpdatedTime(otherData.updated_at);
+                        })
+                        .catch(() => { /* Ignore errors fetching secondary timestamp */ });
+                }
+            }
         })
-
-
         .catch(error => {
-
-
-            console.error('Error fetching rankings data:', error);
-
-
-            tableBody.innerHTML = '<tr><td colspan="5" class="loading">Failed to load data. Please try again later.</td></tr>';
-
-
+            console.error(`Error fetching or processing ${category} chart data from ${url}:`, error);
+            tableBody.innerHTML = '<tr><td colspan="5" class="loading">Error loading latest data. Check console.</td></tr>';
         });
-
-
 }
 
 
@@ -425,7 +419,7 @@ function displayRankings(tableBody, rankings) {
     // Add rows for each ranking
 
 
-    rankings.forEach(item => {
+    rankings.forEach((item, index) => {
 
 
         const row = document.createElement('tr');
@@ -440,7 +434,7 @@ function displayRankings(tableBody, rankings) {
         const rankCell = document.createElement('td');
 
 
-        rankCell.textContent = item.current_rank;
+        rankCell.textContent = index + 1; // Use loop index for rank
 
 
         row.appendChild(rankCell);
@@ -479,39 +473,20 @@ function displayRankings(tableBody, rankings) {
         
 
 
-        if (item.rank_change === 'new') {
-
-
+        if (item.rank_change === 'N/A') {
+            // Handle the N/A case from chart data
+            changeSpan.textContent = 'N/A';
+        } else if (item.rank_change === 'new') {
             changeSpan.classList.add('new');
-
-
             changeSpan.innerHTML = '<i class="fas fa-star"></i> New';
-
-
         } else if (item.rank_change > 0) {
-
-
             changeSpan.classList.add('up');
-
-
             changeSpan.innerHTML = `<i class="fas fa-arrow-up"></i> ${item.rank_change}`;
-
-
         } else if (item.rank_change < 0) {
-
-
             changeSpan.classList.add('down');
-
-
             changeSpan.innerHTML = `<i class="fas fa-arrow-down"></i> ${Math.abs(item.rank_change)}`;
-
-
-        } else {
-
-
+        } else { // rank_change is likely 0 or undefined/null
             changeSpan.innerHTML = '<i class="fas fa-minus"></i> 0';
-
-
         }
 
 
@@ -584,7 +559,7 @@ function initCharts() {
     // Load chart data for movies
 
 
-    fetch('data/movies_chart_data.json')
+    fetch('data-summary/movies_chart_data.json')
 
 
         .then(response => {
@@ -635,7 +610,7 @@ function initCharts() {
     // Load chart data for games
 
 
-    fetch('data/games_chart_data.json')
+    fetch('data-summary/games_chart_data.json')
 
 
         .then(response => {
@@ -716,6 +691,27 @@ function createChart(chartId, data, legendId) {
     
 
 
+    // Parse dates and prepare datasets
+    const parsedDates = data.dates.map(dateStr => new Date(dateStr));
+
+    // Determine the time range for the x-axis
+    let minDate = null;
+    let maxDate = null;
+    if (parsedDates.length > 0) {
+        parsedDates.sort((a, b) => a - b); // Sort dates chronologically
+        maxDate = parsedDates[parsedDates.length - 1];
+        minDate = parsedDates[0];
+        
+        // Calculate the date 7 days before the max date
+        const sevenDaysAgo = new Date(maxDate);
+        sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+
+        // Ensure the min date is not earlier than 7 days ago
+        if (minDate < sevenDaysAgo) {
+            minDate = sevenDaysAgo;
+        }
+    } 
+
     // Prepare datasets
 
 
@@ -773,7 +769,7 @@ function createChart(chartId, data, legendId) {
         data: {
 
 
-            labels: data.dates,
+            labels: parsedDates, // Use parsed dates for labels
 
 
             datasets: datasets
@@ -822,26 +818,34 @@ function createChart(chartId, data, legendId) {
 
 
                 x: {
-
-
+                    type: 'time',
+                    time: {
+                        unit: 'hour', // Adjust based on data density if needed
+                        tooltipFormat: 'PPp', // Format for tooltips (e.g., Apr 9, 2025, 6:14:04 PM)
+                        displayFormats: {
+                            hour: 'MMM d, HH:mm', // Format for labels on the axis
+                            day: 'MMM d'
+                        }
+                    },
+                    min: minDate ? minDate.toISOString() : undefined,
+                    max: maxDate ? maxDate.toISOString() : undefined,
                     grid: {
-
-
                         display: false
-
-
+                    },
+                    ticks: {
+                        autoSkip: true,
+                        maxTicksLimit: 10 // Adjust for desired density
+                    },
+                    title: {
+                        display: true,
+                        text: 'Time'
                     }
-
-
                 },
 
 
                 y: {
-
-
-                    beginAtZero: true,
-
-
+                    type: 'logarithmic',
+                    // beginAtZero is ignored/invalid for logarithmic scale
                     grid: {
 
 
@@ -861,20 +865,14 @@ function createChart(chartId, data, legendId) {
 
 
                         }
-
-
+                    },
+                    title: {
+                        display: true,
+                        text: 'Peers'
                     }
-
-
                 }
-
-
             }
-
-
         }
-
-
     });
 
 
@@ -1058,7 +1056,13 @@ function updateLastUpdatedTime(timestamp) {
     if (timestamp) {
 
 
-        lastUpdatedTime.textContent = timestamp;
+        try {
+            const date = new Date(timestamp);
+            lastUpdatedTime.textContent = date.toLocaleString();
+        } catch (e) {
+            lastUpdatedTime.textContent = 'Invalid Date';
+            console.error('Error parsing provided timestamp:', timestamp, e);
+        }
 
 
     } else {
@@ -1067,7 +1071,7 @@ function updateLastUpdatedTime(timestamp) {
         // Try to get the timestamp from one of the data files
 
 
-        fetch('data/movies_daily_rankings.json')
+        fetch('data-summary/movies_chart_data.json') // Use chart data as a reliable source for update time
 
 
             .then(response => response.json())
@@ -1076,7 +1080,17 @@ function updateLastUpdatedTime(timestamp) {
             .then(data => {
 
 
-                lastUpdatedTime.textContent = data.updated_at || 'Unknown';
+                if (data.updated_at) {
+                    try {
+                        const date = new Date(data.updated_at);
+                        lastUpdatedTime.textContent = date.toLocaleString();
+                    } catch (e) {
+                        lastUpdatedTime.textContent = 'Invalid Date';
+                        console.error('Error parsing fetched updated_at:', data.updated_at, e);
+                    }
+                } else {
+                    lastUpdatedTime.textContent = 'Unknown';
+                }
 
 
             })
