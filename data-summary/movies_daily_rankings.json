@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-10T20:07:09",
+  "updated_at": "2025-04-10T23:05:19",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -48,13 +48,13 @@
       "peers": 18471
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Mickey 17",
       "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3055,
-      "leechers": 7098,
-      "peers": 10153
+      "seeders": 9607,
+      "leechers": 8864,
+      "peers": 18471
     },
     {
       "title": "A Minecraft Movie",
@@ -93,22 +93,22 @@
       "peers": 10153
     },
     {
-      "title": "Black Bag",
+      "title": "A Minecraft Movie",
       "current_rank": 11,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 4730,
-      "leechers": 4266,
-      "peers": 8996
+      "seeders": 3055,
+      "leechers": 7098,
+      "peers": 10153
     },
     {
-      "title": "Black Bag",
+      "title": "A Minecraft Movie",
       "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 4730,
-      "leechers": 4266,
-      "peers": 8996
+      "seeders": 3055,
+      "leechers": 7098,
+      "peers": 10153
     },
     {
       "title": "Black Bag",
@@ -138,31 +138,31 @@
       "peers": 8996
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3189,
-      "leechers": 2723,
-      "peers": 5912
+      "seeders": 4730,
+      "leechers": 4266,
+      "peers": 8996
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 17,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3189,
-      "leechers": 2723,
-      "peers": 5912
+      "seeders": 4730,
+      "leechers": 4266,
+      "peers": 8996
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3189,
-      "leechers": 2723,
-      "peers": 5912
+      "seeders": 4730,
+      "leechers": 4266,
+      "peers": 8996
     },
     {
       "title": "Novocaine",
