@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-10T17:06:19",
+  "updated_at": "2025-04-10T20:07:09",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -39,13 +39,13 @@
       "peers": 18471
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Mickey 17",
       "current_rank": 5,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3055,
-      "leechers": 7098,
-      "peers": 10153
+      "seeders": 9607,
+      "leechers": 8864,
+      "peers": 18471
     },
     {
       "title": "A Minecraft Movie",
@@ -75,22 +75,22 @@
       "peers": 10153
     },
     {
-      "title": "Black Bag",
+      "title": "A Minecraft Movie",
       "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 4730,
-      "leechers": 4266,
-      "peers": 8996
+      "seeders": 3055,
+      "leechers": 7098,
+      "peers": 10153
     },
     {
-      "title": "Black Bag",
+      "title": "A Minecraft Movie",
       "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 4730,
-      "leechers": 4266,
-      "peers": 8996
+      "seeders": 3055,
+      "leechers": 7098,
+      "peers": 10153
     },
     {
       "title": "Black Bag",
@@ -111,31 +111,31 @@
       "peers": 8996
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3189,
-      "leechers": 2723,
-      "peers": 5912
+      "seeders": 4730,
+      "leechers": 4266,
+      "peers": 8996
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3189,
-      "leechers": 2723,
-      "peers": 5912
+      "seeders": 4730,
+      "leechers": 4266,
+      "peers": 8996
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3189,
-      "leechers": 2723,
-      "peers": 5912
+      "seeders": 4730,
+      "leechers": 4266,
+      "peers": 8996
     },
     {
       "title": "Novocaine",
@@ -147,40 +147,40 @@
       "peers": 5912
     },
     {
-      "title": "A Working Man",
+      "title": "Novocaine",
       "current_rank": 17,
-      "previous_rank": 15,
-      "rank_change": -2,
-      "seeders": 2330,
-      "leechers": 2817,
-      "peers": 5147
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3189,
+      "leechers": 2723,
+      "peers": 5912
     },
     {
-      "title": "A Working Man",
+      "title": "Novocaine",
       "current_rank": 18,
-      "previous_rank": 15,
-      "rank_change": -3,
-      "seeders": 2330,
-      "leechers": 2817,
-      "peers": 5147
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3189,
+      "leechers": 2723,
+      "peers": 5912
     },
     {
-      "title": "A Working Man",
+      "title": "Novocaine",
       "current_rank": 19,
-      "previous_rank": 15,
-      "rank_change": -4,
-      "seeders": 2330,
-      "leechers": 2817,
-      "peers": 5147
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3189,
+      "leechers": 2723,
+      "peers": 5912
     },
     {
-      "title": "A Working Man",
+      "title": "Novocaine",
       "current_rank": 20,
-      "previous_rank": 15,
-      "rank_change": -5,
-      "seeders": 2330,
-      "leechers": 2817,
-      "peers": 5147
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3189,
+      "leechers": 2723,
+      "peers": 5912
     }
   ]
 }
