@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-11T20:07:22",
+  "updated_at": "2025-04-11T23:04:59",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -66,13 +66,13 @@
       "peers": 5643
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 8,
-      "previous_rank": 12,
-      "rank_change": 4,
-      "seeders": 1658,
-      "leechers": 145,
-      "peers": 1803
+      "previous_rank": 6,
+      "rank_change": -2,
+      "seeders": 1733,
+      "leechers": 3910,
+      "peers": 5643
     },
     {
       "title": "inZOI",
@@ -129,22 +129,22 @@
       "peers": 1803
     },
     {
-      "title": "Commandos: Origins",
+      "title": "inZOI",
       "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 877,
-      "leechers": 313,
-      "peers": 1190
+      "previous_rank": 12,
+      "rank_change": -3,
+      "seeders": 1658,
+      "leechers": 145,
+      "peers": 1803
     },
     {
-      "title": "Commandos: Origins",
+      "title": "inZOI",
       "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 877,
-      "leechers": 313,
-      "peers": 1190
+      "previous_rank": 12,
+      "rank_change": -4,
+      "seeders": 1658,
+      "leechers": 145,
+      "peers": 1803
     },
     {
       "title": "Commandos: Origins",

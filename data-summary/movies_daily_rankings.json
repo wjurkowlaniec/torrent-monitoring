@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-11T20:07:22",
+  "updated_at": "2025-04-11T23:04:59",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -66,13 +66,13 @@
       "peers": 17643
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Mickey 17",
       "current_rank": 8,
-      "previous_rank": 72,
-      "rank_change": 64,
-      "seeders": 2961,
-      "leechers": 7048,
-      "peers": 10009
+      "previous_rank": 6,
+      "rank_change": -2,
+      "seeders": 9439,
+      "leechers": 8204,
+      "peers": 17643
     },
     {
       "title": "A Minecraft Movie",
@@ -129,22 +129,22 @@
       "peers": 10009
     },
     {
-      "title": "Black Bag",
+      "title": "A Minecraft Movie",
       "current_rank": 15,
-      "previous_rank": 96,
-      "rank_change": 81,
-      "seeders": 4549,
-      "leechers": 3952,
-      "peers": 8501
+      "previous_rank": 72,
+      "rank_change": 57,
+      "seeders": 2961,
+      "leechers": 7048,
+      "peers": 10009
     },
     {
-      "title": "Black Bag",
+      "title": "A Minecraft Movie",
       "current_rank": 16,
-      "previous_rank": 96,
-      "rank_change": 80,
-      "seeders": 4549,
-      "leechers": 3952,
-      "peers": 8501
+      "previous_rank": 72,
+      "rank_change": 56,
+      "seeders": 2961,
+      "leechers": 7048,
+      "peers": 10009
     },
     {
       "title": "Black Bag",
