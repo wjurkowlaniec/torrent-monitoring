@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-11T05:18:43",
+  "updated_at": "2025-04-11T08:07:36",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -21,13 +21,13 @@
       "peers": 5643
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 3,
-      "previous_rank": 12,
-      "rank_change": 9,
-      "seeders": 1658,
-      "leechers": 145,
-      "peers": 1803
+      "previous_rank": 6,
+      "rank_change": 3,
+      "seeders": 1733,
+      "leechers": 3910,
+      "peers": 5643
     },
     {
       "title": "inZOI",
@@ -39,8 +39,26 @@
       "peers": 1803
     },
     {
-      "title": "Commandos: Origins",
+      "title": "inZOI",
       "current_rank": 5,
+      "previous_rank": 12,
+      "rank_change": 7,
+      "seeders": 1658,
+      "leechers": 145,
+      "peers": 1803
+    },
+    {
+      "title": "inZOI",
+      "current_rank": 6,
+      "previous_rank": 12,
+      "rank_change": 6,
+      "seeders": 1658,
+      "leechers": 145,
+      "peers": 1803
+    },
+    {
+      "title": "Commandos: Origins",
+      "current_rank": 7,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 877,
@@ -49,7 +67,16 @@
     },
     {
       "title": "Commandos: Origins",
-      "current_rank": 6,
+      "current_rank": 8,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 877,
+      "leechers": 313,
+      "peers": 1190
+    },
+    {
+      "title": "Commandos: Origins",
+      "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 877,
@@ -58,129 +85,102 @@
     },
     {
       "title": "Rise of the Ronin [FitGirl , Sel",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": 18,
-      "rank_change": 11,
+      "rank_change": 8,
       "seeders": 514,
       "leechers": 463,
       "peers": 977
     },
     {
       "title": "Rise of the Ronin [FitGirl , Sel",
-      "current_rank": 8,
+      "current_rank": 11,
       "previous_rank": 18,
-      "rank_change": 10,
+      "rank_change": 7,
       "seeders": 514,
       "leechers": 463,
       "peers": 977
     },
     {
-      "title": "Schedule I",
-      "current_rank": 9,
-      "previous_rank": 228,
-      "rank_change": 219,
-      "seeders": 881,
-      "leechers": 39,
-      "peers": 920
-    },
-    {
-      "title": "Schedule I",
-      "current_rank": 10,
-      "previous_rank": 228,
-      "rank_change": 218,
-      "seeders": 881,
-      "leechers": 39,
-      "peers": 920
-    },
-    {
-      "title": "South of Midnight",
-      "current_rank": 11,
-      "previous_rank": 174,
-      "rank_change": 163,
-      "seeders": 484,
-      "leechers": 284,
-      "peers": 768
-    },
-    {
-      "title": "South of Midnight",
+      "title": "Rise of the Ronin [FitGirl , Sel",
       "current_rank": 12,
-      "previous_rank": 174,
-      "rank_change": 162,
-      "seeders": 484,
-      "leechers": 284,
-      "peers": 768
+      "previous_rank": 18,
+      "rank_change": 6,
+      "seeders": 514,
+      "leechers": 463,
+      "peers": 977
     },
     {
       "title": "Schedule I",
       "current_rank": 13,
       "previous_rank": 228,
       "rank_change": 215,
-      "seeders": 659,
-      "leechers": 20,
-      "peers": 679
+      "seeders": 881,
+      "leechers": 39,
+      "peers": 920
     },
     {
       "title": "Schedule I",
       "current_rank": 14,
       "previous_rank": 228,
       "rank_change": 214,
+      "seeders": 881,
+      "leechers": 39,
+      "peers": 920
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 15,
+      "previous_rank": 228,
+      "rank_change": 213,
+      "seeders": 881,
+      "leechers": 39,
+      "peers": 920
+    },
+    {
+      "title": "South of Midnight",
+      "current_rank": 16,
+      "previous_rank": 174,
+      "rank_change": 158,
+      "seeders": 484,
+      "leechers": 284,
+      "peers": 768
+    },
+    {
+      "title": "South of Midnight",
+      "current_rank": 17,
+      "previous_rank": 174,
+      "rank_change": 157,
+      "seeders": 484,
+      "leechers": 284,
+      "peers": 768
+    },
+    {
+      "title": "South of Midnight",
+      "current_rank": 18,
+      "previous_rank": 174,
+      "rank_change": 156,
+      "seeders": 484,
+      "leechers": 284,
+      "peers": 768
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 19,
+      "previous_rank": 228,
+      "rank_change": 209,
       "seeders": 659,
       "leechers": 20,
       "peers": 679
     },
     {
-      "title": "The Last of Us Part II",
-      "current_rank": 15,
-      "previous_rank": 36,
-      "rank_change": 21,
-      "seeders": 487,
-      "leechers": 169,
-      "peers": 656
-    },
-    {
-      "title": "The Last of Us Part II",
-      "current_rank": 16,
-      "previous_rank": 36,
-      "rank_change": 20,
-      "seeders": 487,
-      "leechers": 169,
-      "peers": 656
-    },
-    {
-      "title": "Mortal Kombat 1",
-      "current_rank": 17,
-      "previous_rank": 48,
-      "rank_change": 31,
-      "seeders": 331,
-      "leechers": 240,
-      "peers": 571
-    },
-    {
-      "title": "Mortal Kombat 1",
-      "current_rank": 18,
-      "previous_rank": 48,
-      "rank_change": 30,
-      "seeders": 331,
-      "leechers": 240,
-      "peers": 571
-    },
-    {
-      "title": "BLEACH: Rebirth of Souls [F",
-      "current_rank": 19,
-      "previous_rank": 54,
-      "rank_change": 35,
-      "seeders": 410,
-      "leechers": 145,
-      "peers": 555
-    },
-    {
-      "title": "BLEACH: Rebirth of Souls [F",
+      "title": "Schedule I",
       "current_rank": 20,
-      "previous_rank": 54,
-      "rank_change": 34,
-      "seeders": 410,
-      "leechers": 145,
-      "peers": 555
+      "previous_rank": 228,
+      "rank_change": 208,
+      "seeders": 659,
+      "leechers": 20,
+      "peers": 679
     }
   ]
 }
