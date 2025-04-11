@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-11T02:23:25",
+  "updated_at": "2025-04-11T05:18:43",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -12,175 +12,175 @@
       "peers": 17643
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Mickey 17",
       "current_rank": 2,
+      "previous_rank": 6,
+      "rank_change": 4,
+      "seeders": 9439,
+      "leechers": 8204,
+      "peers": 17643
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 3,
       "previous_rank": 72,
-      "rank_change": 70,
+      "rank_change": 69,
+      "seeders": 2961,
+      "leechers": 7048,
+      "peers": 10009
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 4,
+      "previous_rank": 72,
+      "rank_change": 68,
       "seeders": 2961,
       "leechers": 7048,
       "peers": 10009
     },
     {
       "title": "Black Bag",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 96,
-      "rank_change": 93,
+      "rank_change": 91,
+      "seeders": 4549,
+      "leechers": 3952,
+      "peers": 8501
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 6,
+      "previous_rank": 96,
+      "rank_change": 90,
       "seeders": 4549,
       "leechers": 3952,
       "peers": 8501
     },
     {
       "title": "Novocaine",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 24,
-      "rank_change": 20,
+      "rank_change": 17,
+      "seeders": 3998,
+      "leechers": 2880,
+      "peers": 6878
+    },
+    {
+      "title": "Novocaine",
+      "current_rank": 8,
+      "previous_rank": 24,
+      "rank_change": 16,
       "seeders": 3998,
       "leechers": 2880,
       "peers": 6878
     },
     {
       "title": "A Working Man",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 60,
-      "rank_change": 55,
+      "rank_change": 51,
       "seeders": 2282,
       "leechers": 2831,
       "peers": 5113
-    },
-    {
-      "title": "In the Lost Lands",
-      "current_rank": 6,
-      "previous_rank": 36,
-      "rank_change": 30,
-      "seeders": 3440,
-      "leechers": 869,
-      "peers": 4309
-    },
-    {
-      "title": "The Monkey",
-      "current_rank": 7,
-      "previous_rank": 42,
-      "rank_change": 35,
-      "seeders": 2854,
-      "leechers": 1199,
-      "peers": 4053
-    },
-    {
-      "title": "Last Breath",
-      "current_rank": 8,
-      "previous_rank": 48,
-      "rank_change": 40,
-      "seeders": 2228,
-      "leechers": 1126,
-      "peers": 3354
-    },
-    {
-      "title": "The Electric State",
-      "current_rank": 9,
-      "previous_rank": 54,
-      "rank_change": 45,
-      "seeders": 2360,
-      "leechers": 790,
-      "peers": 3150
     },
     {
       "title": "A Working Man",
       "current_rank": 10,
       "previous_rank": 60,
       "rank_change": 50,
+      "seeders": 2282,
+      "leechers": 2831,
+      "peers": 5113
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 11,
+      "previous_rank": 36,
+      "rank_change": 25,
+      "seeders": 3440,
+      "leechers": 869,
+      "peers": 4309
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 12,
+      "previous_rank": 36,
+      "rank_change": 24,
+      "seeders": 3440,
+      "leechers": 869,
+      "peers": 4309
+    },
+    {
+      "title": "The Monkey",
+      "current_rank": 13,
+      "previous_rank": 42,
+      "rank_change": 29,
+      "seeders": 2854,
+      "leechers": 1199,
+      "peers": 4053
+    },
+    {
+      "title": "The Monkey",
+      "current_rank": 14,
+      "previous_rank": 42,
+      "rank_change": 28,
+      "seeders": 2854,
+      "leechers": 1199,
+      "peers": 4053
+    },
+    {
+      "title": "Last Breath",
+      "current_rank": 15,
+      "previous_rank": 48,
+      "rank_change": 33,
+      "seeders": 2228,
+      "leechers": 1126,
+      "peers": 3354
+    },
+    {
+      "title": "Last Breath",
+      "current_rank": 16,
+      "previous_rank": 48,
+      "rank_change": 32,
+      "seeders": 2228,
+      "leechers": 1126,
+      "peers": 3354
+    },
+    {
+      "title": "The Electric State",
+      "current_rank": 17,
+      "previous_rank": 54,
+      "rank_change": 37,
+      "seeders": 2360,
+      "leechers": 790,
+      "peers": 3150
+    },
+    {
+      "title": "The Electric State",
+      "current_rank": 18,
+      "previous_rank": 54,
+      "rank_change": 36,
+      "seeders": 2360,
+      "leechers": 790,
+      "peers": 3150
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 19,
+      "previous_rank": 60,
+      "rank_change": 41,
       "seeders": 1199,
       "leechers": 883,
       "peers": 2082
     },
     {
-      "title": "Cleaner",
-      "current_rank": 11,
-      "previous_rank": 66,
-      "rank_change": 55,
-      "seeders": 1665,
-      "leechers": 329,
-      "peers": 1994
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 12,
-      "previous_rank": 72,
-      "rank_change": 60,
-      "seeders": 547,
-      "leechers": 989,
-      "peers": 1536
-    },
-    {
-      "title": "The Assessment",
-      "current_rank": 13,
-      "previous_rank": 84,
-      "rank_change": 71,
-      "seeders": 987,
-      "leechers": 210,
-      "peers": 1197
-    },
-    {
-      "title": "Bill Burr Drop Dead Years",
-      "current_rank": 14,
-      "previous_rank": 90,
-      "rank_change": 76,
-      "seeders": 928,
-      "leechers": 114,
-      "peers": 1042
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 15,
-      "previous_rank": 96,
-      "rank_change": 81,
-      "seeders": 623,
-      "leechers": 261,
-      "peers": 884
-    },
-    {
-      "title": "Popeye The Slayer Man",
-      "current_rank": 16,
-      "previous_rank": 108,
-      "rank_change": 92,
-      "seeders": 635,
-      "leechers": 100,
-      "peers": 735
-    },
-    {
-      "title": "Sikandar",
-      "current_rank": 17,
-      "previous_rank": 102,
-      "rank_change": 85,
-      "seeders": 575,
-      "leechers": 149,
-      "peers": 724
-    },
-    {
-      "title": "Batman Ninja vs Yakuza League",
-      "current_rank": 18,
-      "previous_rank": 114,
-      "rank_change": 96,
-      "seeders": 663,
-      "leechers": 53,
-      "peers": 716
-    },
-    {
-      "title": "Officer on Duty",
-      "current_rank": 19,
-      "previous_rank": 120,
-      "rank_change": 101,
-      "seeders": 640,
-      "leechers": 51,
-      "peers": 691
-    },
-    {
-      "title": "Becoming Led Zeppelin",
+      "title": "A Working Man",
       "current_rank": 20,
-      "previous_rank": 126,
-      "rank_change": 106,
-      "seeders": 493,
-      "leechers": 154,
-      "peers": 647
+      "previous_rank": 60,
+      "rank_change": 40,
+      "seeders": 1199,
+      "leechers": 883,
+      "peers": 2082
     }
   ]
 }
