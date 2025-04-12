@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-12T14:08:01",
+  "updated_at": "2025-04-12T17:04:56",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -48,13 +48,13 @@
       "peers": 5654
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 6,
-      "previous_rank": 16,
-      "rank_change": 10,
-      "seeders": 1727,
-      "leechers": 162,
-      "peers": 1889
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 1695,
+      "leechers": 3959,
+      "peers": 5654
     },
     {
       "title": "inZOI",
@@ -93,22 +93,22 @@
       "peers": 1889
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 11,
-      "previous_rank": 368,
-      "rank_change": 357,
-      "seeders": 1004,
-      "leechers": 38,
-      "peers": 1042
+      "previous_rank": 16,
+      "rank_change": 5,
+      "seeders": 1727,
+      "leechers": 162,
+      "peers": 1889
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 12,
-      "previous_rank": 368,
-      "rank_change": 356,
-      "seeders": 1004,
-      "leechers": 38,
-      "peers": 1042
+      "previous_rank": 16,
+      "rank_change": 4,
+      "seeders": 1727,
+      "leechers": 162,
+      "peers": 1889
     },
     {
       "title": "Schedule I",
@@ -138,31 +138,31 @@
       "peers": 1042
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Schedule I",
       "current_rank": 16,
-      "previous_rank": 24,
-      "rank_change": 8,
-      "seeders": 777,
-      "leechers": 213,
-      "peers": 990
+      "previous_rank": 368,
+      "rank_change": 352,
+      "seeders": 1004,
+      "leechers": 38,
+      "peers": 1042
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Schedule I",
       "current_rank": 17,
-      "previous_rank": 24,
-      "rank_change": 7,
-      "seeders": 777,
-      "leechers": 213,
-      "peers": 990
+      "previous_rank": 368,
+      "rank_change": 351,
+      "seeders": 1004,
+      "leechers": 38,
+      "peers": 1042
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Schedule I",
       "current_rank": 18,
-      "previous_rank": 24,
-      "rank_change": 6,
-      "seeders": 777,
-      "leechers": 213,
-      "peers": 990
+      "previous_rank": 368,
+      "rank_change": 350,
+      "seeders": 1004,
+      "leechers": 38,
+      "peers": 1042
     },
     {
       "title": "Commandos: Origins",
