@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-12T11:05:33",
+  "updated_at": "2025-04-12T14:08:01",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -39,13 +39,13 @@
       "peers": 5654
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 5,
-      "previous_rank": 16,
-      "rank_change": 11,
-      "seeders": 1727,
-      "leechers": 162,
-      "peers": 1889
+      "previous_rank": 8,
+      "rank_change": 3,
+      "seeders": 1695,
+      "leechers": 3959,
+      "peers": 5654
     },
     {
       "title": "inZOI",
@@ -75,22 +75,22 @@
       "peers": 1889
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 9,
-      "previous_rank": 368,
-      "rank_change": 359,
-      "seeders": 1004,
-      "leechers": 38,
-      "peers": 1042
+      "previous_rank": 16,
+      "rank_change": 7,
+      "seeders": 1727,
+      "leechers": 162,
+      "peers": 1889
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 10,
-      "previous_rank": 368,
-      "rank_change": 358,
-      "seeders": 1004,
-      "leechers": 38,
-      "peers": 1042
+      "previous_rank": 16,
+      "rank_change": 6,
+      "seeders": 1727,
+      "leechers": 162,
+      "peers": 1889
     },
     {
       "title": "Schedule I",
@@ -111,31 +111,31 @@
       "peers": 1042
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Schedule I",
       "current_rank": 13,
-      "previous_rank": 24,
-      "rank_change": 11,
-      "seeders": 777,
-      "leechers": 213,
-      "peers": 990
+      "previous_rank": 368,
+      "rank_change": 355,
+      "seeders": 1004,
+      "leechers": 38,
+      "peers": 1042
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Schedule I",
       "current_rank": 14,
-      "previous_rank": 24,
-      "rank_change": 10,
-      "seeders": 777,
-      "leechers": 213,
-      "peers": 990
+      "previous_rank": 368,
+      "rank_change": 354,
+      "seeders": 1004,
+      "leechers": 38,
+      "peers": 1042
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Schedule I",
       "current_rank": 15,
-      "previous_rank": 24,
-      "rank_change": 9,
-      "seeders": 777,
-      "leechers": 213,
-      "peers": 990
+      "previous_rank": 368,
+      "rank_change": 353,
+      "seeders": 1004,
+      "leechers": 38,
+      "peers": 1042
     },
     {
       "title": "Commandos: Origins",
@@ -147,40 +147,40 @@
       "peers": 990
     },
     {
-      "title": "Rise of the Ronin [FitGirl , Sel",
+      "title": "Commandos: Origins",
       "current_rank": 17,
-      "previous_rank": 32,
-      "rank_change": 15,
-      "seeders": 514,
-      "leechers": 463,
-      "peers": 977
+      "previous_rank": 24,
+      "rank_change": 7,
+      "seeders": 777,
+      "leechers": 213,
+      "peers": 990
     },
     {
-      "title": "Rise of the Ronin [FitGirl , Sel",
+      "title": "Commandos: Origins",
       "current_rank": 18,
-      "previous_rank": 32,
-      "rank_change": 14,
-      "seeders": 514,
-      "leechers": 463,
-      "peers": 977
+      "previous_rank": 24,
+      "rank_change": 6,
+      "seeders": 777,
+      "leechers": 213,
+      "peers": 990
     },
     {
-      "title": "Rise of the Ronin [FitGirl , Sel",
+      "title": "Commandos: Origins",
       "current_rank": 19,
-      "previous_rank": 32,
-      "rank_change": 13,
-      "seeders": 514,
-      "leechers": 463,
-      "peers": 977
+      "previous_rank": 24,
+      "rank_change": 5,
+      "seeders": 777,
+      "leechers": 213,
+      "peers": 990
     },
     {
-      "title": "Rise of the Ronin [FitGirl , Sel",
+      "title": "Commandos: Origins",
       "current_rank": 20,
-      "previous_rank": 32,
-      "rank_change": 12,
-      "seeders": 514,
-      "leechers": 463,
-      "peers": 977
+      "previous_rank": 24,
+      "rank_change": 4,
+      "seeders": 777,
+      "leechers": 213,
+      "peers": 990
     }
   ]
 }
