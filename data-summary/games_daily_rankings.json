@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-12T02:22:35",
+  "updated_at": "2025-04-12T05:16:24",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -12,44 +12,98 @@
       "peers": 5654
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 2,
+      "previous_rank": 8,
+      "rank_change": 6,
+      "seeders": 1695,
+      "leechers": 3959,
+      "peers": 5654
+    },
+    {
+      "title": "inZOI",
+      "current_rank": 3,
       "previous_rank": 16,
-      "rank_change": 14,
+      "rank_change": 13,
+      "seeders": 1727,
+      "leechers": 162,
+      "peers": 1889
+    },
+    {
+      "title": "inZOI",
+      "current_rank": 4,
+      "previous_rank": 16,
+      "rank_change": 12,
       "seeders": 1727,
       "leechers": 162,
       "peers": 1889
     },
     {
       "title": "Schedule I",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 368,
-      "rank_change": 365,
+      "rank_change": 363,
+      "seeders": 1004,
+      "leechers": 38,
+      "peers": 1042
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 6,
+      "previous_rank": 368,
+      "rank_change": 362,
       "seeders": 1004,
       "leechers": 38,
       "peers": 1042
     },
     {
       "title": "Commandos: Origins",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 24,
-      "rank_change": 20,
+      "rank_change": 17,
+      "seeders": 777,
+      "leechers": 213,
+      "peers": 990
+    },
+    {
+      "title": "Commandos: Origins",
+      "current_rank": 8,
+      "previous_rank": 24,
+      "rank_change": 16,
       "seeders": 777,
       "leechers": 213,
       "peers": 990
     },
     {
       "title": "Rise of the Ronin [FitGirl , Sel",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 32,
-      "rank_change": 27,
+      "rank_change": 23,
+      "seeders": 514,
+      "leechers": 463,
+      "peers": 977
+    },
+    {
+      "title": "Rise of the Ronin [FitGirl , Sel",
+      "current_rank": 10,
+      "previous_rank": 32,
+      "rank_change": 22,
       "seeders": 514,
       "leechers": 463,
       "peers": 977
     },
     {
       "title": "Blue Prince",
-      "current_rank": 6,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 704,
+      "leechers": 65,
+      "peers": 769
+    },
+    {
+      "title": "Blue Prince",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 704,
@@ -58,129 +112,75 @@
     },
     {
       "title": "Schedule I",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 368,
-      "rank_change": 361,
+      "rank_change": 355,
+      "seeders": 659,
+      "leechers": 20,
+      "peers": 679
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 14,
+      "previous_rank": 368,
+      "rank_change": 354,
       "seeders": 659,
       "leechers": 20,
       "peers": 679
     },
     {
       "title": "South of Midnight",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 328,
-      "rank_change": 320,
+      "rank_change": 313,
+      "seeders": 450,
+      "leechers": 225,
+      "peers": 675
+    },
+    {
+      "title": "South of Midnight",
+      "current_rank": 16,
+      "previous_rank": 328,
+      "rank_change": 312,
       "seeders": 450,
       "leechers": 225,
       "peers": 675
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 64,
-      "rank_change": 55,
+      "rank_change": 47,
+      "seeders": 440,
+      "leechers": 155,
+      "peers": 595
+    },
+    {
+      "title": "The Last of Us Part II",
+      "current_rank": 18,
+      "previous_rank": 64,
+      "rank_change": 46,
       "seeders": 440,
       "leechers": 155,
       "peers": 595
     },
     {
       "title": "Mortal Kombat 1",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 72,
-      "rank_change": 62,
+      "rank_change": 53,
       "seeders": 307,
       "leechers": 275,
       "peers": 582
     },
     {
-      "title": "BLEACH: Rebirth of Souls [F",
-      "current_rank": 11,
-      "previous_rank": 80,
-      "rank_change": 69,
-      "seeders": 410,
-      "leechers": 145,
-      "peers": 555
-    },
-    {
-      "title": "Schedule I",
-      "current_rank": 12,
-      "previous_rank": 368,
-      "rank_change": 356,
-      "seeders": 374,
-      "leechers": 6,
-      "peers": 380
-    },
-    {
-      "title": "Cyberpunk",
-      "current_rank": 13,
-      "previous_rank": 104,
-      "rank_change": 91,
-      "seeders": 218,
-      "leechers": 131,
-      "peers": 349
-    },
-    {
-      "title": "House Party",
-      "current_rank": 14,
-      "previous_rank": 88,
-      "rank_change": 74,
-      "seeders": 305,
-      "leechers": 31,
-      "peers": 336
-    },
-    {
-      "title": "Cities: Skylines II [FitGirl",
-      "current_rank": 15,
-      "previous_rank": 112,
-      "rank_change": 97,
-      "seeders": 262,
-      "leechers": 66,
-      "peers": 328
-    },
-    {
-      "title": "AI LIMIT",
-      "current_rank": 16,
-      "previous_rank": 144,
-      "rank_change": 128,
-      "seeders": 264,
-      "leechers": 41,
-      "peers": 305
-    },
-    {
-      "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land ( 00b/ 00c",
-      "current_rank": 17,
-      "previous_rank": 128,
-      "rank_change": 111,
-      "seeders": 263,
-      "leechers": 25,
-      "peers": 288
-    },
-    {
-      "title": "Haste [FitGirl",
-      "current_rank": 18,
-      "previous_rank": 120,
-      "rank_change": 102,
-      "seeders": 263,
-      "leechers": 23,
-      "peers": 286
-    },
-    {
-      "title": "Schedule I 3 4f4",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 252,
-      "leechers": 21,
-      "peers": 273
-    },
-    {
-      "title": "Xenoblade Chronicles X",
+      "title": "Mortal Kombat 1",
       "current_rank": 20,
-      "previous_rank": 552,
-      "rank_change": 532,
-      "seeders": 237,
-      "leechers": 33,
-      "peers": 270
+      "previous_rank": 72,
+      "rank_change": 52,
+      "seeders": 307,
+      "leechers": 275,
+      "peers": 582
     }
   ]
 }
