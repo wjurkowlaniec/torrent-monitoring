@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-14T20:07:21",
+  "updated_at": "2025-04-14T23:05:23",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -66,13 +66,13 @@
       "peers": 19913
     },
     {
-      "title": "Black Bag",
+      "title": "Mickey 17",
       "current_rank": 8,
-      "previous_rank": 144,
-      "rank_change": 136,
-      "seeders": 4631,
-      "leechers": 5543,
-      "peers": 10174
+      "previous_rank": 8,
+      "rank_change": 0,
+      "seeders": 9136,
+      "leechers": 10777,
+      "peers": 19913
     },
     {
       "title": "Black Bag",
@@ -129,22 +129,22 @@
       "peers": 10174
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 15,
-      "previous_rank": 24,
-      "rank_change": 9,
-      "seeders": 4372,
-      "leechers": 3474,
-      "peers": 7846
+      "previous_rank": 144,
+      "rank_change": 129,
+      "seeders": 4631,
+      "leechers": 5543,
+      "peers": 10174
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 16,
-      "previous_rank": 24,
-      "rank_change": 8,
-      "seeders": 4372,
-      "leechers": 3474,
-      "peers": 7846
+      "previous_rank": 144,
+      "rank_change": 128,
+      "seeders": 4631,
+      "leechers": 5543,
+      "peers": 10174
     },
     {
       "title": "Novocaine",
