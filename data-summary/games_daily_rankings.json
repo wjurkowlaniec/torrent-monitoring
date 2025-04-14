@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-14T08:08:13",
+  "updated_at": "2025-04-14T11:06:43",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -30,13 +30,13 @@
       "peers": 5317
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 4,
-      "previous_rank": 16,
-      "rank_change": 12,
-      "seeders": 1381,
-      "leechers": 125,
-      "peers": 1506
+      "previous_rank": 8,
+      "rank_change": 4,
+      "seeders": 1788,
+      "leechers": 3529,
+      "peers": 5317
     },
     {
       "title": "inZOI",
@@ -57,22 +57,22 @@
       "peers": 1506
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 7,
-      "previous_rank": 432,
-      "rank_change": 425,
-      "seeders": 1203,
-      "leechers": 48,
-      "peers": 1251
+      "previous_rank": 16,
+      "rank_change": 9,
+      "seeders": 1381,
+      "leechers": 125,
+      "peers": 1506
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 8,
-      "previous_rank": 432,
-      "rank_change": 424,
-      "seeders": 1203,
-      "leechers": 48,
-      "peers": 1251
+      "previous_rank": 16,
+      "rank_change": 8,
+      "seeders": 1381,
+      "leechers": 125,
+      "peers": 1506
     },
     {
       "title": "Schedule I",
@@ -84,103 +84,103 @@
       "peers": 1251
     },
     {
-      "title": "The Last of Us Part II",
+      "title": "Schedule I",
       "current_rank": 10,
-      "previous_rank": 72,
-      "rank_change": 62,
-      "seeders": 639,
-      "leechers": 392,
-      "peers": 1031
+      "previous_rank": 432,
+      "rank_change": 422,
+      "seeders": 1203,
+      "leechers": 48,
+      "peers": 1251
     },
     {
-      "title": "The Last of Us Part II",
+      "title": "Schedule I",
       "current_rank": 11,
+      "previous_rank": 432,
+      "rank_change": 421,
+      "seeders": 1203,
+      "leechers": 48,
+      "peers": 1251
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 12,
+      "previous_rank": 432,
+      "rank_change": 420,
+      "seeders": 1203,
+      "leechers": 48,
+      "peers": 1251
+    },
+    {
+      "title": "The Last of Us Part II",
+      "current_rank": 13,
       "previous_rank": 72,
-      "rank_change": 61,
+      "rank_change": 59,
       "seeders": 639,
       "leechers": 392,
       "peers": 1031
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 12,
+      "current_rank": 14,
       "previous_rank": 72,
-      "rank_change": 60,
+      "rank_change": 58,
+      "seeders": 639,
+      "leechers": 392,
+      "peers": 1031
+    },
+    {
+      "title": "The Last of Us Part II",
+      "current_rank": 15,
+      "previous_rank": 72,
+      "rank_change": 57,
+      "seeders": 639,
+      "leechers": 392,
+      "peers": 1031
+    },
+    {
+      "title": "The Last of Us Part II",
+      "current_rank": 16,
+      "previous_rank": 72,
+      "rank_change": 56,
       "seeders": 639,
       "leechers": 392,
       "peers": 1031
     },
     {
       "title": "Blue Prince",
-      "current_rank": 13,
-      "previous_rank": 48,
-      "rank_change": 35,
-      "seeders": 731,
-      "leechers": 30,
-      "peers": 761
-    },
-    {
-      "title": "Blue Prince",
-      "current_rank": 14,
-      "previous_rank": 48,
-      "rank_change": 34,
-      "seeders": 731,
-      "leechers": 30,
-      "peers": 761
-    },
-    {
-      "title": "Blue Prince",
-      "current_rank": 15,
-      "previous_rank": 48,
-      "rank_change": 33,
-      "seeders": 731,
-      "leechers": 30,
-      "peers": 761
-    },
-    {
-      "title": "South of Midnight",
-      "current_rank": 16,
-      "previous_rank": 392,
-      "rank_change": 376,
-      "seeders": 537,
-      "leechers": 207,
-      "peers": 744
-    },
-    {
-      "title": "South of Midnight",
       "current_rank": 17,
-      "previous_rank": 392,
-      "rank_change": 375,
-      "seeders": 537,
-      "leechers": 207,
-      "peers": 744
+      "previous_rank": 48,
+      "rank_change": 31,
+      "seeders": 731,
+      "leechers": 30,
+      "peers": 761
     },
     {
-      "title": "South of Midnight",
+      "title": "Blue Prince",
       "current_rank": 18,
-      "previous_rank": 392,
-      "rank_change": 374,
-      "seeders": 537,
-      "leechers": 207,
-      "peers": 744
+      "previous_rank": 48,
+      "rank_change": 30,
+      "seeders": 731,
+      "leechers": 30,
+      "peers": 761
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Blue Prince",
       "current_rank": 19,
-      "previous_rank": 40,
-      "rank_change": 21,
-      "seeders": 593,
-      "leechers": 90,
-      "peers": 683
+      "previous_rank": 48,
+      "rank_change": 29,
+      "seeders": 731,
+      "leechers": 30,
+      "peers": 761
     },
     {
-      "title": "Commandos: Origins",
+      "title": "Blue Prince",
       "current_rank": 20,
-      "previous_rank": 40,
-      "rank_change": 20,
-      "seeders": 593,
-      "leechers": 90,
-      "peers": 683
+      "previous_rank": 48,
+      "rank_change": 28,
+      "seeders": 731,
+      "leechers": 30,
+      "peers": 761
     }
   ]
 }
