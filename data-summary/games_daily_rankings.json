@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-14T14:09:22",
+  "updated_at": "2025-04-14T17:06:02",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -48,13 +48,13 @@
       "peers": 5317
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 6,
-      "previous_rank": 16,
-      "rank_change": 10,
-      "seeders": 1381,
-      "leechers": 125,
-      "peers": 1506
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 1788,
+      "leechers": 3529,
+      "peers": 5317
     },
     {
       "title": "inZOI",
@@ -93,22 +93,22 @@
       "peers": 1506
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 11,
-      "previous_rank": 432,
-      "rank_change": 421,
-      "seeders": 1203,
-      "leechers": 48,
-      "peers": 1251
+      "previous_rank": 16,
+      "rank_change": 5,
+      "seeders": 1381,
+      "leechers": 125,
+      "peers": 1506
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 12,
-      "previous_rank": 432,
-      "rank_change": 420,
-      "seeders": 1203,
-      "leechers": 48,
-      "peers": 1251
+      "previous_rank": 16,
+      "rank_change": 4,
+      "seeders": 1381,
+      "leechers": 125,
+      "peers": 1506
     },
     {
       "title": "Schedule I",
@@ -138,31 +138,31 @@
       "peers": 1251
     },
     {
-      "title": "The Last of Us Part II",
+      "title": "Schedule I",
       "current_rank": 16,
-      "previous_rank": 72,
-      "rank_change": 56,
-      "seeders": 639,
-      "leechers": 392,
-      "peers": 1031
+      "previous_rank": 432,
+      "rank_change": 416,
+      "seeders": 1203,
+      "leechers": 48,
+      "peers": 1251
     },
     {
-      "title": "The Last of Us Part II",
+      "title": "Schedule I",
       "current_rank": 17,
-      "previous_rank": 72,
-      "rank_change": 55,
-      "seeders": 639,
-      "leechers": 392,
-      "peers": 1031
+      "previous_rank": 432,
+      "rank_change": 415,
+      "seeders": 1203,
+      "leechers": 48,
+      "peers": 1251
     },
     {
-      "title": "The Last of Us Part II",
+      "title": "Schedule I",
       "current_rank": 18,
-      "previous_rank": 72,
-      "rank_change": 54,
-      "seeders": 639,
-      "leechers": 392,
-      "peers": 1031
+      "previous_rank": 432,
+      "rank_change": 414,
+      "seeders": 1203,
+      "leechers": 48,
+      "peers": 1251
     },
     {
       "title": "The Last of Us Part II",
