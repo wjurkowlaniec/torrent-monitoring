@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-15T05:21:11",
+  "updated_at": "2025-04-15T11:06:15",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -21,13 +21,13 @@
       "peers": 16658
     },
     {
-      "title": "Black Bag",
+      "title": "Mickey 17",
       "current_rank": 3,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 4642,
-      "leechers": 4215,
-      "peers": 8857
+      "seeders": 8900,
+      "leechers": 7758,
+      "peers": 16658
     },
     {
       "title": "Black Bag",
@@ -39,17 +39,44 @@
       "peers": 8857
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 5,
       "previous_rank": null,
       "rank_change": "new",
+      "seeders": 4642,
+      "leechers": 4215,
+      "peers": 8857
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 6,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4642,
+      "leechers": 4215,
+      "peers": 8857
+    },
+    {
+      "title": "Novocaine",
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
       "seeders": 4264,
       "leechers": 3733,
       "peers": 7997
     },
     {
       "title": "Novocaine",
-      "current_rank": 6,
+      "current_rank": 8,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4264,
+      "leechers": 3733,
+      "peers": 7997
+    },
+    {
+      "title": "Novocaine",
+      "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 4264,
@@ -58,7 +85,7 @@
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3769,
@@ -67,7 +94,16 @@
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 8,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3769,
+      "leechers": 2468,
+      "peers": 6237
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3769,
@@ -76,25 +112,34 @@
     },
     {
       "title": "A Working Man",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": 15,
-      "rank_change": 6,
+      "rank_change": 2,
       "seeders": 2028,
       "leechers": 2872,
       "peers": 4900
     },
     {
       "title": "A Working Man",
-      "current_rank": 10,
+      "current_rank": 14,
       "previous_rank": 15,
-      "rank_change": 5,
+      "rank_change": 1,
+      "seeders": 2028,
+      "leechers": 2872,
+      "peers": 4900
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 15,
+      "previous_rank": 15,
+      "rank_change": 0,
       "seeders": 2028,
       "leechers": 2872,
       "peers": 4900
     },
     {
       "title": "In the Lost Lands",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3186,
@@ -103,7 +148,16 @@
     },
     {
       "title": "In the Lost Lands",
-      "current_rank": 12,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3186,
+      "leechers": 1194,
+      "peers": 4380
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3186,
@@ -112,7 +166,7 @@
     },
     {
       "title": "The Monkey",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 2720,
@@ -121,66 +175,12 @@
     },
     {
       "title": "The Monkey",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 2720,
       "leechers": 1197,
       "peers": 3917
-    },
-    {
-      "title": "Last Breath",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2228,
-      "leechers": 1126,
-      "peers": 3354
-    },
-    {
-      "title": "Last Breath",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2228,
-      "leechers": 1126,
-      "peers": 3354
-    },
-    {
-      "title": "The Alto Knights",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1737,
-      "leechers": 609,
-      "peers": 2346
-    },
-    {
-      "title": "The Alto Knights",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1737,
-      "leechers": 609,
-      "peers": 2346
-    },
-    {
-      "title": "Cleaner",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1665,
-      "leechers": 329,
-      "peers": 1994
-    },
-    {
-      "title": "Cleaner",
-      "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1665,
-      "leechers": 329,
-      "peers": 1994
     }
   ]
 }
