@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-16T14:09:08",
+  "updated_at": "2025-04-16T17:06:00",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -48,13 +48,13 @@
       "peers": 15813
     },
     {
-      "title": "Black Bag",
+      "title": "Mickey 17",
       "current_rank": 6,
-      "previous_rank": 96,
-      "rank_change": 90,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
+      "previous_rank": 6,
+      "rank_change": 0,
+      "seeders": 8527,
+      "leechers": 7286,
+      "peers": 15813
     },
     {
       "title": "Black Bag",
@@ -93,22 +93,22 @@
       "peers": 8308
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 11,
-      "previous_rank": 24,
-      "rank_change": 13,
-      "seeders": 4116,
-      "leechers": 3736,
-      "peers": 7852
+      "previous_rank": 96,
+      "rank_change": 85,
+      "seeders": 4469,
+      "leechers": 3839,
+      "peers": 8308
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 12,
-      "previous_rank": 24,
-      "rank_change": 12,
-      "seeders": 4116,
-      "leechers": 3736,
-      "peers": 7852
+      "previous_rank": 96,
+      "rank_change": 84,
+      "seeders": 4469,
+      "leechers": 3839,
+      "peers": 8308
     },
     {
       "title": "Novocaine",
@@ -138,31 +138,31 @@
       "peers": 7852
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Novocaine",
       "current_rank": 16,
-      "previous_rank": 72,
-      "rank_change": 56,
-      "seeders": 3637,
-      "leechers": 2195,
-      "peers": 5832
+      "previous_rank": 24,
+      "rank_change": 8,
+      "seeders": 4116,
+      "leechers": 3736,
+      "peers": 7852
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Novocaine",
       "current_rank": 17,
-      "previous_rank": 72,
-      "rank_change": 55,
-      "seeders": 3637,
-      "leechers": 2195,
-      "peers": 5832
+      "previous_rank": 24,
+      "rank_change": 7,
+      "seeders": 4116,
+      "leechers": 3736,
+      "peers": 7852
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Novocaine",
       "current_rank": 18,
-      "previous_rank": 72,
-      "rank_change": 54,
-      "seeders": 3637,
-      "leechers": 2195,
-      "peers": 5832
+      "previous_rank": 24,
+      "rank_change": 6,
+      "seeders": 4116,
+      "leechers": 3736,
+      "peers": 7852
     },
     {
       "title": "A Minecraft Movie",
