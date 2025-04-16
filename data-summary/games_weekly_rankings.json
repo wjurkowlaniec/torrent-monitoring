@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-16T02:23:32",
+  "updated_at": "2025-04-16T05:20:36",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -12,35 +12,80 @@
       "peers": 4424
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 2,
+      "previous_rank": 6,
+      "rank_change": 4,
+      "seeders": 1603,
+      "leechers": 2821,
+      "peers": 4424
+    },
+    {
+      "title": "inZOI",
+      "current_rank": 3,
       "previous_rank": 12,
-      "rank_change": 10,
+      "rank_change": 9,
+      "seeders": 1391,
+      "leechers": 121,
+      "peers": 1512
+    },
+    {
+      "title": "inZOI",
+      "current_rank": 4,
+      "previous_rank": 12,
+      "rank_change": 8,
       "seeders": 1391,
       "leechers": 121,
       "peers": 1512
     },
     {
       "title": "Schedule I",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 228,
-      "rank_change": 225,
+      "rank_change": 223,
+      "seeders": 1045,
+      "leechers": 41,
+      "peers": 1086
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 6,
+      "previous_rank": 228,
+      "rank_change": 222,
       "seeders": 1045,
       "leechers": 41,
       "peers": 1086
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 36,
-      "rank_change": 32,
+      "rank_change": 29,
+      "seeders": 645,
+      "leechers": 369,
+      "peers": 1014
+    },
+    {
+      "title": "The Last of Us Part II",
+      "current_rank": 8,
+      "previous_rank": 36,
+      "rank_change": 28,
       "seeders": 645,
       "leechers": 369,
       "peers": 1014
     },
     {
       "title": "Blue Prince",
-      "current_rank": 5,
+      "current_rank": 9,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 780,
+      "leechers": 34,
+      "peers": 814
+    },
+    {
+      "title": "Blue Prince",
+      "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 780,
@@ -49,16 +94,34 @@
     },
     {
       "title": "Schedule I",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 228,
-      "rank_change": 222,
+      "rank_change": 217,
+      "seeders": 659,
+      "leechers": 20,
+      "peers": 679
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 12,
+      "previous_rank": 228,
+      "rank_change": 216,
       "seeders": 659,
       "leechers": 20,
       "peers": 679
     },
     {
       "title": "Age of Empires IV",
-      "current_rank": 7,
+      "current_rank": 13,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 290,
+      "leechers": 367,
+      "peers": 657
+    },
+    {
+      "title": "Age of Empires IV",
+      "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 290,
@@ -67,120 +130,57 @@
     },
     {
       "title": "South of Midnight",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 174,
-      "rank_change": 166,
+      "rank_change": 159,
+      "seeders": 437,
+      "leechers": 155,
+      "peers": 592
+    },
+    {
+      "title": "South of Midnight",
+      "current_rank": 16,
+      "previous_rank": 174,
+      "rank_change": 158,
       "seeders": 437,
       "leechers": 155,
       "peers": 592
     },
     {
       "title": "Mortal Kombat 1",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 48,
-      "rank_change": 39,
+      "rank_change": 31,
+      "seeders": 307,
+      "leechers": 275,
+      "peers": 582
+    },
+    {
+      "title": "Mortal Kombat 1",
+      "current_rank": 18,
+      "previous_rank": 48,
+      "rank_change": 30,
       "seeders": 307,
       "leechers": 275,
       "peers": 582
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 36,
-      "rank_change": 26,
+      "rank_change": 17,
       "seeders": 450,
       "leechers": 130,
       "peers": 580
     },
     {
-      "title": "Commandos: Origins",
-      "current_rank": 11,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 497,
-      "leechers": 68,
-      "peers": 565
-    },
-    {
-      "title": "BLEACH: Rebirth of Souls [F",
-      "current_rank": 12,
-      "previous_rank": 54,
-      "rank_change": 42,
-      "seeders": 410,
-      "leechers": 145,
-      "peers": 555
-    },
-    {
-      "title": "Forever Skies [FitGirl , Selective Downl",
-      "current_rank": 13,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 343,
-      "leechers": 171,
-      "peers": 514
-    },
-    {
-      "title": "Schedule I 3 4f4",
-      "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 351,
-      "leechers": 20,
-      "peers": 371
-    },
-    {
-      "title": "Dave The Diver",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 341,
-      "leechers": 24,
-      "peers": 365
-    },
-    {
-      "title": "Cyberpunk",
-      "current_rank": 16,
-      "previous_rank": 114,
-      "rank_change": 98,
-      "seeders": 218,
-      "leechers": 131,
-      "peers": 349
-    },
-    {
-      "title": "House Party",
-      "current_rank": 17,
-      "previous_rank": 60,
-      "rank_change": 43,
-      "seeders": 309,
-      "leechers": 31,
-      "peers": 340
-    },
-    {
-      "title": "Cities: Skylines II [FitGirl",
-      "current_rank": 18,
-      "previous_rank": 72,
-      "rank_change": 54,
-      "seeders": 262,
-      "leechers": 66,
-      "peers": 328
-    },
-    {
-      "title": "AI LIMIT",
-      "current_rank": 19,
-      "previous_rank": 84,
-      "rank_change": 65,
-      "seeders": 254,
-      "leechers": 59,
-      "peers": 313
-    },
-    {
-      "title": "Schedule I",
+      "title": "The Last of Us Part II",
       "current_rank": 20,
-      "previous_rank": 228,
-      "rank_change": 208,
-      "seeders": 297,
-      "leechers": 4,
-      "peers": 301
+      "previous_rank": 36,
+      "rank_change": 16,
+      "seeders": 450,
+      "leechers": 130,
+      "peers": 580
     }
   ]
 }
