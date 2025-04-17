@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-17T14:09:20",
+  "updated_at": "2025-04-17T17:05:52",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -48,13 +48,13 @@
       "peers": 15759
     },
     {
-      "title": "A Working Man",
+      "title": "Mickey 17",
       "current_rank": 6,
-      "previous_rank": 48,
-      "rank_change": 42,
-      "seeders": 4987,
-      "leechers": 4255,
-      "peers": 9242
+      "previous_rank": 200,
+      "rank_change": 194,
+      "seeders": 8358,
+      "leechers": 7401,
+      "peers": 15759
     },
     {
       "title": "A Working Man",
@@ -93,22 +93,22 @@
       "peers": 9242
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 11,
-      "previous_rank": 160,
-      "rank_change": 149,
-      "seeders": 4606,
-      "leechers": 2907,
-      "peers": 7513
+      "previous_rank": 48,
+      "rank_change": 37,
+      "seeders": 4987,
+      "leechers": 4255,
+      "peers": 9242
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 12,
-      "previous_rank": 160,
-      "rank_change": 148,
-      "seeders": 4606,
-      "leechers": 2907,
-      "peers": 7513
+      "previous_rank": 48,
+      "rank_change": 36,
+      "seeders": 4987,
+      "leechers": 4255,
+      "peers": 9242
     },
     {
       "title": "Black Bag",
@@ -138,31 +138,31 @@
       "peers": 7513
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Black Bag",
       "current_rank": 16,
-      "previous_rank": 112,
-      "rank_change": 96,
-      "seeders": 3615,
-      "leechers": 2042,
-      "peers": 5657
+      "previous_rank": 160,
+      "rank_change": 144,
+      "seeders": 4606,
+      "leechers": 2907,
+      "peers": 7513
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Black Bag",
       "current_rank": 17,
-      "previous_rank": 112,
-      "rank_change": 95,
-      "seeders": 3615,
-      "leechers": 2042,
-      "peers": 5657
+      "previous_rank": 160,
+      "rank_change": 143,
+      "seeders": 4606,
+      "leechers": 2907,
+      "peers": 7513
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Black Bag",
       "current_rank": 18,
-      "previous_rank": 112,
-      "rank_change": 94,
-      "seeders": 3615,
-      "leechers": 2042,
-      "peers": 5657
+      "previous_rank": 160,
+      "rank_change": 142,
+      "seeders": 4606,
+      "leechers": 2907,
+      "peers": 7513
     },
     {
       "title": "A Minecraft Movie",
