@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-17T05:20:02",
+  "updated_at": "2025-04-17T08:07:43",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -21,13 +21,13 @@
       "peers": 4259
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 3,
-      "previous_rank": 16,
-      "rank_change": 13,
-      "seeders": 1386,
-      "leechers": 121,
-      "peers": 1507
+      "previous_rank": 8,
+      "rank_change": 5,
+      "seeders": 1575,
+      "leechers": 2684,
+      "peers": 4259
     },
     {
       "title": "inZOI",
@@ -39,44 +39,80 @@
       "peers": 1507
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 5,
-      "previous_rank": 368,
-      "rank_change": 363,
-      "seeders": 1129,
-      "leechers": 46,
-      "peers": 1175
+      "previous_rank": 16,
+      "rank_change": 11,
+      "seeders": 1386,
+      "leechers": 121,
+      "peers": 1507
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 6,
+      "previous_rank": 16,
+      "rank_change": 10,
+      "seeders": 1386,
+      "leechers": 121,
+      "peers": 1507
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 7,
       "previous_rank": 368,
-      "rank_change": 362,
+      "rank_change": 361,
+      "seeders": 1129,
+      "leechers": 46,
+      "peers": 1175
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 8,
+      "previous_rank": 368,
+      "rank_change": 360,
+      "seeders": 1129,
+      "leechers": 46,
+      "peers": 1175
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 9,
+      "previous_rank": 368,
+      "rank_change": 359,
       "seeders": 1129,
       "leechers": 46,
       "peers": 1175
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": 64,
-      "rank_change": 57,
+      "rank_change": 54,
       "seeders": 653,
       "leechers": 356,
       "peers": 1009
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 8,
+      "current_rank": 11,
       "previous_rank": 64,
-      "rank_change": 56,
+      "rank_change": 53,
+      "seeders": 653,
+      "leechers": 356,
+      "peers": 1009
+    },
+    {
+      "title": "The Last of Us Part II",
+      "current_rank": 12,
+      "previous_rank": 64,
+      "rank_change": 52,
       "seeders": 653,
       "leechers": 356,
       "peers": 1009
     },
     {
       "title": "Blue Prince",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 760,
@@ -85,7 +121,16 @@
     },
     {
       "title": "Blue Prince",
-      "current_rank": 10,
+      "current_rank": 14,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 760,
+      "leechers": 23,
+      "peers": 783
+    },
+    {
+      "title": "Blue Prince",
+      "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 760,
@@ -94,93 +139,48 @@
     },
     {
       "title": "Schedule I",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": 368,
-      "rank_change": 357,
+      "rank_change": 352,
       "seeders": 659,
       "leechers": 20,
       "peers": 679
     },
     {
       "title": "Schedule I",
-      "current_rank": 12,
+      "current_rank": 17,
       "previous_rank": 368,
-      "rank_change": 356,
+      "rank_change": 351,
+      "seeders": 659,
+      "leechers": 20,
+      "peers": 679
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 18,
+      "previous_rank": 368,
+      "rank_change": 350,
       "seeders": 659,
       "leechers": 20,
       "peers": 679
     },
     {
       "title": "Mortal Kombat 1",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": 72,
-      "rank_change": 59,
+      "rank_change": 53,
       "seeders": 307,
       "leechers": 275,
       "peers": 582
     },
     {
       "title": "Mortal Kombat 1",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": 72,
-      "rank_change": 58,
+      "rank_change": 52,
       "seeders": 307,
       "leechers": 275,
       "peers": 582
-    },
-    {
-      "title": "South of Midnight",
-      "current_rank": 15,
-      "previous_rank": 328,
-      "rank_change": 313,
-      "seeders": 404,
-      "leechers": 154,
-      "peers": 558
-    },
-    {
-      "title": "South of Midnight",
-      "current_rank": 16,
-      "previous_rank": 328,
-      "rank_change": 312,
-      "seeders": 404,
-      "leechers": 154,
-      "peers": 558
-    },
-    {
-      "title": "BLEACH: Rebirth of Souls [F",
-      "current_rank": 17,
-      "previous_rank": 80,
-      "rank_change": 63,
-      "seeders": 410,
-      "leechers": 145,
-      "peers": 555
-    },
-    {
-      "title": "BLEACH: Rebirth of Souls [F",
-      "current_rank": 18,
-      "previous_rank": 80,
-      "rank_change": 62,
-      "seeders": 410,
-      "leechers": 145,
-      "peers": 555
-    },
-    {
-      "title": "Age of Empires IV",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 280,
-      "leechers": 261,
-      "peers": 541
-    },
-    {
-      "title": "Age of Empires IV",
-      "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 280,
-      "leechers": 261,
-      "peers": 541
     }
   ]
 }
