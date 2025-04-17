@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-17T20:07:17",
+  "updated_at": "2025-04-17T23:05:18",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -66,13 +66,13 @@
       "peers": 4259
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 8,
-      "previous_rank": 16,
-      "rank_change": 8,
-      "seeders": 1386,
-      "leechers": 121,
-      "peers": 1507
+      "previous_rank": 8,
+      "rank_change": 0,
+      "seeders": 1575,
+      "leechers": 2684,
+      "peers": 4259
     },
     {
       "title": "inZOI",
@@ -129,22 +129,22 @@
       "peers": 1507
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 15,
-      "previous_rank": 368,
-      "rank_change": 353,
-      "seeders": 1129,
-      "leechers": 46,
-      "peers": 1175
+      "previous_rank": 16,
+      "rank_change": 1,
+      "seeders": 1386,
+      "leechers": 121,
+      "peers": 1507
     },
     {
-      "title": "Schedule I",
+      "title": "inZOI",
       "current_rank": 16,
-      "previous_rank": 368,
-      "rank_change": 352,
-      "seeders": 1129,
-      "leechers": 46,
-      "peers": 1175
+      "previous_rank": 16,
+      "rank_change": 0,
+      "seeders": 1386,
+      "leechers": 121,
+      "peers": 1507
     },
     {
       "title": "Schedule I",
