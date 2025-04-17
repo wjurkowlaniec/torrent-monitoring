@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-17T08:07:43",
+  "updated_at": "2025-04-17T11:06:03",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -30,13 +30,13 @@
       "peers": 15759
     },
     {
-      "title": "A Working Man",
+      "title": "Mickey 17",
       "current_rank": 4,
-      "previous_rank": 48,
-      "rank_change": 44,
-      "seeders": 4987,
-      "leechers": 4255,
-      "peers": 9242
+      "previous_rank": 200,
+      "rank_change": 196,
+      "seeders": 8358,
+      "leechers": 7401,
+      "peers": 15759
     },
     {
       "title": "A Working Man",
@@ -57,22 +57,22 @@
       "peers": 9242
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 7,
-      "previous_rank": 160,
-      "rank_change": 153,
-      "seeders": 4606,
-      "leechers": 2907,
-      "peers": 7513
+      "previous_rank": 48,
+      "rank_change": 41,
+      "seeders": 4987,
+      "leechers": 4255,
+      "peers": 9242
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 8,
-      "previous_rank": 160,
-      "rank_change": 152,
-      "seeders": 4606,
-      "leechers": 2907,
-      "peers": 7513
+      "previous_rank": 48,
+      "rank_change": 40,
+      "seeders": 4987,
+      "leechers": 4255,
+      "peers": 9242
     },
     {
       "title": "Black Bag",
@@ -84,103 +84,103 @@
       "peers": 7513
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Black Bag",
       "current_rank": 10,
-      "previous_rank": 112,
-      "rank_change": 102,
-      "seeders": 3615,
-      "leechers": 2042,
-      "peers": 5657
+      "previous_rank": 160,
+      "rank_change": 150,
+      "seeders": 4606,
+      "leechers": 2907,
+      "peers": 7513
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Black Bag",
       "current_rank": 11,
+      "previous_rank": 160,
+      "rank_change": 149,
+      "seeders": 4606,
+      "leechers": 2907,
+      "peers": 7513
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 12,
+      "previous_rank": 160,
+      "rank_change": 148,
+      "seeders": 4606,
+      "leechers": 2907,
+      "peers": 7513
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 13,
       "previous_rank": 112,
-      "rank_change": 101,
+      "rank_change": 99,
       "seeders": 3615,
       "leechers": 2042,
       "peers": 5657
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 12,
+      "current_rank": 14,
       "previous_rank": 112,
-      "rank_change": 100,
+      "rank_change": 98,
+      "seeders": 3615,
+      "leechers": 2042,
+      "peers": 5657
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 15,
+      "previous_rank": 112,
+      "rank_change": 97,
+      "seeders": 3615,
+      "leechers": 2042,
+      "peers": 5657
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 16,
+      "previous_rank": 112,
+      "rank_change": 96,
       "seeders": 3615,
       "leechers": 2042,
       "peers": 5657
     },
     {
       "title": "Novocaine",
-      "current_rank": 13,
-      "previous_rank": 24,
-      "rank_change": 11,
-      "seeders": 2475,
-      "leechers": 1676,
-      "peers": 4151
-    },
-    {
-      "title": "Novocaine",
-      "current_rank": 14,
-      "previous_rank": 24,
-      "rank_change": 10,
-      "seeders": 2475,
-      "leechers": 1676,
-      "peers": 4151
-    },
-    {
-      "title": "Novocaine",
-      "current_rank": 15,
-      "previous_rank": 24,
-      "rank_change": 9,
-      "seeders": 2475,
-      "leechers": 1676,
-      "peers": 4151
-    },
-    {
-      "title": "The Monkey",
-      "current_rank": 16,
-      "previous_rank": 64,
-      "rank_change": 48,
-      "seeders": 2682,
-      "leechers": 1170,
-      "peers": 3852
-    },
-    {
-      "title": "The Monkey",
       "current_rank": 17,
-      "previous_rank": 64,
-      "rank_change": 47,
-      "seeders": 2682,
-      "leechers": 1170,
-      "peers": 3852
+      "previous_rank": 24,
+      "rank_change": 7,
+      "seeders": 2475,
+      "leechers": 1676,
+      "peers": 4151
     },
     {
-      "title": "The Monkey",
+      "title": "Novocaine",
       "current_rank": 18,
-      "previous_rank": 64,
-      "rank_change": 46,
-      "seeders": 2682,
-      "leechers": 1170,
-      "peers": 3852
+      "previous_rank": 24,
+      "rank_change": 6,
+      "seeders": 2475,
+      "leechers": 1676,
+      "peers": 4151
     },
     {
-      "title": "A Working Man",
+      "title": "Novocaine",
       "current_rank": 19,
-      "previous_rank": 48,
-      "rank_change": 29,
-      "seeders": 1971,
-      "leechers": 1730,
-      "peers": 3701
+      "previous_rank": 24,
+      "rank_change": 5,
+      "seeders": 2475,
+      "leechers": 1676,
+      "peers": 4151
     },
     {
-      "title": "A Working Man",
+      "title": "Novocaine",
       "current_rank": 20,
-      "previous_rank": 48,
-      "rank_change": 28,
-      "seeders": 1971,
-      "leechers": 1730,
-      "peers": 3701
+      "previous_rank": 24,
+      "rank_change": 4,
+      "seeders": 2475,
+      "leechers": 1676,
+      "peers": 4151
     }
   ]
 }
