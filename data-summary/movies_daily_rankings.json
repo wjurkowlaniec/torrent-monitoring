@@ -1,186 +1,186 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-16T23:05:15",
+  "updated_at": "2025-04-17T02:23:16",
   "rankings": [
     {
       "title": "Mickey 17",
       "current_rank": 1,
-      "previous_rank": 154,
-      "rank_change": 153,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 200,
+      "rank_change": 199,
+      "seeders": 8358,
+      "leechers": 7401,
+      "peers": 15759
     },
     {
-      "title": "Mickey 17",
+      "title": "A Working Man",
       "current_rank": 2,
-      "previous_rank": 154,
-      "rank_change": 152,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 48,
+      "rank_change": 46,
+      "seeders": 4987,
+      "leechers": 4255,
+      "peers": 9242
     },
     {
-      "title": "Mickey 17",
+      "title": "Black Bag",
       "current_rank": 3,
-      "previous_rank": 154,
-      "rank_change": 151,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 160,
+      "rank_change": 157,
+      "seeders": 4606,
+      "leechers": 2907,
+      "peers": 7513
     },
     {
-      "title": "Mickey 17",
+      "title": "A Minecraft Movie",
       "current_rank": 4,
-      "previous_rank": 154,
-      "rank_change": 150,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 112,
+      "rank_change": 108,
+      "seeders": 3615,
+      "leechers": 2042,
+      "peers": 5657
     },
     {
-      "title": "Mickey 17",
+      "title": "Novocaine",
       "current_rank": 5,
-      "previous_rank": 154,
-      "rank_change": 149,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 24,
+      "rank_change": 19,
+      "seeders": 2475,
+      "leechers": 1676,
+      "peers": 4151
     },
     {
-      "title": "Mickey 17",
+      "title": "The Monkey",
       "current_rank": 6,
-      "previous_rank": 154,
-      "rank_change": 148,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 64,
+      "rank_change": 58,
+      "seeders": 2682,
+      "leechers": 1170,
+      "peers": 3852
     },
     {
-      "title": "Mickey 17",
+      "title": "A Working Man",
       "current_rank": 7,
-      "previous_rank": 154,
-      "rank_change": 147,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 48,
+      "rank_change": 41,
+      "seeders": 1971,
+      "leechers": 1730,
+      "peers": 3701
     },
     {
-      "title": "Mickey 17",
+      "title": "In the Lost Lands",
       "current_rank": 8,
-      "previous_rank": 154,
-      "rank_change": 146,
-      "seeders": 8527,
-      "leechers": 7286,
-      "peers": 15813
+      "previous_rank": 56,
+      "rank_change": 48,
+      "seeders": 2780,
+      "leechers": 853,
+      "peers": 3633
     },
     {
-      "title": "Black Bag",
+      "title": "Last Breath",
       "current_rank": 9,
-      "previous_rank": 126,
-      "rank_change": 117,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
+      "previous_rank": 72,
+      "rank_change": 63,
+      "seeders": 2371,
+      "leechers": 1235,
+      "peers": 3606
     },
     {
-      "title": "Black Bag",
+      "title": "Captain America Brave New World",
       "current_rank": 10,
-      "previous_rank": 126,
-      "rank_change": 116,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 11,
-      "previous_rank": 126,
-      "rank_change": 115,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 12,
-      "previous_rank": 126,
-      "rank_change": 114,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 13,
-      "previous_rank": 126,
-      "rank_change": 113,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 14,
-      "previous_rank": 126,
-      "rank_change": 112,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 15,
-      "previous_rank": 126,
-      "rank_change": 111,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 16,
-      "previous_rank": 126,
+      "previous_rank": 120,
       "rank_change": 110,
-      "seeders": 4469,
-      "leechers": 3839,
-      "peers": 8308
+      "seeders": 1474,
+      "leechers": 783,
+      "peers": 2257
     },
     {
-      "title": "Novocaine",
+      "title": "Cleaner",
+      "current_rank": 11,
+      "previous_rank": 88,
+      "rank_change": 77,
+      "seeders": 1665,
+      "leechers": 329,
+      "peers": 1994
+    },
+    {
+      "title": "The Alto Knights",
+      "current_rank": 12,
+      "previous_rank": 80,
+      "rank_change": 68,
+      "seeders": 1412,
+      "leechers": 489,
+      "peers": 1901
+    },
+    {
+      "title": "G20",
+      "current_rank": 13,
+      "previous_rank": 96,
+      "rank_change": 83,
+      "seeders": 1132,
+      "leechers": 560,
+      "peers": 1692
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 14,
+      "previous_rank": 112,
+      "rank_change": 98,
+      "seeders": 380,
+      "leechers": 1044,
+      "peers": 1424
+    },
+    {
+      "title": "Gunslingers",
+      "current_rank": 15,
+      "previous_rank": 104,
+      "rank_change": 89,
+      "seeders": 1040,
+      "leechers": 238,
+      "peers": 1278
+    },
+    {
+      "title": "The Woman in the Yard",
+      "current_rank": 16,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 741,
+      "leechers": 442,
+      "peers": 1183
+    },
+    {
+      "title": "Sikandar",
       "current_rank": 17,
-      "previous_rank": 21,
-      "rank_change": 4,
-      "seeders": 4116,
-      "leechers": 3736,
-      "peers": 7852
+      "previous_rank": 128,
+      "rank_change": 111,
+      "seeders": 934,
+      "leechers": 114,
+      "peers": 1048
     },
     {
-      "title": "Novocaine",
+      "title": "The Assessment",
       "current_rank": 18,
-      "previous_rank": 21,
-      "rank_change": 3,
-      "seeders": 4116,
-      "leechers": 3736,
-      "peers": 7852
+      "previous_rank": 152,
+      "rank_change": 134,
+      "seeders": 675,
+      "leechers": 350,
+      "peers": 1025
     },
     {
-      "title": "Novocaine",
+      "title": "Home Sweet Home Rebirth",
       "current_rank": 19,
-      "previous_rank": 21,
-      "rank_change": 2,
-      "seeders": 4116,
-      "leechers": 3736,
-      "peers": 7852
+      "previous_rank": 144,
+      "rank_change": 125,
+      "seeders": 853,
+      "leechers": 140,
+      "peers": 993
     },
     {
-      "title": "Novocaine",
+      "title": "Lifeline",
       "current_rank": 20,
-      "previous_rank": 21,
-      "rank_change": 1,
-      "seeders": 4116,
-      "leechers": 3736,
-      "peers": 7852
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 651,
+      "leechers": 89,
+      "peers": 740
     }
   ]
 }
