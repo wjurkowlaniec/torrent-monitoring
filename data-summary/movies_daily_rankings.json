@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-19T17:04:57",
+  "updated_at": "2025-04-19T20:06:21",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -57,13 +57,13 @@
       "peers": 19241
     },
     {
-      "title": "A Working Man",
+      "title": "Mickey 17",
       "current_rank": 7,
-      "previous_rank": 64,
-      "rank_change": 57,
-      "seeders": 5256,
-      "leechers": 5788,
-      "peers": 11044
+      "previous_rank": 216,
+      "rank_change": 209,
+      "seeders": 8736,
+      "leechers": 10505,
+      "peers": 19241
     },
     {
       "title": "A Working Man",
@@ -111,22 +111,22 @@
       "peers": 11044
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 13,
-      "previous_rank": 176,
-      "rank_change": 163,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 64,
+      "rank_change": 51,
+      "seeders": 5256,
+      "leechers": 5788,
+      "peers": 11044
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 14,
-      "previous_rank": 176,
-      "rank_change": 162,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 64,
+      "rank_change": 50,
+      "seeders": 5256,
+      "leechers": 5788,
+      "peers": 11044
     },
     {
       "title": "Black Bag",
@@ -165,22 +165,22 @@
       "peers": 7305
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Black Bag",
       "current_rank": 19,
-      "previous_rank": 112,
-      "rank_change": 93,
-      "seeders": 3836,
-      "leechers": 1887,
-      "peers": 5723
+      "previous_rank": 176,
+      "rank_change": 157,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Black Bag",
       "current_rank": 20,
-      "previous_rank": 112,
-      "rank_change": 92,
-      "seeders": 3836,
-      "leechers": 1887,
-      "peers": 5723
+      "previous_rank": 176,
+      "rank_change": 156,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     }
   ]
 }
