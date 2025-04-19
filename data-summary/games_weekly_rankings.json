@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-19T20:06:21",
+  "updated_at": "2025-04-19T23:04:50",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -66,13 +66,13 @@
       "peers": 4879
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 8,
-      "previous_rank": 16,
-      "rank_change": 8,
-      "seeders": 1389,
-      "leechers": 122,
-      "peers": 1511
+      "previous_rank": 8,
+      "rank_change": 0,
+      "seeders": 1759,
+      "leechers": 3120,
+      "peers": 4879
     },
     {
       "title": "inZOI",
@@ -129,22 +129,22 @@
       "peers": 1511
     },
     {
-      "title": "Mandragora: Whispers of the Witch Tree",
+      "title": "inZOI",
       "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1076,
-      "leechers": 406,
-      "peers": 1482
+      "previous_rank": 16,
+      "rank_change": 1,
+      "seeders": 1389,
+      "leechers": 122,
+      "peers": 1511
     },
     {
-      "title": "Mandragora: Whispers of the Witch Tree",
+      "title": "inZOI",
       "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1076,
-      "leechers": 406,
-      "peers": 1482
+      "previous_rank": 16,
+      "rank_change": 0,
+      "seeders": 1389,
+      "leechers": 122,
+      "peers": 1511
     },
     {
       "title": "Mandragora: Whispers of the Witch Tree",
