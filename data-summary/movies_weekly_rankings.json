@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-20T17:05:06",
+  "updated_at": "2025-04-20T20:06:34",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -57,13 +57,13 @@
       "peers": 19567
     },
     {
-      "title": "A Working Man",
+      "title": "Mickey 17",
       "current_rank": 7,
-      "previous_rank": 88,
-      "rank_change": 81,
-      "seeders": 5307,
-      "leechers": 5079,
-      "peers": 10386
+      "previous_rank": 160,
+      "rank_change": 153,
+      "seeders": 8748,
+      "leechers": 10819,
+      "peers": 19567
     },
     {
       "title": "A Working Man",
@@ -111,22 +111,22 @@
       "peers": 10386
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 13,
-      "previous_rank": 152,
-      "rank_change": 139,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 88,
+      "rank_change": 75,
+      "seeders": 5307,
+      "leechers": 5079,
+      "peers": 10386
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 14,
-      "previous_rank": 152,
-      "rank_change": 138,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 88,
+      "rank_change": 74,
+      "seeders": 5307,
+      "leechers": 5079,
+      "peers": 10386
     },
     {
       "title": "Black Bag",
@@ -165,22 +165,22 @@
       "peers": 7305
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 19,
-      "previous_rank": 24,
-      "rank_change": 5,
-      "seeders": 2712,
-      "leechers": 2932,
-      "peers": 5644
+      "previous_rank": 152,
+      "rank_change": 133,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 20,
-      "previous_rank": 24,
-      "rank_change": 4,
-      "seeders": 2712,
-      "leechers": 2932,
-      "peers": 5644
+      "previous_rank": 152,
+      "rank_change": 132,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     }
   ]
 }
