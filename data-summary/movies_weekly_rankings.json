@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-20T05:20:46",
+  "updated_at": "2025-04-20T08:07:05",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -21,13 +21,13 @@
       "peers": 19567
     },
     {
-      "title": "A Working Man",
+      "title": "Mickey 17",
       "current_rank": 3,
-      "previous_rank": 88,
-      "rank_change": 85,
-      "seeders": 5307,
-      "leechers": 5079,
-      "peers": 10386
+      "previous_rank": 160,
+      "rank_change": 157,
+      "seeders": 8748,
+      "leechers": 10819,
+      "peers": 19567
     },
     {
       "title": "A Working Man",
@@ -39,148 +39,148 @@
       "peers": 10386
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 5,
+      "previous_rank": 88,
+      "rank_change": 83,
+      "seeders": 5307,
+      "leechers": 5079,
+      "peers": 10386
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 6,
+      "previous_rank": 88,
+      "rank_change": 82,
+      "seeders": 5307,
+      "leechers": 5079,
+      "peers": 10386
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 7,
       "previous_rank": 152,
-      "rank_change": 147,
+      "rank_change": 145,
       "seeders": 4602,
       "leechers": 2703,
       "peers": 7305
     },
     {
       "title": "Black Bag",
-      "current_rank": 6,
+      "current_rank": 8,
       "previous_rank": 152,
-      "rank_change": 146,
+      "rank_change": 144,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 9,
+      "previous_rank": 152,
+      "rank_change": 143,
       "seeders": 4602,
       "leechers": 2703,
       "peers": 7305
     },
     {
       "title": "Novocaine",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": 24,
-      "rank_change": 17,
+      "rank_change": 14,
       "seeders": 2712,
       "leechers": 2932,
       "peers": 5644
     },
     {
       "title": "Novocaine",
-      "current_rank": 8,
+      "current_rank": 11,
       "previous_rank": 24,
-      "rank_change": 16,
+      "rank_change": 13,
+      "seeders": 2712,
+      "leechers": 2932,
+      "peers": 5644
+    },
+    {
+      "title": "Novocaine",
+      "current_rank": 12,
+      "previous_rank": 24,
+      "rank_change": 12,
       "seeders": 2712,
       "leechers": 2932,
       "peers": 5644
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 9,
-      "previous_rank": 120,
-      "rank_change": 111,
-      "seeders": 3779,
-      "leechers": 1811,
-      "peers": 5590
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 10,
-      "previous_rank": 120,
-      "rank_change": 110,
-      "seeders": 3779,
-      "leechers": 1811,
-      "peers": 5590
-    },
-    {
-      "title": "In the Lost Lands",
-      "current_rank": 11,
-      "previous_rank": 48,
-      "rank_change": 37,
-      "seeders": 2898,
-      "leechers": 1114,
-      "peers": 4012
-    },
-    {
-      "title": "In the Lost Lands",
-      "current_rank": 12,
-      "previous_rank": 48,
-      "rank_change": 36,
-      "seeders": 2898,
-      "leechers": 1114,
-      "peers": 4012
-    },
-    {
-      "title": "The Monkey",
       "current_rank": 13,
+      "previous_rank": 120,
+      "rank_change": 107,
+      "seeders": 3779,
+      "leechers": 1811,
+      "peers": 5590
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 14,
+      "previous_rank": 120,
+      "rank_change": 106,
+      "seeders": 3779,
+      "leechers": 1811,
+      "peers": 5590
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 15,
+      "previous_rank": 120,
+      "rank_change": 105,
+      "seeders": 3779,
+      "leechers": 1811,
+      "peers": 5590
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 16,
+      "previous_rank": 48,
+      "rank_change": 32,
+      "seeders": 2898,
+      "leechers": 1114,
+      "peers": 4012
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 17,
+      "previous_rank": 48,
+      "rank_change": 31,
+      "seeders": 2898,
+      "leechers": 1114,
+      "peers": 4012
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 18,
+      "previous_rank": 48,
+      "rank_change": 30,
+      "seeders": 2898,
+      "leechers": 1114,
+      "peers": 4012
+    },
+    {
+      "title": "The Monkey",
+      "current_rank": 19,
       "previous_rank": 56,
-      "rank_change": 43,
+      "rank_change": 37,
       "seeders": 2662,
       "leechers": 1201,
       "peers": 3863
     },
     {
       "title": "The Monkey",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": 56,
-      "rank_change": 42,
+      "rank_change": 36,
       "seeders": 2662,
       "leechers": 1201,
       "peers": 3863
-    },
-    {
-      "title": "A Working Man",
-      "current_rank": 15,
-      "previous_rank": 88,
-      "rank_change": 73,
-      "seeders": 1545,
-      "leechers": 1063,
-      "peers": 2608
-    },
-    {
-      "title": "A Working Man",
-      "current_rank": 16,
-      "previous_rank": 88,
-      "rank_change": 72,
-      "seeders": 1545,
-      "leechers": 1063,
-      "peers": 2608
-    },
-    {
-      "title": "Captain America Brave New World",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1357,
-      "leechers": 673,
-      "peers": 2030
-    },
-    {
-      "title": "Captain America Brave New World",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1357,
-      "leechers": 673,
-      "peers": 2030
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 19,
-      "previous_rank": 120,
-      "rank_change": 101,
-      "seeders": 371,
-      "leechers": 1642,
-      "peers": 2013
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 20,
-      "previous_rank": 120,
-      "rank_change": 100,
-      "seeders": 371,
-      "leechers": 1642,
-      "peers": 2013
     }
   ]
 }
