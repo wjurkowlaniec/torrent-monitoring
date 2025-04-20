@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-20T14:08:07",
+  "updated_at": "2025-04-20T17:05:06",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -48,13 +48,13 @@
       "peers": 19567
     },
     {
-      "title": "A Working Man",
+      "title": "Mickey 17",
       "current_rank": 6,
-      "previous_rank": 64,
-      "rank_change": 58,
-      "seeders": 5307,
-      "leechers": 5079,
-      "peers": 10386
+      "previous_rank": 216,
+      "rank_change": 210,
+      "seeders": 8748,
+      "leechers": 10819,
+      "peers": 19567
     },
     {
       "title": "A Working Man",
@@ -93,22 +93,22 @@
       "peers": 10386
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 11,
-      "previous_rank": 176,
-      "rank_change": 165,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 64,
+      "rank_change": 53,
+      "seeders": 5307,
+      "leechers": 5079,
+      "peers": 10386
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 12,
-      "previous_rank": 176,
-      "rank_change": 164,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 64,
+      "rank_change": 52,
+      "seeders": 5307,
+      "leechers": 5079,
+      "peers": 10386
     },
     {
       "title": "Black Bag",
@@ -138,31 +138,31 @@
       "peers": 7305
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 16,
-      "previous_rank": 40,
-      "rank_change": 24,
-      "seeders": 2712,
-      "leechers": 2932,
-      "peers": 5644
+      "previous_rank": 176,
+      "rank_change": 160,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 17,
-      "previous_rank": 40,
-      "rank_change": 23,
-      "seeders": 2712,
-      "leechers": 2932,
-      "peers": 5644
+      "previous_rank": 176,
+      "rank_change": 159,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "Novocaine",
+      "title": "Black Bag",
       "current_rank": 18,
-      "previous_rank": 40,
-      "rank_change": 22,
-      "seeders": 2712,
-      "leechers": 2932,
-      "peers": 5644
+      "previous_rank": 176,
+      "rank_change": 158,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
       "title": "Novocaine",
