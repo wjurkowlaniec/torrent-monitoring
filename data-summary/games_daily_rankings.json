@@ -1,186 +1,186 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-20T23:05:01",
+  "updated_at": "2025-04-21T02:25:00",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
       "current_rank": 1,
       "previous_rank": 8,
       "rank_change": 7,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Baldur's Gate 3",
       "current_rank": 2,
-      "previous_rank": 8,
-      "rank_change": 6,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "previous_rank": 16,
+      "rank_change": 14,
+      "seeders": 866,
+      "leechers": 1393,
+      "peers": 2259
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Tempest Rising",
       "current_rank": 3,
-      "previous_rank": 8,
-      "rank_change": 5,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "previous_rank": 24,
+      "rank_change": 21,
+      "seeders": 1128,
+      "leechers": 530,
+      "peers": 1658
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "inZOI",
       "current_rank": 4,
-      "previous_rank": 8,
-      "rank_change": 4,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "previous_rank": 32,
+      "rank_change": 28,
+      "seeders": 1365,
+      "leechers": 121,
+      "peers": 1486
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Schedule I",
       "current_rank": 5,
-      "previous_rank": 8,
-      "rank_change": 3,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "previous_rank": 439,
+      "rank_change": 434,
+      "seeders": 1201,
+      "leechers": 46,
+      "peers": 1247
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "The Last of Us Part II",
       "current_rank": 6,
-      "previous_rank": 8,
-      "rank_change": 2,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "previous_rank": 88,
+      "rank_change": 82,
+      "seeders": 638,
+      "leechers": 323,
+      "peers": 961
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Mandragora: Whispers of the Witch Tree",
       "current_rank": 7,
-      "previous_rank": 8,
-      "rank_change": 1,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "previous_rank": 48,
+      "rank_change": 41,
+      "seeders": 760,
+      "leechers": 130,
+      "peers": 890
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Blue Prince",
       "current_rank": 8,
-      "previous_rank": 8,
-      "rank_change": 0,
-      "seeders": 1643,
-      "leechers": 2922,
-      "peers": 4565
+      "previous_rank": 64,
+      "rank_change": 56,
+      "seeders": 748,
+      "leechers": 27,
+      "peers": 775
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "Schedule I",
       "current_rank": 9,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "previous_rank": 439,
+      "rank_change": 430,
+      "seeders": 659,
+      "leechers": 20,
+      "peers": 679
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "Last Epoch [FitGirl , - fro",
       "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "seeders": 484,
+      "leechers": 135,
+      "peers": 619
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "The Last of Us Part II",
       "current_rank": 11,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "previous_rank": 88,
+      "rank_change": 77,
+      "seeders": 493,
+      "leechers": 116,
+      "peers": 609
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "Mortal Kombat 1",
       "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "previous_rank": 104,
+      "rank_change": 92,
+      "seeders": 307,
+      "leechers": 275,
+      "peers": 582
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "South of Midnight",
       "current_rank": 13,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "previous_rank": 552,
+      "rank_change": 539,
+      "seeders": 412,
+      "leechers": 162,
+      "peers": 574
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "Baldur\u2019s Gate 3",
       "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "previous_rank": 72,
+      "rank_change": 58,
+      "seeders": 246,
+      "leechers": 326,
+      "peers": 572
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "BLEACH: Rebirth of Souls [F",
       "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "previous_rank": 112,
+      "rank_change": 97,
+      "seeders": 410,
+      "leechers": 145,
+      "peers": 555
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "Commandos: Origins",
       "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 829,
-      "leechers": 2495,
-      "peers": 3324
+      "previous_rank": 120,
+      "rank_change": 104,
+      "seeders": 453,
+      "leechers": 58,
+      "peers": 511
     },
     {
-      "title": "Tempest Rising",
+      "title": "Schedule I 3 4f4",
       "current_rank": 17,
-      "previous_rank": 72,
-      "rank_change": 55,
-      "seeders": 1367,
-      "leechers": 929,
-      "peers": 2296
+      "previous_rank": 136,
+      "rank_change": 119,
+      "seeders": 409,
+      "leechers": 13,
+      "peers": 422
     },
     {
-      "title": "Tempest Rising",
+      "title": "Cyberpunk",
       "current_rank": 18,
-      "previous_rank": 72,
-      "rank_change": 54,
-      "seeders": 1367,
-      "leechers": 929,
-      "peers": 2296
+      "previous_rank": 144,
+      "rank_change": 126,
+      "seeders": 218,
+      "leechers": 131,
+      "peers": 349
     },
     {
-      "title": "Tempest Rising",
+      "title": "Age of Empires IV",
       "current_rank": 19,
-      "previous_rank": 72,
-      "rank_change": 53,
-      "seeders": 1367,
-      "leechers": 929,
-      "peers": 2296
+      "previous_rank": 128,
+      "rank_change": 109,
+      "seeders": 196,
+      "leechers": 152,
+      "peers": 348
     },
     {
-      "title": "Tempest Rising",
+      "title": "House Party",
       "current_rank": 20,
-      "previous_rank": 72,
-      "rank_change": 52,
-      "seeders": 1367,
-      "leechers": 929,
-      "peers": 2296
+      "previous_rank": 160,
+      "rank_change": 140,
+      "seeders": 309,
+      "leechers": 31,
+      "peers": 340
     }
   ]
 }
