@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-22T02:23:24",
+  "updated_at": "2025-04-22T05:19:57",
   "rankings": [
     {
       "title": "The Last of Us: Part II",
@@ -12,8 +12,26 @@
       "peers": 3535
     },
     {
-      "title": "Baldur's Gate 3",
+      "title": "The Last of Us: Part II",
       "current_rank": 2,
+      "previous_rank": 8,
+      "rank_change": 6,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "current_rank": 3,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 749,
+      "leechers": 982,
+      "peers": 1731
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "current_rank": 4,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 749,
@@ -22,16 +40,34 @@
     },
     {
       "title": "inZOI",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 16,
-      "rank_change": 13,
+      "rank_change": 11,
+      "seeders": 1365,
+      "leechers": 122,
+      "peers": 1487
+    },
+    {
+      "title": "inZOI",
+      "current_rank": 6,
+      "previous_rank": 16,
+      "rank_change": 10,
       "seeders": 1365,
       "leechers": 122,
       "peers": 1487
     },
     {
       "title": "Tempest Rising",
-      "current_rank": 4,
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 896,
+      "leechers": 342,
+      "peers": 1238
+    },
+    {
+      "title": "Tempest Rising",
+      "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 896,
@@ -40,34 +76,70 @@
     },
     {
       "title": "Schedule I",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 400,
-      "rank_change": 395,
+      "rank_change": 391,
+      "seeders": 1144,
+      "leechers": 44,
+      "peers": 1188
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 10,
+      "previous_rank": 400,
+      "rank_change": 390,
       "seeders": 1144,
       "leechers": 44,
       "peers": 1188
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 80,
-      "rank_change": 74,
+      "rank_change": 69,
+      "seeders": 649,
+      "leechers": 336,
+      "peers": 985
+    },
+    {
+      "title": "The Last of Us Part II",
+      "current_rank": 12,
+      "previous_rank": 80,
+      "rank_change": 68,
       "seeders": 649,
       "leechers": 336,
       "peers": 985
     },
     {
       "title": "Blue Prince",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 40,
-      "rank_change": 33,
+      "rank_change": 27,
+      "seeders": 794,
+      "leechers": 23,
+      "peers": 817
+    },
+    {
+      "title": "Blue Prince",
+      "current_rank": 14,
+      "previous_rank": 40,
+      "rank_change": 26,
       "seeders": 794,
       "leechers": 23,
       "peers": 817
     },
     {
       "title": "Mandragora: Whispers of the Witch Tree",
-      "current_rank": 8,
+      "current_rank": 15,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 643,
+      "leechers": 82,
+      "peers": 725
+    },
+    {
+      "title": "Mandragora: Whispers of the Witch Tree",
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 643,
@@ -76,111 +148,39 @@
     },
     {
       "title": "Schedule I",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 400,
-      "rank_change": 391,
+      "rank_change": 383,
+      "seeders": 659,
+      "leechers": 20,
+      "peers": 679
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 18,
+      "previous_rank": 400,
+      "rank_change": 382,
       "seeders": 659,
       "leechers": 20,
       "peers": 679
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 80,
-      "rank_change": 70,
+      "rank_change": 61,
       "seeders": 479,
       "leechers": 111,
       "peers": 590
     },
     {
-      "title": "Mortal Kombat 1",
-      "current_rank": 11,
-      "previous_rank": 72,
-      "rank_change": 61,
-      "seeders": 307,
-      "leechers": 275,
-      "peers": 582
-    },
-    {
-      "title": "BLEACH: Rebirth of Souls [F",
-      "current_rank": 12,
-      "previous_rank": 96,
-      "rank_change": 84,
-      "seeders": 410,
-      "leechers": 145,
-      "peers": 555
-    },
-    {
-      "title": "Last Epoch [FitGirl , - fro",
-      "current_rank": 13,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 371,
-      "leechers": 90,
-      "peers": 461
-    },
-    {
-      "title": "South of Midnight",
-      "current_rank": 14,
-      "previous_rank": 464,
-      "rank_change": 450,
-      "seeders": 344,
-      "leechers": 111,
-      "peers": 455
-    },
-    {
-      "title": "Commandos: Origins",
-      "current_rank": 15,
-      "previous_rank": 336,
-      "rank_change": 321,
-      "seeders": 398,
-      "leechers": 49,
-      "peers": 447
-    },
-    {
-      "title": "Baldur\u2019s Gate 3",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 194,
-      "leechers": 236,
-      "peers": 430
-    },
-    {
-      "title": "Schedule I 3 4f4",
-      "current_rank": 17,
-      "previous_rank": 112,
-      "rank_change": 95,
-      "seeders": 362,
-      "leechers": 5,
-      "peers": 367
-    },
-    {
-      "title": "LUNAR Collection",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 328,
-      "leechers": 36,
-      "peers": 364
-    },
-    {
-      "title": "Cyberpunk",
-      "current_rank": 19,
-      "previous_rank": 128,
-      "rank_change": 109,
-      "seeders": 218,
-      "leechers": 131,
-      "peers": 349
-    },
-    {
-      "title": "Soulslinger: Envoy of Death [FitGirl , Selective Do",
+      "title": "The Last of Us Part II",
       "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 213,
-      "leechers": 129,
-      "peers": 342
+      "previous_rank": 80,
+      "rank_change": 60,
+      "seeders": 479,
+      "leechers": 111,
+      "peers": 590
     }
   ]
 }

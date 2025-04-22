@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-22T02:23:24",
+  "updated_at": "2025-04-22T05:19:57",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -12,44 +12,98 @@
       "peers": 16686
     },
     {
-      "title": "A Working Man",
+      "title": "Mickey 17",
       "current_rank": 2,
+      "previous_rank": 200,
+      "rank_change": 198,
+      "seeders": 8695,
+      "leechers": 7991,
+      "peers": 16686
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 3,
       "previous_rank": 48,
-      "rank_change": 46,
+      "rank_change": 45,
+      "seeders": 4900,
+      "leechers": 3856,
+      "peers": 8756
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 4,
+      "previous_rank": 48,
+      "rank_change": 44,
       "seeders": 4900,
       "leechers": 3856,
       "peers": 8756
     },
     {
       "title": "Black Bag",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 160,
-      "rank_change": 157,
+      "rank_change": 155,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 6,
+      "previous_rank": 160,
+      "rank_change": 154,
       "seeders": 4602,
       "leechers": 2703,
       "peers": 7305
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 112,
-      "rank_change": 108,
+      "rank_change": 105,
+      "seeders": 3942,
+      "leechers": 1725,
+      "peers": 5667
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 8,
+      "previous_rank": 112,
+      "rank_change": 104,
       "seeders": 3942,
       "leechers": 1725,
       "peers": 5667
     },
     {
       "title": "Novocaine",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 24,
-      "rank_change": 19,
+      "rank_change": 15,
+      "seeders": 2540,
+      "leechers": 2114,
+      "peers": 4654
+    },
+    {
+      "title": "Novocaine",
+      "current_rank": 10,
+      "previous_rank": 24,
+      "rank_change": 14,
       "seeders": 2540,
       "leechers": 2114,
       "peers": 4654
     },
     {
       "title": "Sinners",
-      "current_rank": 6,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1510,
+      "leechers": 3001,
+      "peers": 4511
+    },
+    {
+      "title": "Sinners",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 1510,
@@ -58,129 +112,75 @@
     },
     {
       "title": "The Monkey",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 64,
-      "rank_change": 57,
+      "rank_change": 51,
+      "seeders": 2662,
+      "leechers": 1201,
+      "peers": 3863
+    },
+    {
+      "title": "The Monkey",
+      "current_rank": 14,
+      "previous_rank": 64,
+      "rank_change": 50,
       "seeders": 2662,
       "leechers": 1201,
       "peers": 3863
     },
     {
       "title": "In the Lost Lands",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 56,
-      "rank_change": 48,
+      "rank_change": 41,
+      "seeders": 2934,
+      "leechers": 878,
+      "peers": 3812
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 16,
+      "previous_rank": 56,
+      "rank_change": 40,
       "seeders": 2934,
       "leechers": 878,
       "peers": 3812
     },
     {
       "title": "A Working Man",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 48,
-      "rank_change": 39,
+      "rank_change": 31,
+      "seeders": 1545,
+      "leechers": 1063,
+      "peers": 2608
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 18,
+      "previous_rank": 48,
+      "rank_change": 30,
       "seeders": 1545,
       "leechers": 1063,
       "peers": 2608
     },
     {
       "title": "Captain America Brave New World",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 120,
-      "rank_change": 110,
+      "rank_change": 101,
       "seeders": 1874,
       "leechers": 708,
       "peers": 2582
     },
     {
-      "title": "A Minecraft Movie",
-      "current_rank": 11,
-      "previous_rank": 112,
-      "rank_change": 101,
-      "seeders": 396,
-      "leechers": 1368,
-      "peers": 1764
-    },
-    {
-      "title": "The Alto Knights",
-      "current_rank": 12,
-      "previous_rank": 80,
-      "rank_change": 68,
-      "seeders": 1089,
-      "leechers": 427,
-      "peers": 1516
-    },
-    {
-      "title": "G20",
-      "current_rank": 13,
-      "previous_rank": 96,
-      "rank_change": 83,
-      "seeders": 1089,
-      "leechers": 364,
-      "peers": 1453
-    },
-    {
-      "title": "The Assessment",
-      "current_rank": 14,
-      "previous_rank": 152,
-      "rank_change": 138,
-      "seeders": 655,
-      "leechers": 646,
-      "peers": 1301
-    },
-    {
-      "title": "It Feeds",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1050,
-      "leechers": 171,
-      "peers": 1221
-    },
-    {
-      "title": "Warfare",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 496,
-      "leechers": 668,
-      "peers": 1164
-    },
-    {
-      "title": "Sikandar",
-      "current_rank": 17,
-      "previous_rank": 128,
-      "rank_change": 111,
-      "seeders": 934,
-      "leechers": 114,
-      "peers": 1048
-    },
-    {
-      "title": "Gunslingers",
-      "current_rank": 18,
-      "previous_rank": 104,
-      "rank_change": 86,
-      "seeders": 844,
-      "leechers": 140,
-      "peers": 984
-    },
-    {
-      "title": "The Woman in the Yard",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 500,
-      "leechers": 451,
-      "peers": 951
-    },
-    {
-      "title": "Home Sweet Home Rebirth",
+      "title": "Captain America Brave New World",
       "current_rank": 20,
-      "previous_rank": 144,
-      "rank_change": 124,
-      "seeders": 768,
-      "leechers": 149,
-      "peers": 917
+      "previous_rank": 120,
+      "rank_change": 100,
+      "seeders": 1874,
+      "leechers": 708,
+      "peers": 2582
     }
   ]
 }
