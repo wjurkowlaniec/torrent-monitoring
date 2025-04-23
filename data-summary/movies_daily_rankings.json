@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-23T20:07:28",
+  "updated_at": "2025-04-23T23:05:20",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -66,13 +66,13 @@
       "peers": 15687
     },
     {
-      "title": "Black Bag",
+      "title": "Mickey 17",
       "current_rank": 8,
-      "previous_rank": 168,
-      "rank_change": 160,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 208,
+      "rank_change": 200,
+      "seeders": 8559,
+      "leechers": 7128,
+      "peers": 15687
     },
     {
       "title": "Black Bag",
@@ -129,22 +129,22 @@
       "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 15,
-      "previous_rank": 72,
-      "rank_change": 57,
-      "seeders": 4442,
-      "leechers": 2803,
-      "peers": 7245
+      "previous_rank": 168,
+      "rank_change": 153,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 16,
-      "previous_rank": 72,
-      "rank_change": 56,
-      "seeders": 4442,
-      "leechers": 2803,
-      "peers": 7245
+      "previous_rank": 168,
+      "rank_change": 152,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
       "title": "A Working Man",
