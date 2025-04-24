@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-24T14:09:07",
+  "updated_at": "2025-04-24T17:06:17",
   "rankings": [
     {
       "title": "The Elder Scrolls IV Oblivion",
@@ -48,13 +48,13 @@
       "peers": 13421
     },
     {
-      "title": "The Elder Scrolls IV: Oblivion",
+      "title": "The Elder Scrolls IV Oblivion",
       "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 146,
-      "leechers": 4975,
-      "peers": 5121
+      "seeders": 3275,
+      "leechers": 10146,
+      "peers": 13421
     },
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -93,22 +93,22 @@
       "peers": 5121
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 11,
-      "previous_rank": 16,
-      "rank_change": 5,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 146,
+      "leechers": 4975,
+      "peers": 5121
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 12,
-      "previous_rank": 16,
-      "rank_change": 4,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 146,
+      "leechers": 4975,
+      "peers": 5121
     },
     {
       "title": "The Last of Us: Part II",
@@ -138,31 +138,31 @@
       "peers": 3535
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 16,
-      "previous_rank": 24,
-      "rank_change": 8,
-      "seeders": 1365,
-      "leechers": 122,
-      "peers": 1487
+      "previous_rank": 16,
+      "rank_change": 0,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 17,
-      "previous_rank": 24,
-      "rank_change": 7,
-      "seeders": 1365,
-      "leechers": 122,
-      "peers": 1487
+      "previous_rank": 16,
+      "rank_change": -1,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     },
     {
-      "title": "inZOI",
+      "title": "The Last of Us: Part II",
       "current_rank": 18,
-      "previous_rank": 24,
-      "rank_change": 6,
-      "seeders": 1365,
-      "leechers": 122,
-      "peers": 1487
+      "previous_rank": 16,
+      "rank_change": -2,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     },
     {
       "title": "inZOI",

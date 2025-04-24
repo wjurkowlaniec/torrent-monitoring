@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-24T14:09:07",
+  "updated_at": "2025-04-24T17:06:17",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -48,13 +48,13 @@
       "peers": 12625
     },
     {
-      "title": "Black Bag",
+      "title": "Mickey 17",
       "current_rank": 6,
-      "previous_rank": 184,
-      "rank_change": 178,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 216,
+      "rank_change": 210,
+      "seeders": 6647,
+      "leechers": 5978,
+      "peers": 12625
     },
     {
       "title": "Black Bag",
@@ -93,22 +93,22 @@
       "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 11,
-      "previous_rank": 72,
-      "rank_change": 61,
-      "seeders": 4160,
-      "leechers": 2501,
-      "peers": 6661
+      "previous_rank": 184,
+      "rank_change": 173,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 12,
-      "previous_rank": 72,
-      "rank_change": 60,
-      "seeders": 4160,
-      "leechers": 2501,
-      "peers": 6661
+      "previous_rank": 184,
+      "rank_change": 172,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
       "title": "A Working Man",
@@ -138,31 +138,31 @@
       "peers": 6661
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 16,
-      "previous_rank": 104,
-      "rank_change": 88,
-      "seeders": 3857,
-      "leechers": 1675,
-      "peers": 5532
+      "previous_rank": 72,
+      "rank_change": 56,
+      "seeders": 4160,
+      "leechers": 2501,
+      "peers": 6661
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 17,
-      "previous_rank": 104,
-      "rank_change": 87,
-      "seeders": 3857,
-      "leechers": 1675,
-      "peers": 5532
+      "previous_rank": 72,
+      "rank_change": 55,
+      "seeders": 4160,
+      "leechers": 2501,
+      "peers": 6661
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 18,
-      "previous_rank": 104,
-      "rank_change": 86,
-      "seeders": 3857,
-      "leechers": 1675,
-      "peers": 5532
+      "previous_rank": 72,
+      "rank_change": 54,
+      "seeders": 4160,
+      "leechers": 2501,
+      "peers": 6661
     },
     {
       "title": "A Minecraft Movie",
