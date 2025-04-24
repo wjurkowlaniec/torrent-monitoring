@@ -1,186 +1,186 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-23T23:05:20",
+  "updated_at": "2025-04-24T02:23:31",
   "rankings": [
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "The Elder Scrolls IV Oblivion",
       "current_rank": 1,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "seeders": 3275,
+      "leechers": 10146,
+      "peers": 13421
     },
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 2,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "seeders": 146,
+      "leechers": 4975,
+      "peers": 5121
     },
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "The Last of Us: Part II",
       "current_rank": 3,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "previous_rank": 8,
+      "rank_change": 5,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     },
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "inZOI",
       "current_rank": 4,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "previous_rank": 16,
+      "rank_change": 12,
+      "seeders": 1365,
+      "leechers": 122,
+      "peers": 1487
     },
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "Schedule I",
       "current_rank": 5,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "previous_rank": 408,
+      "rank_change": 403,
+      "seeders": 1228,
+      "leechers": 41,
+      "peers": 1269
     },
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "Baldur's Gate 3",
       "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "seeders": 552,
+      "leechers": 618,
+      "peers": 1170
     },
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "Tempest Rising",
       "current_rank": 7,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "seeders": 772,
+      "leechers": 216,
+      "peers": 988
     },
     {
-      "title": "The Elder Scrolls IV Oblivion Deluxe Edition",
+      "title": "FATAL FURY: City of the Wolves",
       "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 532,
-      "leechers": 10133,
-      "peers": 10665
+      "seeders": 531,
+      "leechers": 253,
+      "peers": 784
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Blue Prince",
       "current_rank": 9,
-      "previous_rank": 8,
-      "rank_change": -1,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 40,
+      "rank_change": 31,
+      "seeders": 736,
+      "leechers": 20,
+      "peers": 756
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Schedule I",
       "current_rank": 10,
-      "previous_rank": 8,
-      "rank_change": -2,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 408,
+      "rank_change": 398,
+      "seeders": 659,
+      "leechers": 20,
+      "peers": 679
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "The Last of Us Part II",
       "current_rank": 11,
-      "previous_rank": 8,
-      "rank_change": -3,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 56,
+      "rank_change": 45,
+      "seeders": 529,
+      "leechers": 119,
+      "peers": 648
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Mortal Kombat 1",
       "current_rank": 12,
-      "previous_rank": 8,
-      "rank_change": -4,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 64,
+      "rank_change": 52,
+      "seeders": 307,
+      "leechers": 275,
+      "peers": 582
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Mandragora: Whispers of the Witch Tree",
       "current_rank": 13,
-      "previous_rank": 8,
-      "rank_change": -5,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 519,
+      "leechers": 50,
+      "peers": 569
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "South of Midnight",
       "current_rank": 14,
-      "previous_rank": 8,
-      "rank_change": -6,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 504,
+      "rank_change": 490,
+      "seeders": 344,
+      "leechers": 111,
+      "peers": 455
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Commandos: Origins",
       "current_rank": 15,
-      "previous_rank": 8,
-      "rank_change": -7,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 376,
+      "rank_change": 361,
+      "seeders": 356,
+      "leechers": 37,
+      "peers": 393
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Baldur\u2019s Gate 3",
       "current_rank": 16,
-      "previous_rank": 8,
-      "rank_change": -8,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 173,
+      "leechers": 208,
+      "peers": 381
     },
     {
-      "title": "inZOI",
+      "title": "Cyberpunk",
       "current_rank": 17,
-      "previous_rank": 16,
-      "rank_change": -1,
-      "seeders": 1365,
-      "leechers": 122,
-      "peers": 1487
+      "previous_rank": 136,
+      "rank_change": 119,
+      "seeders": 218,
+      "leechers": 131,
+      "peers": 349
     },
     {
-      "title": "inZOI",
+      "title": "Schedule I 3 4f4",
       "current_rank": 18,
-      "previous_rank": 16,
-      "rank_change": -2,
-      "seeders": 1365,
-      "leechers": 122,
-      "peers": 1487
+      "previous_rank": 104,
+      "rank_change": 86,
+      "seeders": 338,
+      "leechers": 5,
+      "peers": 343
     },
     {
-      "title": "inZOI",
+      "title": "House Party",
       "current_rank": 19,
-      "previous_rank": 16,
-      "rank_change": -3,
-      "seeders": 1365,
-      "leechers": 122,
-      "peers": 1487
+      "previous_rank": 152,
+      "rank_change": 133,
+      "seeders": 309,
+      "leechers": 31,
+      "peers": 340
     },
     {
-      "title": "inZOI",
+      "title": "AI LIMIT",
       "current_rank": 20,
-      "previous_rank": 16,
-      "rank_change": -4,
-      "seeders": 1365,
-      "leechers": 122,
-      "peers": 1487
+      "previous_rank": 168,
+      "rank_change": 148,
+      "seeders": 247,
+      "leechers": 57,
+      "peers": 304
     }
   ]
 }
