@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-25T02:23:38",
+  "updated_at": "2025-04-25T05:20:43",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -12,26 +12,62 @@
       "peers": 25243
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 2,
+      "previous_rank": 16,
+      "rank_change": 14,
+      "seeders": 4313,
+      "leechers": 20930,
+      "peers": 25243
+    },
+    {
+      "title": "The Elder Scrolls IV Oblivion",
+      "current_rank": 3,
       "previous_rank": 8,
-      "rank_change": 6,
+      "rank_change": 5,
+      "seeders": 2897,
+      "leechers": 4357,
+      "peers": 7254
+    },
+    {
+      "title": "The Elder Scrolls IV Oblivion",
+      "current_rank": 4,
+      "previous_rank": 8,
+      "rank_change": 4,
       "seeders": 2897,
       "leechers": 4357,
       "peers": 7254
     },
     {
       "title": "The Last of Us: Part II",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 24,
-      "rank_change": 21,
+      "rank_change": 19,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
+    },
+    {
+      "title": "The Last of Us: Part II",
+      "current_rank": 6,
+      "previous_rank": 24,
+      "rank_change": 18,
       "seeders": 1316,
       "leechers": 2219,
       "peers": 3535
     },
     {
       "title": "Clair Obscur Expedition 33",
-      "current_rank": 4,
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 759,
+      "leechers": 1082,
+      "peers": 1841
+    },
+    {
+      "title": "Clair Obscur Expedition 33",
+      "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 759,
@@ -40,147 +76,111 @@
     },
     {
       "title": "inZOI",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 32,
-      "rank_change": 27,
+      "rank_change": 23,
+      "seeders": 1365,
+      "leechers": 122,
+      "peers": 1487
+    },
+    {
+      "title": "inZOI",
+      "current_rank": 10,
+      "previous_rank": 32,
+      "rank_change": 22,
       "seeders": 1365,
       "leechers": 122,
       "peers": 1487
     },
     {
       "title": "Schedule I",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 424,
-      "rank_change": 418,
+      "rank_change": 413,
+      "seeders": 1228,
+      "leechers": 41,
+      "peers": 1269
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 12,
+      "previous_rank": 424,
+      "rank_change": 412,
       "seeders": 1228,
       "leechers": 41,
       "peers": 1269
     },
     {
       "title": "Baldur's Gate 3",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 48,
-      "rank_change": 41,
+      "rank_change": 35,
+      "seeders": 537,
+      "leechers": 623,
+      "peers": 1160
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "current_rank": 14,
+      "previous_rank": 48,
+      "rank_change": 34,
       "seeders": 537,
       "leechers": 623,
       "peers": 1160
     },
     {
       "title": "Tempest Rising",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 56,
-      "rank_change": 48,
+      "rank_change": 41,
+      "seeders": 772,
+      "leechers": 172,
+      "peers": 944
+    },
+    {
+      "title": "Tempest Rising",
+      "current_rank": 16,
+      "previous_rank": 56,
+      "rank_change": 40,
       "seeders": 772,
       "leechers": 172,
       "peers": 944
     },
     {
       "title": "Blue Prince",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 72,
-      "rank_change": 63,
+      "rank_change": 55,
+      "seeders": 787,
+      "leechers": 15,
+      "peers": 802
+    },
+    {
+      "title": "Blue Prince",
+      "current_rank": 18,
+      "previous_rank": 72,
+      "rank_change": 54,
       "seeders": 787,
       "leechers": 15,
       "peers": 802
     },
     {
       "title": "FATAL FURY: City of the Wolves",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 64,
-      "rank_change": 54,
+      "rank_change": 45,
       "seeders": 467,
       "leechers": 195,
       "peers": 662
     },
     {
-      "title": "The Last of Us Part II",
-      "current_rank": 11,
-      "previous_rank": 88,
-      "rank_change": 77,
-      "seeders": 517,
-      "leechers": 118,
-      "peers": 635
-    },
-    {
-      "title": "Mortal Kombat 1",
-      "current_rank": 12,
-      "previous_rank": 96,
-      "rank_change": 84,
-      "seeders": 307,
-      "leechers": 275,
-      "peers": 582
-    },
-    {
-      "title": "Mandragora: Whispers of the Witch Tree",
-      "current_rank": 13,
-      "previous_rank": 104,
-      "rank_change": 91,
-      "seeders": 453,
-      "leechers": 58,
-      "peers": 511
-    },
-    {
-      "title": "South of Midnight",
-      "current_rank": 14,
-      "previous_rank": 576,
-      "rank_change": 562,
-      "seeders": 344,
-      "leechers": 111,
-      "peers": 455
-    },
-    {
-      "title": "Schedule I 3 4f4",
-      "current_rank": 15,
-      "previous_rank": 144,
-      "rank_change": 129,
-      "seeders": 392,
-      "leechers": 4,
-      "peers": 396
-    },
-    {
-      "title": "Baldur\u2019s Gate 3",
-      "current_rank": 16,
-      "previous_rank": 128,
-      "rank_change": 112,
-      "seeders": 161,
-      "leechers": 215,
-      "peers": 376
-    },
-    {
-      "title": "Cyberpunk",
-      "current_rank": 17,
-      "previous_rank": 136,
-      "rank_change": 119,
-      "seeders": 218,
-      "leechers": 131,
-      "peers": 349
-    },
-    {
-      "title": "House Party",
-      "current_rank": 18,
-      "previous_rank": 152,
-      "rank_change": 134,
-      "seeders": 309,
-      "leechers": 31,
-      "peers": 340
-    },
-    {
-      "title": "AI LIMIT",
-      "current_rank": 19,
-      "previous_rank": 160,
-      "rank_change": 141,
-      "seeders": 247,
-      "leechers": 57,
-      "peers": 304
-    },
-    {
-      "title": "Age of Empires IV",
+      "title": "FATAL FURY: City of the Wolves",
       "current_rank": 20,
-      "previous_rank": 176,
-      "rank_change": 156,
-      "seeders": 166,
-      "leechers": 135,
-      "peers": 301
+      "previous_rank": 64,
+      "rank_change": 44,
+      "seeders": 467,
+      "leechers": 195,
+      "peers": 662
     }
   ]
 }
