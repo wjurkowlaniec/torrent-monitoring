@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-27T08:07:07",
+  "updated_at": "2025-04-27T11:05:27",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -30,13 +30,13 @@
       "peers": 12625
     },
     {
-      "title": "The Accountant 2",
+      "title": "Mickey 17",
       "current_rank": 4,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 3393,
-      "leechers": 4470,
-      "peers": 7863
+      "previous_rank": 208,
+      "rank_change": 204,
+      "seeders": 6647,
+      "leechers": 5978,
+      "peers": 12625
     },
     {
       "title": "The Accountant 2",
@@ -57,22 +57,22 @@
       "peers": 7863
     },
     {
-      "title": "A Working Man",
+      "title": "The Accountant 2",
       "current_rank": 7,
-      "previous_rank": 72,
-      "rank_change": 65,
-      "seeders": 4838,
-      "leechers": 2556,
-      "peers": 7394
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3393,
+      "leechers": 4470,
+      "peers": 7863
     },
     {
-      "title": "A Working Man",
+      "title": "The Accountant 2",
       "current_rank": 8,
-      "previous_rank": 72,
-      "rank_change": 64,
-      "seeders": 4838,
-      "leechers": 2556,
-      "peers": 7394
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3393,
+      "leechers": 4470,
+      "peers": 7863
     },
     {
       "title": "A Working Man",
@@ -84,103 +84,103 @@
       "peers": 7394
     },
     {
-      "title": "Black Bag",
+      "title": "A Working Man",
       "current_rank": 10,
-      "previous_rank": 184,
-      "rank_change": 174,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 11,
-      "previous_rank": 184,
-      "rank_change": 173,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
-    },
-    {
-      "title": "Black Bag",
-      "current_rank": 12,
-      "previous_rank": 184,
-      "rank_change": 172,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 13,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 4351,
-      "leechers": 2076,
-      "peers": 6427
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 4351,
-      "leechers": 2076,
-      "peers": 6427
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 4351,
-      "leechers": 2076,
-      "peers": 6427
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 16,
-      "previous_rank": 80,
-      "rank_change": 64,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 17,
-      "previous_rank": 80,
-      "rank_change": 63,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 18,
-      "previous_rank": 80,
+      "previous_rank": 72,
       "rank_change": 62,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "seeders": 4838,
+      "leechers": 2556,
+      "peers": 7394
     },
     {
-      "title": "Sinners",
+      "title": "A Working Man",
+      "current_rank": 11,
+      "previous_rank": 72,
+      "rank_change": 61,
+      "seeders": 4838,
+      "leechers": 2556,
+      "peers": 7394
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 12,
+      "previous_rank": 72,
+      "rank_change": 60,
+      "seeders": 4838,
+      "leechers": 2556,
+      "peers": 7394
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 13,
+      "previous_rank": 184,
+      "rank_change": 171,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 14,
+      "previous_rank": 184,
+      "rank_change": 170,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 15,
+      "previous_rank": 184,
+      "rank_change": 169,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 16,
+      "previous_rank": 184,
+      "rank_change": 168,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
+    },
+    {
+      "title": "Havoc",
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4351,
+      "leechers": 2076,
+      "peers": 6427
+    },
+    {
+      "title": "Havoc",
+      "current_rank": 18,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4351,
+      "leechers": 2076,
+      "peers": 6427
+    },
+    {
+      "title": "Havoc",
       "current_rank": 19,
-      "previous_rank": 64,
-      "rank_change": 45,
-      "seeders": 1523,
-      "leechers": 3394,
-      "peers": 4917
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4351,
+      "leechers": 2076,
+      "peers": 6427
     },
     {
-      "title": "Sinners",
+      "title": "Havoc",
       "current_rank": 20,
-      "previous_rank": 64,
-      "rank_change": 44,
-      "seeders": 1523,
-      "leechers": 3394,
-      "peers": 4917
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4351,
+      "leechers": 2076,
+      "peers": 6427
     }
   ]
 }
