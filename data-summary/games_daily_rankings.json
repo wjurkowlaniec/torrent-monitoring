@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-29T20:07:34",
+  "updated_at": "2025-04-29T23:05:09",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -57,13 +57,13 @@
       "peers": 8591
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 7,
-      "previous_rank": 18,
-      "rank_change": 11,
-      "seeders": 3436,
-      "leechers": 1832,
-      "peers": 5268
+      "previous_rank": 36,
+      "rank_change": 29,
+      "seeders": 4382,
+      "leechers": 4209,
+      "peers": 8591
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -111,22 +111,22 @@
       "peers": 5268
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 13,
-      "previous_rank": 27,
-      "rank_change": 14,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 18,
+      "rank_change": 5,
+      "seeders": 3436,
+      "leechers": 1832,
+      "peers": 5268
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 14,
-      "previous_rank": 27,
-      "rank_change": 13,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 18,
+      "rank_change": 4,
+      "seeders": 3436,
+      "leechers": 1832,
+      "peers": 5268
     },
     {
       "title": "The Last of Us: Part II",
@@ -165,22 +165,22 @@
       "peers": 3535
     },
     {
-      "title": "The Elder Scrolls IV: Oblivion",
+      "title": "The Last of Us: Part II",
       "current_rank": 19,
-      "previous_rank": 36,
-      "rank_change": 17,
-      "seeders": 1817,
-      "leechers": 686,
-      "peers": 2503
+      "previous_rank": 27,
+      "rank_change": 8,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     },
     {
-      "title": "The Elder Scrolls IV: Oblivion",
+      "title": "The Last of Us: Part II",
       "current_rank": 20,
-      "previous_rank": 36,
-      "rank_change": 16,
-      "seeders": 1817,
-      "leechers": 686,
-      "peers": 2503
+      "previous_rank": 27,
+      "rank_change": 7,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     }
   ]
 }
