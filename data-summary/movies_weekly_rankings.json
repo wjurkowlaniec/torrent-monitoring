@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-04-30T11:06:18",
+  "updated_at": "2025-04-30T14:09:03",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -39,13 +39,13 @@
       "peers": 12625
     },
     {
-      "title": "The Accountant 2",
+      "title": "Mickey 17",
       "current_rank": 5,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 4010,
-      "leechers": 7989,
-      "peers": 11999
+      "previous_rank": 224,
+      "rank_change": 219,
+      "seeders": 6647,
+      "leechers": 5978,
+      "peers": 12625
     },
     {
       "title": "The Accountant 2",
@@ -75,22 +75,22 @@
       "peers": 11999
     },
     {
-      "title": "Black Bag",
+      "title": "The Accountant 2",
       "current_rank": 9,
-      "previous_rank": 176,
-      "rank_change": 167,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4010,
+      "leechers": 7989,
+      "peers": 11999
     },
     {
-      "title": "Black Bag",
+      "title": "The Accountant 2",
       "current_rank": 10,
-      "previous_rank": 176,
-      "rank_change": 166,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4010,
+      "leechers": 7989,
+      "peers": 11999
     },
     {
       "title": "Black Bag",
@@ -111,31 +111,31 @@
       "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 13,
-      "previous_rank": 88,
-      "rank_change": 75,
-      "seeders": 4548,
-      "leechers": 1723,
-      "peers": 6271
+      "previous_rank": 176,
+      "rank_change": 163,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 14,
-      "previous_rank": 88,
-      "rank_change": 74,
-      "seeders": 4548,
-      "leechers": 1723,
-      "peers": 6271
+      "previous_rank": 176,
+      "rank_change": 162,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 15,
-      "previous_rank": 88,
-      "rank_change": 73,
-      "seeders": 4548,
-      "leechers": 1723,
-      "peers": 6271
+      "previous_rank": 176,
+      "rank_change": 161,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
       "title": "A Working Man",
@@ -147,40 +147,40 @@
       "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 17,
-      "previous_rank": 104,
-      "rank_change": 87,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 88,
+      "rank_change": 71,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 18,
-      "previous_rank": 104,
-      "rank_change": 86,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 88,
+      "rank_change": 70,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 19,
-      "previous_rank": 104,
-      "rank_change": 85,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 88,
+      "rank_change": 69,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 20,
-      "previous_rank": 104,
-      "rank_change": 84,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 88,
+      "rank_change": 68,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     }
   ]
 }

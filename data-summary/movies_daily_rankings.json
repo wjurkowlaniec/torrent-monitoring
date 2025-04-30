@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-30T11:06:17",
+  "updated_at": "2025-04-30T14:09:03",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -39,13 +39,13 @@
       "peers": 12625
     },
     {
-      "title": "The Accountant 2",
+      "title": "Mickey 17",
       "current_rank": 5,
-      "previous_rank": 14,
-      "rank_change": 9,
-      "seeders": 4010,
-      "leechers": 7989,
-      "peers": 11999
+      "previous_rank": 238,
+      "rank_change": 233,
+      "seeders": 6647,
+      "leechers": 5978,
+      "peers": 12625
     },
     {
       "title": "The Accountant 2",
@@ -75,22 +75,22 @@
       "peers": 11999
     },
     {
-      "title": "Black Bag",
+      "title": "The Accountant 2",
       "current_rank": 9,
-      "previous_rank": 189,
-      "rank_change": 180,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 14,
+      "rank_change": 5,
+      "seeders": 4010,
+      "leechers": 7989,
+      "peers": 11999
     },
     {
-      "title": "Black Bag",
+      "title": "The Accountant 2",
       "current_rank": 10,
-      "previous_rank": 189,
-      "rank_change": 179,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 14,
+      "rank_change": 4,
+      "seeders": 4010,
+      "leechers": 7989,
+      "peers": 11999
     },
     {
       "title": "Black Bag",
@@ -111,31 +111,31 @@
       "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 13,
-      "previous_rank": 70,
-      "rank_change": 57,
-      "seeders": 4548,
-      "leechers": 1723,
-      "peers": 6271
+      "previous_rank": 189,
+      "rank_change": 176,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 14,
-      "previous_rank": 70,
-      "rank_change": 56,
-      "seeders": 4548,
-      "leechers": 1723,
-      "peers": 6271
+      "previous_rank": 189,
+      "rank_change": 175,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 15,
-      "previous_rank": 70,
-      "rank_change": 55,
-      "seeders": 4548,
-      "leechers": 1723,
-      "peers": 6271
+      "previous_rank": 189,
+      "rank_change": 174,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
       "title": "A Working Man",
@@ -147,40 +147,40 @@
       "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 17,
-      "previous_rank": 98,
-      "rank_change": 81,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 70,
+      "rank_change": 53,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 18,
-      "previous_rank": 98,
-      "rank_change": 80,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 70,
+      "rank_change": 52,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 19,
-      "previous_rank": 98,
-      "rank_change": 79,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 70,
+      "rank_change": 51,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "A Working Man",
       "current_rank": 20,
-      "previous_rank": 98,
-      "rank_change": 78,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 70,
+      "rank_change": 50,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
     }
   ]
 }
