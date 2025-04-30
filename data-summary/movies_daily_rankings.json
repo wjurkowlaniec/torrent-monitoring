@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-04-30T05:20:47",
+  "updated_at": "2025-04-30T08:07:54",
   "rankings": [
     {
       "title": "Mickey 17",
@@ -21,13 +21,13 @@
       "peers": 12625
     },
     {
-      "title": "The Accountant 2",
+      "title": "Mickey 17",
       "current_rank": 3,
-      "previous_rank": 14,
-      "rank_change": 11,
-      "seeders": 4010,
-      "leechers": 7989,
-      "peers": 11999
+      "previous_rank": 238,
+      "rank_change": 235,
+      "seeders": 6647,
+      "leechers": 5978,
+      "peers": 12625
     },
     {
       "title": "The Accountant 2",
@@ -39,148 +39,148 @@
       "peers": 11999
     },
     {
-      "title": "Black Bag",
+      "title": "The Accountant 2",
       "current_rank": 5,
+      "previous_rank": 14,
+      "rank_change": 9,
+      "seeders": 4010,
+      "leechers": 7989,
+      "peers": 11999
+    },
+    {
+      "title": "The Accountant 2",
+      "current_rank": 6,
+      "previous_rank": 14,
+      "rank_change": 8,
+      "seeders": 4010,
+      "leechers": 7989,
+      "peers": 11999
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 7,
       "previous_rank": 189,
-      "rank_change": 184,
+      "rank_change": 182,
       "seeders": 4602,
       "leechers": 2703,
       "peers": 7305
     },
     {
       "title": "Black Bag",
-      "current_rank": 6,
+      "current_rank": 8,
       "previous_rank": 189,
-      "rank_change": 183,
+      "rank_change": 181,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
+    },
+    {
+      "title": "Black Bag",
+      "current_rank": 9,
+      "previous_rank": 189,
+      "rank_change": 180,
       "seeders": 4602,
       "leechers": 2703,
       "peers": 7305
     },
     {
       "title": "A Working Man",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": 70,
-      "rank_change": 63,
+      "rank_change": 60,
       "seeders": 4548,
       "leechers": 1723,
       "peers": 6271
     },
     {
       "title": "A Working Man",
-      "current_rank": 8,
+      "current_rank": 11,
       "previous_rank": 70,
-      "rank_change": 62,
+      "rank_change": 59,
+      "seeders": 4548,
+      "leechers": 1723,
+      "peers": 6271
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 12,
+      "previous_rank": 70,
+      "rank_change": 58,
       "seeders": 4548,
       "leechers": 1723,
       "peers": 6271
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": 98,
-      "rank_change": 89,
+      "rank_change": 85,
       "seeders": 3903,
       "leechers": 1680,
       "peers": 5583
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 10,
+      "current_rank": 14,
       "previous_rank": 98,
-      "rank_change": 88,
+      "rank_change": 84,
+      "seeders": 3903,
+      "leechers": 1680,
+      "peers": 5583
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 15,
+      "previous_rank": 98,
+      "rank_change": 83,
       "seeders": 3903,
       "leechers": 1680,
       "peers": 5583
     },
     {
       "title": "Havoc",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": 42,
-      "rank_change": 31,
+      "rank_change": 26,
       "seeders": 3216,
       "leechers": 1604,
       "peers": 4820
     },
     {
       "title": "Havoc",
-      "current_rank": 12,
+      "current_rank": 17,
       "previous_rank": 42,
-      "rank_change": 30,
+      "rank_change": 25,
+      "seeders": 3216,
+      "leechers": 1604,
+      "peers": 4820
+    },
+    {
+      "title": "Havoc",
+      "current_rank": 18,
+      "previous_rank": 42,
+      "rank_change": 24,
       "seeders": 3216,
       "leechers": 1604,
       "peers": 4820
     },
     {
       "title": "Sinners",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": 49,
-      "rank_change": 36,
+      "rank_change": 30,
       "seeders": 1361,
       "leechers": 2756,
       "peers": 4117
     },
     {
       "title": "Sinners",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": 49,
-      "rank_change": 35,
+      "rank_change": 29,
       "seeders": 1361,
       "leechers": 2756,
       "peers": 4117
-    },
-    {
-      "title": "Novocaine",
-      "current_rank": 15,
-      "previous_rank": 56,
-      "rank_change": 41,
-      "seeders": 2338,
-      "leechers": 1189,
-      "peers": 3527
-    },
-    {
-      "title": "Novocaine",
-      "current_rank": 16,
-      "previous_rank": 56,
-      "rank_change": 40,
-      "seeders": 2338,
-      "leechers": 1189,
-      "peers": 3527
-    },
-    {
-      "title": "In the Lost Lands",
-      "current_rank": 17,
-      "previous_rank": 63,
-      "rank_change": 46,
-      "seeders": 2768,
-      "leechers": 740,
-      "peers": 3508
-    },
-    {
-      "title": "In the Lost Lands",
-      "current_rank": 18,
-      "previous_rank": 63,
-      "rank_change": 45,
-      "seeders": 2768,
-      "leechers": 740,
-      "peers": 3508
-    },
-    {
-      "title": "Death of a Unicorn",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2437,
-      "leechers": 1052,
-      "peers": 3489
-    },
-    {
-      "title": "Death of a Unicorn",
-      "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2437,
-      "leechers": 1052,
-      "peers": 3489
     }
   ]
 }
