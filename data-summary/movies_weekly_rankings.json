@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-01T14:09:01",
+  "updated_at": "2025-05-01T17:05:41",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -48,13 +48,13 @@
       "peers": 12956
     },
     {
-      "title": "Mickey 17",
+      "title": "The Accountant 2",
       "current_rank": 6,
-      "previous_rank": 224,
-      "rank_change": 218,
-      "seeders": 6647,
-      "leechers": 5978,
-      "peers": 12625
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4180,
+      "leechers": 8776,
+      "peers": 12956
     },
     {
       "title": "Mickey 17",
@@ -93,22 +93,22 @@
       "peers": 12625
     },
     {
-      "title": "Black Bag",
+      "title": "Mickey 17",
       "current_rank": 11,
-      "previous_rank": 184,
-      "rank_change": 173,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 224,
+      "rank_change": 213,
+      "seeders": 6647,
+      "leechers": 5978,
+      "peers": 12625
     },
     {
-      "title": "Black Bag",
+      "title": "Mickey 17",
       "current_rank": 12,
-      "previous_rank": 184,
-      "rank_change": 172,
-      "seeders": 4602,
-      "leechers": 2703,
-      "peers": 7305
+      "previous_rank": 224,
+      "rank_change": 212,
+      "seeders": 6647,
+      "leechers": 5978,
+      "peers": 12625
     },
     {
       "title": "Black Bag",
@@ -138,31 +138,31 @@
       "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 16,
-      "previous_rank": 80,
-      "rank_change": 64,
-      "seeders": 4312,
-      "leechers": 1585,
-      "peers": 5897
+      "previous_rank": 184,
+      "rank_change": 168,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 17,
-      "previous_rank": 80,
-      "rank_change": 63,
-      "seeders": 4312,
-      "leechers": 1585,
-      "peers": 5897
+      "previous_rank": 184,
+      "rank_change": 167,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
-      "title": "A Working Man",
+      "title": "Black Bag",
       "current_rank": 18,
-      "previous_rank": 80,
-      "rank_change": 62,
-      "seeders": 4312,
-      "leechers": 1585,
-      "peers": 5897
+      "previous_rank": 184,
+      "rank_change": 166,
+      "seeders": 4602,
+      "leechers": 2703,
+      "peers": 7305
     },
     {
       "title": "A Working Man",
