@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-02T20:07:22",
+  "updated_at": "2025-05-02T23:05:03",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -66,13 +66,13 @@
       "peers": 6322
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 8,
-      "previous_rank": 16,
-      "rank_change": 8,
-      "seeders": 3743,
-      "leechers": 1412,
-      "peers": 5155
+      "previous_rank": 8,
+      "rank_change": 0,
+      "seeders": 3908,
+      "leechers": 2414,
+      "peers": 6322
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -129,22 +129,22 @@
       "peers": 5155
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 15,
-      "previous_rank": 32,
-      "rank_change": 17,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 16,
+      "rank_change": 1,
+      "seeders": 3743,
+      "leechers": 1412,
+      "peers": 5155
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 16,
-      "previous_rank": 32,
-      "rank_change": 16,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 16,
+      "rank_change": 0,
+      "seeders": 3743,
+      "leechers": 1412,
+      "peers": 5155
     },
     {
       "title": "The Last of Us: Part II",
