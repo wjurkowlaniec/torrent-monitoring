@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-02T11:05:58",
+  "updated_at": "2025-05-02T14:08:59",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -39,13 +39,13 @@
       "peers": 14787
     },
     {
-      "title": "Mickey 17",
+      "title": "The Accountant 2",
       "current_rank": 5,
-      "previous_rank": 304,
-      "rank_change": 299,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 8,
+      "rank_change": 3,
+      "seeders": 4277,
+      "leechers": 10510,
+      "peers": 14787
     },
     {
       "title": "Mickey 17",
@@ -75,22 +75,22 @@
       "peers": 11977
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Mickey 17",
       "current_rank": 9,
-      "previous_rank": 56,
-      "rank_change": 47,
-      "seeders": 3508,
-      "leechers": 2080,
-      "peers": 5588
+      "previous_rank": 304,
+      "rank_change": 295,
+      "seeders": 6315,
+      "leechers": 5662,
+      "peers": 11977
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Mickey 17",
       "current_rank": 10,
-      "previous_rank": 56,
-      "rank_change": 46,
-      "seeders": 3508,
-      "leechers": 2080,
-      "peers": 5588
+      "previous_rank": 304,
+      "rank_change": 294,
+      "seeders": 6315,
+      "leechers": 5662,
+      "peers": 11977
     },
     {
       "title": "Death of a Unicorn",
@@ -111,31 +111,31 @@
       "peers": 5588
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Death of a Unicorn",
       "current_rank": 13,
-      "previous_rank": 136,
-      "rank_change": 123,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 56,
+      "rank_change": 43,
+      "seeders": 3508,
+      "leechers": 2080,
+      "peers": 5588
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Death of a Unicorn",
       "current_rank": 14,
-      "previous_rank": 136,
-      "rank_change": 122,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 56,
+      "rank_change": 42,
+      "seeders": 3508,
+      "leechers": 2080,
+      "peers": 5588
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Death of a Unicorn",
       "current_rank": 15,
-      "previous_rank": 136,
-      "rank_change": 121,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 56,
+      "rank_change": 41,
+      "seeders": 3508,
+      "leechers": 2080,
+      "peers": 5588
     },
     {
       "title": "A Minecraft Movie",
@@ -147,40 +147,40 @@
       "peers": 5583
     },
     {
-      "title": "Havoc",
+      "title": "A Minecraft Movie",
       "current_rank": 17,
-      "previous_rank": 48,
-      "rank_change": 31,
-      "seeders": 3567,
-      "leechers": 1835,
-      "peers": 5402
+      "previous_rank": 136,
+      "rank_change": 119,
+      "seeders": 3903,
+      "leechers": 1680,
+      "peers": 5583
     },
     {
-      "title": "Havoc",
+      "title": "A Minecraft Movie",
       "current_rank": 18,
-      "previous_rank": 48,
-      "rank_change": 30,
-      "seeders": 3567,
-      "leechers": 1835,
-      "peers": 5402
+      "previous_rank": 136,
+      "rank_change": 118,
+      "seeders": 3903,
+      "leechers": 1680,
+      "peers": 5583
     },
     {
-      "title": "Havoc",
+      "title": "A Minecraft Movie",
       "current_rank": 19,
-      "previous_rank": 48,
-      "rank_change": 29,
-      "seeders": 3567,
-      "leechers": 1835,
-      "peers": 5402
+      "previous_rank": 136,
+      "rank_change": 117,
+      "seeders": 3903,
+      "leechers": 1680,
+      "peers": 5583
     },
     {
-      "title": "Havoc",
+      "title": "A Minecraft Movie",
       "current_rank": 20,
-      "previous_rank": 48,
-      "rank_change": 28,
-      "seeders": 3567,
-      "leechers": 1835,
-      "peers": 5402
+      "previous_rank": 136,
+      "rank_change": 116,
+      "seeders": 3903,
+      "leechers": 1680,
+      "peers": 5583
     }
   ]
 }
