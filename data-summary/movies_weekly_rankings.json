@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-03T20:06:35",
+  "updated_at": "2025-05-03T23:04:51",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -66,13 +66,13 @@
       "peers": 15778
     },
     {
-      "title": "Mickey 17",
+      "title": "The Accountant 2",
       "current_rank": 8,
-      "previous_rank": 280,
-      "rank_change": 272,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 16,
+      "rank_change": 8,
+      "seeders": 4843,
+      "leechers": 10935,
+      "peers": 15778
     },
     {
       "title": "Mickey 17",
@@ -129,22 +129,22 @@
       "peers": 11977
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Mickey 17",
       "current_rank": 15,
-      "previous_rank": 120,
-      "rank_change": 105,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 280,
+      "rank_change": 265,
+      "seeders": 6315,
+      "leechers": 5662,
+      "peers": 11977
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Mickey 17",
       "current_rank": 16,
-      "previous_rank": 120,
-      "rank_change": 104,
-      "seeders": 3903,
-      "leechers": 1680,
-      "peers": 5583
+      "previous_rank": 280,
+      "rank_change": 264,
+      "seeders": 6315,
+      "leechers": 5662,
+      "peers": 11977
     },
     {
       "title": "A Minecraft Movie",
