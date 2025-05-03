@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-03T02:22:58",
+  "updated_at": "2025-05-03T05:20:22",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -12,175 +12,175 @@
       "peers": 5687
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 2,
+      "previous_rank": 32,
+      "rank_change": 30,
+      "seeders": 3585,
+      "leechers": 2102,
+      "peers": 5687
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "current_rank": 3,
       "previous_rank": 16,
-      "rank_change": 14,
+      "rank_change": 13,
+      "seeders": 3549,
+      "leechers": 1227,
+      "peers": 4776
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "current_rank": 4,
+      "previous_rank": 16,
+      "rank_change": 12,
       "seeders": 3549,
       "leechers": 1227,
       "peers": 4776
     },
     {
       "title": "The Last of Us: Part II",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 24,
-      "rank_change": 21,
+      "rank_change": 19,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
+    },
+    {
+      "title": "The Last of Us: Part II",
+      "current_rank": 6,
+      "previous_rank": 24,
+      "rank_change": 18,
       "seeders": 1316,
       "leechers": 2219,
       "peers": 3535
     },
     {
       "title": "Clair Obscur Expedition 33",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 48,
-      "rank_change": 44,
+      "rank_change": 41,
+      "seeders": 1549,
+      "leechers": 443,
+      "peers": 1992
+    },
+    {
+      "title": "Clair Obscur Expedition 33",
+      "current_rank": 8,
+      "previous_rank": 48,
+      "rank_change": 40,
       "seeders": 1549,
       "leechers": 443,
       "peers": 1992
     },
     {
       "title": "The Elder Scrolls IV Oblivion",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 40,
-      "rank_change": 35,
+      "rank_change": 31,
+      "seeders": 1054,
+      "leechers": 335,
+      "peers": 1389
+    },
+    {
+      "title": "The Elder Scrolls IV Oblivion",
+      "current_rank": 10,
+      "previous_rank": 40,
+      "rank_change": 30,
       "seeders": 1054,
       "leechers": 335,
       "peers": 1389
     },
     {
       "title": "Schedule I",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 431,
-      "rank_change": 425,
+      "rank_change": 420,
+      "seeders": 1228,
+      "leechers": 41,
+      "peers": 1269
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 12,
+      "previous_rank": 431,
+      "rank_change": 419,
       "seeders": 1228,
       "leechers": 41,
       "peers": 1269
     },
     {
       "title": "Days Gone [FitGirl",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 56,
-      "rank_change": 49,
+      "rank_change": 43,
+      "seeders": 449,
+      "leechers": 490,
+      "peers": 939
+    },
+    {
+      "title": "Days Gone [FitGirl",
+      "current_rank": 14,
+      "previous_rank": 56,
+      "rank_change": 42,
       "seeders": 449,
       "leechers": 490,
       "peers": 939
     },
     {
       "title": "Blue Prince",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 104,
-      "rank_change": 96,
+      "rank_change": 89,
+      "seeders": 787,
+      "leechers": 15,
+      "peers": 802
+    },
+    {
+      "title": "Blue Prince",
+      "current_rank": 16,
+      "previous_rank": 104,
+      "rank_change": 88,
       "seeders": 787,
       "leechers": 15,
       "peers": 802
     },
     {
       "title": "Baldur's Gate 3",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 80,
-      "rank_change": 71,
+      "rank_change": 63,
+      "seeders": 370,
+      "leechers": 353,
+      "peers": 723
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "current_rank": 18,
+      "previous_rank": 80,
+      "rank_change": 62,
       "seeders": 370,
       "leechers": 353,
       "peers": 723
     },
     {
       "title": "The Last of Us Part II",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 112,
-      "rank_change": 102,
+      "rank_change": 93,
       "seeders": 513,
       "leechers": 111,
       "peers": 624
     },
     {
-      "title": "Tempest Rising",
-      "current_rank": 11,
-      "previous_rank": 96,
-      "rank_change": 85,
-      "seeders": 435,
-      "leechers": 83,
-      "peers": 518
-    },
-    {
-      "title": "South of Midnight",
-      "current_rank": 12,
-      "previous_rank": 551,
-      "rank_change": 539,
-      "seeders": 344,
-      "leechers": 111,
-      "peers": 455
-    },
-    {
-      "title": "Schedule I 3 4f4",
-      "current_rank": 13,
-      "previous_rank": 152,
-      "rank_change": 139,
-      "seeders": 392,
-      "leechers": 4,
-      "peers": 396
-    },
-    {
-      "title": "Crusader Kings III: Collection",
-      "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 318,
-      "leechers": 37,
-      "peers": 355
-    },
-    {
-      "title": "V Rising",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 307,
-      "leechers": 46,
-      "peers": 353
-    },
-    {
-      "title": "Mandragora: Whispers of the Witch Tree",
-      "current_rank": 16,
-      "previous_rank": 136,
-      "rank_change": 120,
-      "seeders": 309,
-      "leechers": 32,
-      "peers": 341
-    },
-    {
-      "title": "Days Gone [DODI Re",
-      "current_rank": 17,
-      "previous_rank": 88,
-      "rank_change": 71,
-      "seeders": 151,
-      "leechers": 180,
-      "peers": 331
-    },
-    {
-      "title": "DRAGON BALL: Sparking! ZERO",
-      "current_rank": 18,
-      "previous_rank": 144,
-      "rank_change": 126,
-      "seeders": 205,
-      "leechers": 97,
-      "peers": 302
-    },
-    {
-      "title": "Baldur\u2019s Gate 3",
-      "current_rank": 19,
-      "previous_rank": 160,
-      "rank_change": 141,
-      "seeders": 148,
-      "leechers": 151,
-      "peers": 299
-    },
-    {
-      "title": "Commandos: Origins",
+      "title": "The Last of Us Part II",
       "current_rank": 20,
-      "previous_rank": 192,
-      "rank_change": 172,
-      "seeders": 283,
-      "leechers": 16,
-      "peers": 299
+      "previous_rank": 112,
+      "rank_change": 92,
+      "seeders": 513,
+      "leechers": 111,
+      "peers": 624
     }
   ]
 }
