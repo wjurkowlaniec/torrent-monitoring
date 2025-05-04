@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-04T17:05:00",
+  "updated_at": "2025-05-04T20:06:35",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -57,13 +57,13 @@
       "peers": 5565
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 7,
-      "previous_rank": 18,
-      "rank_change": 11,
-      "seeders": 3767,
-      "leechers": 1296,
-      "peers": 5063
+      "previous_rank": 36,
+      "rank_change": 29,
+      "seeders": 3566,
+      "leechers": 1999,
+      "peers": 5565
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -111,22 +111,22 @@
       "peers": 5063
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 13,
-      "previous_rank": 27,
-      "rank_change": 14,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 18,
+      "rank_change": 5,
+      "seeders": 3767,
+      "leechers": 1296,
+      "peers": 5063
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 14,
-      "previous_rank": 27,
-      "rank_change": 13,
-      "seeders": 1316,
-      "leechers": 2219,
-      "peers": 3535
+      "previous_rank": 18,
+      "rank_change": 4,
+      "seeders": 3767,
+      "leechers": 1296,
+      "peers": 5063
     },
     {
       "title": "The Last of Us: Part II",
@@ -165,22 +165,22 @@
       "peers": 3535
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Last of Us: Part II",
       "current_rank": 19,
-      "previous_rank": 54,
-      "rank_change": 35,
-      "seeders": 1627,
-      "leechers": 517,
-      "peers": 2144
+      "previous_rank": 27,
+      "rank_change": 8,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Last of Us: Part II",
       "current_rank": 20,
-      "previous_rank": 54,
-      "rank_change": 34,
-      "seeders": 1627,
-      "leechers": 517,
-      "peers": 2144
+      "previous_rank": 27,
+      "rank_change": 7,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
     }
   ]
 }
