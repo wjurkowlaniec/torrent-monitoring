@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-04T05:25:38",
+  "updated_at": "2025-05-04T08:07:07",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -21,13 +21,13 @@
       "peers": 5565
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 3,
-      "previous_rank": 16,
-      "rank_change": 13,
-      "seeders": 3767,
-      "leechers": 1296,
-      "peers": 5063
+      "previous_rank": 8,
+      "rank_change": 5,
+      "seeders": 3566,
+      "leechers": 1999,
+      "peers": 5565
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -39,148 +39,148 @@
       "peers": 5063
     },
     {
-      "title": "The Last of Us: Part II",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 5,
+      "previous_rank": 16,
+      "rank_change": 11,
+      "seeders": 3767,
+      "leechers": 1296,
+      "peers": 5063
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "current_rank": 6,
+      "previous_rank": 16,
+      "rank_change": 10,
+      "seeders": 3767,
+      "leechers": 1296,
+      "peers": 5063
+    },
+    {
+      "title": "The Last of Us: Part II",
+      "current_rank": 7,
       "previous_rank": 24,
-      "rank_change": 19,
+      "rank_change": 17,
       "seeders": 1316,
       "leechers": 2219,
       "peers": 3535
     },
     {
       "title": "The Last of Us: Part II",
-      "current_rank": 6,
+      "current_rank": 8,
       "previous_rank": 24,
-      "rank_change": 18,
+      "rank_change": 16,
+      "seeders": 1316,
+      "leechers": 2219,
+      "peers": 3535
+    },
+    {
+      "title": "The Last of Us: Part II",
+      "current_rank": 9,
+      "previous_rank": 24,
+      "rank_change": 15,
       "seeders": 1316,
       "leechers": 2219,
       "peers": 3535
     },
     {
       "title": "Clair Obscur Expedition 33",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": 32,
-      "rank_change": 25,
+      "rank_change": 22,
       "seeders": 1627,
       "leechers": 517,
       "peers": 2144
     },
     {
       "title": "Clair Obscur Expedition 33",
-      "current_rank": 8,
+      "current_rank": 11,
       "previous_rank": 32,
-      "rank_change": 24,
+      "rank_change": 21,
+      "seeders": 1627,
+      "leechers": 517,
+      "peers": 2144
+    },
+    {
+      "title": "Clair Obscur Expedition 33",
+      "current_rank": 12,
+      "previous_rank": 32,
+      "rank_change": 20,
       "seeders": 1627,
       "leechers": 517,
       "peers": 2144
     },
     {
       "title": "The Elder Scrolls IV Oblivion",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": 40,
-      "rank_change": 31,
+      "rank_change": 27,
       "seeders": 1039,
       "leechers": 313,
       "peers": 1352
     },
     {
       "title": "The Elder Scrolls IV Oblivion",
-      "current_rank": 10,
+      "current_rank": 14,
       "previous_rank": 40,
-      "rank_change": 30,
+      "rank_change": 26,
+      "seeders": 1039,
+      "leechers": 313,
+      "peers": 1352
+    },
+    {
+      "title": "The Elder Scrolls IV Oblivion",
+      "current_rank": 15,
+      "previous_rank": 40,
+      "rank_change": 25,
       "seeders": 1039,
       "leechers": 313,
       "peers": 1352
     },
     {
       "title": "Schedule I",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": 248,
-      "rank_change": 237,
+      "rank_change": 232,
       "seeders": 1228,
       "leechers": 41,
       "peers": 1269
     },
     {
       "title": "Schedule I",
-      "current_rank": 12,
+      "current_rank": 17,
       "previous_rank": 248,
-      "rank_change": 236,
+      "rank_change": 231,
+      "seeders": 1228,
+      "leechers": 41,
+      "peers": 1269
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 18,
+      "previous_rank": 248,
+      "rank_change": 230,
       "seeders": 1228,
       "leechers": 41,
       "peers": 1269
     },
     {
       "title": "Days Gone [FitGirl",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": 56,
-      "rank_change": 43,
+      "rank_change": 37,
       "seeders": 513,
       "leechers": 491,
       "peers": 1004
     },
     {
       "title": "Days Gone [FitGirl",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": 56,
-      "rank_change": 42,
+      "rank_change": 36,
       "seeders": 513,
       "leechers": 491,
       "peers": 1004
-    },
-    {
-      "title": "Blue Prince",
-      "current_rank": 15,
-      "previous_rank": 64,
-      "rank_change": 49,
-      "seeders": 787,
-      "leechers": 15,
-      "peers": 802
-    },
-    {
-      "title": "Blue Prince",
-      "current_rank": 16,
-      "previous_rank": 64,
-      "rank_change": 48,
-      "seeders": 787,
-      "leechers": 15,
-      "peers": 802
-    },
-    {
-      "title": "Baldur's Gate 3",
-      "current_rank": 17,
-      "previous_rank": 72,
-      "rank_change": 55,
-      "seeders": 370,
-      "leechers": 353,
-      "peers": 723
-    },
-    {
-      "title": "Baldur's Gate 3",
-      "current_rank": 18,
-      "previous_rank": 72,
-      "rank_change": 54,
-      "seeders": 370,
-      "leechers": 353,
-      "peers": 723
-    },
-    {
-      "title": "Tempest Rising",
-      "current_rank": 19,
-      "previous_rank": 448,
-      "rank_change": 429,
-      "seeders": 435,
-      "leechers": 83,
-      "peers": 518
-    },
-    {
-      "title": "Tempest Rising",
-      "current_rank": 20,
-      "previous_rank": 448,
-      "rank_change": 428,
-      "seeders": 435,
-      "leechers": 83,
-      "peers": 518
     }
   ]
 }
