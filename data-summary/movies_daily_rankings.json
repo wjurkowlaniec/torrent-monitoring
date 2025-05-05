@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-05T08:08:22",
+  "updated_at": "2025-05-05T11:06:39",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -30,13 +30,13 @@
       "peers": 16517
     },
     {
-      "title": "Mickey 17",
+      "title": "The Accountant 2",
       "current_rank": 4,
-      "previous_rank": 296,
-      "rank_change": 292,
-      "seeders": 5444,
-      "leechers": 3661,
-      "peers": 9105
+      "previous_rank": 8,
+      "rank_change": 4,
+      "seeders": 4706,
+      "leechers": 11811,
+      "peers": 16517
     },
     {
       "title": "Mickey 17",
@@ -57,22 +57,22 @@
       "peers": 9105
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Mickey 17",
       "current_rank": 7,
-      "previous_rank": 24,
-      "rank_change": 17,
-      "seeders": 3873,
-      "leechers": 2554,
-      "peers": 6427
+      "previous_rank": 296,
+      "rank_change": 289,
+      "seeders": 5444,
+      "leechers": 3661,
+      "peers": 9105
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Mickey 17",
       "current_rank": 8,
-      "previous_rank": 24,
-      "rank_change": 16,
-      "seeders": 3873,
-      "leechers": 2554,
-      "peers": 6427
+      "previous_rank": 296,
+      "rank_change": 288,
+      "seeders": 5444,
+      "leechers": 3661,
+      "peers": 9105
     },
     {
       "title": "Death of a Unicorn",
@@ -84,103 +84,103 @@
       "peers": 6427
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Death of a Unicorn",
       "current_rank": 10,
-      "previous_rank": 120,
-      "rank_change": 110,
-      "seeders": 4319,
-      "leechers": 1878,
-      "peers": 6197
+      "previous_rank": 24,
+      "rank_change": 14,
+      "seeders": 3873,
+      "leechers": 2554,
+      "peers": 6427
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Death of a Unicorn",
       "current_rank": 11,
+      "previous_rank": 24,
+      "rank_change": 13,
+      "seeders": 3873,
+      "leechers": 2554,
+      "peers": 6427
+    },
+    {
+      "title": "Death of a Unicorn",
+      "current_rank": 12,
+      "previous_rank": 24,
+      "rank_change": 12,
+      "seeders": 3873,
+      "leechers": 2554,
+      "peers": 6427
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 13,
       "previous_rank": 120,
-      "rank_change": 109,
+      "rank_change": 107,
       "seeders": 4319,
       "leechers": 1878,
       "peers": 6197
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 12,
+      "current_rank": 14,
       "previous_rank": 120,
-      "rank_change": 108,
+      "rank_change": 106,
+      "seeders": 4319,
+      "leechers": 1878,
+      "peers": 6197
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 15,
+      "previous_rank": 120,
+      "rank_change": 105,
+      "seeders": 4319,
+      "leechers": 1878,
+      "peers": 6197
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 16,
+      "previous_rank": 120,
+      "rank_change": 104,
       "seeders": 4319,
       "leechers": 1878,
       "peers": 6197
     },
     {
       "title": "Havoc",
-      "current_rank": 13,
-      "previous_rank": 48,
-      "rank_change": 35,
-      "seeders": 3440,
-      "leechers": 1725,
-      "peers": 5165
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 14,
-      "previous_rank": 48,
-      "rank_change": 34,
-      "seeders": 3440,
-      "leechers": 1725,
-      "peers": 5165
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 15,
-      "previous_rank": 48,
-      "rank_change": 33,
-      "seeders": 3440,
-      "leechers": 1725,
-      "peers": 5165
-    },
-    {
-      "title": "A Working Man",
-      "current_rank": 16,
-      "previous_rank": 40,
-      "rank_change": 24,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
-    },
-    {
-      "title": "A Working Man",
       "current_rank": 17,
-      "previous_rank": 40,
-      "rank_change": 23,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 48,
+      "rank_change": 31,
+      "seeders": 3440,
+      "leechers": 1725,
+      "peers": 5165
     },
     {
-      "title": "A Working Man",
+      "title": "Havoc",
       "current_rank": 18,
-      "previous_rank": 40,
-      "rank_change": 22,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 48,
+      "rank_change": 30,
+      "seeders": 3440,
+      "leechers": 1725,
+      "peers": 5165
     },
     {
-      "title": "Drop",
+      "title": "Havoc",
       "current_rank": 19,
-      "previous_rank": 56,
-      "rank_change": 37,
-      "seeders": 1765,
-      "leechers": 2185,
-      "peers": 3950
+      "previous_rank": 48,
+      "rank_change": 29,
+      "seeders": 3440,
+      "leechers": 1725,
+      "peers": 5165
     },
     {
-      "title": "Drop",
+      "title": "Havoc",
       "current_rank": 20,
-      "previous_rank": 56,
-      "rank_change": 36,
-      "seeders": 1765,
-      "leechers": 2185,
-      "peers": 3950
+      "previous_rank": 48,
+      "rank_change": 28,
+      "seeders": 3440,
+      "leechers": 1725,
+      "peers": 5165
     }
   ]
 }
