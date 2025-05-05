@@ -1,186 +1,186 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-04T23:04:56",
+  "updated_at": "2025-05-05T02:25:40",
   "rankings": [
     {
       "title": "The Accountant 2",
       "current_rank": 1,
-      "previous_rank": 9,
-      "rank_change": 8,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": 14,
+      "rank_change": 13,
+      "seeders": 4706,
+      "leechers": 11811,
+      "peers": 16517
     },
     {
-      "title": "The Accountant 2",
+      "title": "Mickey 17",
       "current_rank": 2,
-      "previous_rank": 9,
-      "rank_change": 7,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": 238,
+      "rank_change": 236,
+      "seeders": 5444,
+      "leechers": 3661,
+      "peers": 9105
     },
     {
-      "title": "The Accountant 2",
+      "title": "Death of a Unicorn",
       "current_rank": 3,
-      "previous_rank": 9,
-      "rank_change": 6,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3873,
+      "leechers": 2554,
+      "peers": 6427
     },
     {
-      "title": "The Accountant 2",
+      "title": "A Minecraft Movie",
       "current_rank": 4,
-      "previous_rank": 9,
-      "rank_change": 5,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": 98,
+      "rank_change": 94,
+      "seeders": 4319,
+      "leechers": 1878,
+      "peers": 6197
     },
     {
-      "title": "The Accountant 2",
+      "title": "Havoc",
       "current_rank": 5,
-      "previous_rank": 9,
-      "rank_change": 4,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": 42,
+      "rank_change": 37,
+      "seeders": 3440,
+      "leechers": 1725,
+      "peers": 5165
     },
     {
-      "title": "The Accountant 2",
+      "title": "A Working Man",
       "current_rank": 6,
-      "previous_rank": 9,
-      "rank_change": 3,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": 70,
+      "rank_change": 64,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     },
     {
-      "title": "The Accountant 2",
+      "title": "Drop",
       "current_rank": 7,
-      "previous_rank": 9,
-      "rank_change": 2,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1765,
+      "leechers": 2185,
+      "peers": 3950
     },
     {
-      "title": "The Accountant 2",
+      "title": "Novocaine",
       "current_rank": 8,
-      "previous_rank": 9,
-      "rank_change": 1,
-      "seeders": 4908,
-      "leechers": 11723,
-      "peers": 16631
+      "previous_rank": 56,
+      "rank_change": 48,
+      "seeders": 2338,
+      "leechers": 1189,
+      "peers": 3527
     },
     {
-      "title": "Mickey 17",
+      "title": "In the Lost Lands",
       "current_rank": 9,
-      "previous_rank": 315,
-      "rank_change": 306,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 63,
+      "rank_change": 54,
+      "seeders": 2768,
+      "leechers": 740,
+      "peers": 3508
     },
     {
-      "title": "Mickey 17",
+      "title": "Sinners",
       "current_rank": 10,
-      "previous_rank": 315,
-      "rank_change": 305,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 49,
+      "rank_change": 39,
+      "seeders": 1404,
+      "leechers": 2087,
+      "peers": 3491
     },
     {
-      "title": "Mickey 17",
+      "title": "Freaky Tales",
       "current_rank": 11,
-      "previous_rank": 315,
-      "rank_change": 304,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 112,
+      "rank_change": 101,
+      "seeders": 898,
+      "leechers": 1478,
+      "peers": 2376
     },
     {
-      "title": "Mickey 17",
+      "title": "Another Simple Favor",
       "current_rank": 12,
-      "previous_rank": 315,
-      "rank_change": 303,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1265,
+      "leechers": 928,
+      "peers": 2193
     },
     {
-      "title": "Mickey 17",
+      "title": "Captain America Brave New World",
       "current_rank": 13,
-      "previous_rank": 315,
-      "rank_change": 302,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 91,
+      "rank_change": 78,
+      "seeders": 1596,
+      "leechers": 329,
+      "peers": 1925
     },
     {
-      "title": "Mickey 17",
+      "title": "Ash",
       "current_rank": 14,
-      "previous_rank": 315,
-      "rank_change": 301,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 77,
+      "rank_change": 63,
+      "seeders": 1529,
+      "leechers": 301,
+      "peers": 1830
     },
     {
-      "title": "Mickey 17",
+      "title": "A Minecraft Movie",
       "current_rank": 15,
-      "previous_rank": 315,
-      "rank_change": 300,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 98,
+      "rank_change": 83,
+      "seeders": 396,
+      "leechers": 1368,
+      "peers": 1764
     },
     {
-      "title": "Mickey 17",
+      "title": "Locked",
       "current_rank": 16,
-      "previous_rank": 315,
-      "rank_change": 299,
-      "seeders": 6315,
-      "leechers": 5662,
-      "peers": 11977
+      "previous_rank": 84,
+      "rank_change": 68,
+      "seeders": 1385,
+      "leechers": 362,
+      "peers": 1747
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant",
       "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 3517,
-      "leechers": 2300,
-      "peers": 5817
+      "previous_rank": 154,
+      "rank_change": 137,
+      "seeders": 476,
+      "leechers": 1173,
+      "peers": 1649
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "G20",
       "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 3517,
-      "leechers": 2300,
-      "peers": 5817
+      "previous_rank": 105,
+      "rank_change": 87,
+      "seeders": 1322,
+      "leechers": 259,
+      "peers": 1581
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Exterritorial",
       "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3517,
-      "leechers": 2300,
-      "peers": 5817
+      "seeders": 1040,
+      "leechers": 453,
+      "peers": 1493
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Raid 2",
       "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3517,
-      "leechers": 2300,
-      "peers": 5817
+      "seeders": 1322,
+      "leechers": 146,
+      "peers": 1468
     }
   ]
 }
