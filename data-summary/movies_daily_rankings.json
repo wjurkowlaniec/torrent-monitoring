@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-05T20:06:16",
+  "updated_at": "2025-05-05T23:05:05",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -66,13 +66,13 @@
       "peers": 16517
     },
     {
-      "title": "Mickey 17",
+      "title": "The Accountant 2",
       "current_rank": 8,
-      "previous_rank": 296,
-      "rank_change": 288,
-      "seeders": 5444,
-      "leechers": 3661,
-      "peers": 9105
+      "previous_rank": 8,
+      "rank_change": 0,
+      "seeders": 4706,
+      "leechers": 11811,
+      "peers": 16517
     },
     {
       "title": "Mickey 17",
@@ -129,22 +129,22 @@
       "peers": 9105
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Mickey 17",
       "current_rank": 15,
-      "previous_rank": 24,
-      "rank_change": 9,
-      "seeders": 3873,
-      "leechers": 2554,
-      "peers": 6427
+      "previous_rank": 296,
+      "rank_change": 281,
+      "seeders": 5444,
+      "leechers": 3661,
+      "peers": 9105
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Mickey 17",
       "current_rank": 16,
-      "previous_rank": 24,
-      "rank_change": 8,
-      "seeders": 3873,
-      "leechers": 2554,
-      "peers": 6427
+      "previous_rank": 296,
+      "rank_change": 280,
+      "seeders": 5444,
+      "leechers": 3661,
+      "peers": 9105
     },
     {
       "title": "Death of a Unicorn",
