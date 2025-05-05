@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-05T14:09:18",
+  "updated_at": "2025-05-05T17:05:50",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -48,13 +48,13 @@
       "peers": 5278
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 6,
-      "previous_rank": 16,
-      "rank_change": 10,
-      "seeders": 3635,
-      "leechers": 1168,
-      "peers": 4803
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 3471,
+      "leechers": 1807,
+      "peers": 5278
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -93,22 +93,22 @@
       "peers": 4803
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 11,
-      "previous_rank": 32,
-      "rank_change": 21,
-      "seeders": 1681,
-      "leechers": 442,
-      "peers": 2123
+      "previous_rank": 16,
+      "rank_change": 5,
+      "seeders": 3635,
+      "leechers": 1168,
+      "peers": 4803
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 12,
-      "previous_rank": 32,
-      "rank_change": 20,
-      "seeders": 1681,
-      "leechers": 442,
-      "peers": 2123
+      "previous_rank": 16,
+      "rank_change": 4,
+      "seeders": 3635,
+      "leechers": 1168,
+      "peers": 4803
     },
     {
       "title": "Clair Obscur Expedition 33",
@@ -138,31 +138,31 @@
       "peers": 2123
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "Clair Obscur Expedition 33",
       "current_rank": 16,
-      "previous_rank": 40,
-      "rank_change": 24,
-      "seeders": 1120,
-      "leechers": 308,
-      "peers": 1428
+      "previous_rank": 32,
+      "rank_change": 16,
+      "seeders": 1681,
+      "leechers": 442,
+      "peers": 2123
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "Clair Obscur Expedition 33",
       "current_rank": 17,
-      "previous_rank": 40,
-      "rank_change": 23,
-      "seeders": 1120,
-      "leechers": 308,
-      "peers": 1428
+      "previous_rank": 32,
+      "rank_change": 15,
+      "seeders": 1681,
+      "leechers": 442,
+      "peers": 2123
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "Clair Obscur Expedition 33",
       "current_rank": 18,
-      "previous_rank": 40,
-      "rank_change": 22,
-      "seeders": 1120,
-      "leechers": 308,
-      "peers": 1428
+      "previous_rank": 32,
+      "rank_change": 14,
+      "seeders": 1681,
+      "leechers": 442,
+      "peers": 2123
     },
     {
       "title": "The Elder Scrolls IV Oblivion",
