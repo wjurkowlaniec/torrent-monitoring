@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-05T02:25:40",
+  "updated_at": "2025-05-05T05:23:54",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -12,17 +12,44 @@
       "peers": 16517
     },
     {
-      "title": "Mickey 17",
+      "title": "The Accountant 2",
       "current_rank": 2,
+      "previous_rank": 14,
+      "rank_change": 12,
+      "seeders": 4706,
+      "leechers": 11811,
+      "peers": 16517
+    },
+    {
+      "title": "Mickey 17",
+      "current_rank": 3,
       "previous_rank": 238,
-      "rank_change": 236,
+      "rank_change": 235,
+      "seeders": 5444,
+      "leechers": 3661,
+      "peers": 9105
+    },
+    {
+      "title": "Mickey 17",
+      "current_rank": 4,
+      "previous_rank": 238,
+      "rank_change": 234,
       "seeders": 5444,
       "leechers": 3661,
       "peers": 9105
     },
     {
       "title": "Death of a Unicorn",
-      "current_rank": 3,
+      "current_rank": 5,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3873,
+      "leechers": 2554,
+      "peers": 6427
+    },
+    {
+      "title": "Death of a Unicorn",
+      "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3873,
@@ -31,34 +58,70 @@
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 98,
-      "rank_change": 94,
+      "rank_change": 91,
+      "seeders": 4319,
+      "leechers": 1878,
+      "peers": 6197
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 8,
+      "previous_rank": 98,
+      "rank_change": 90,
       "seeders": 4319,
       "leechers": 1878,
       "peers": 6197
     },
     {
       "title": "Havoc",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 42,
-      "rank_change": 37,
+      "rank_change": 33,
+      "seeders": 3440,
+      "leechers": 1725,
+      "peers": 5165
+    },
+    {
+      "title": "Havoc",
+      "current_rank": 10,
+      "previous_rank": 42,
+      "rank_change": 32,
       "seeders": 3440,
       "leechers": 1725,
       "peers": 5165
     },
     {
       "title": "A Working Man",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 70,
-      "rank_change": 64,
+      "rank_change": 59,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 12,
+      "previous_rank": 70,
+      "rank_change": 58,
       "seeders": 3776,
       "leechers": 1340,
       "peers": 5116
     },
     {
       "title": "Drop",
-      "current_rank": 7,
+      "current_rank": 13,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1765,
+      "leechers": 2185,
+      "peers": 3950
+    },
+    {
+      "title": "Drop",
+      "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 1765,
@@ -67,120 +130,57 @@
     },
     {
       "title": "Novocaine",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 56,
-      "rank_change": 48,
+      "rank_change": 41,
+      "seeders": 2338,
+      "leechers": 1189,
+      "peers": 3527
+    },
+    {
+      "title": "Novocaine",
+      "current_rank": 16,
+      "previous_rank": 56,
+      "rank_change": 40,
       "seeders": 2338,
       "leechers": 1189,
       "peers": 3527
     },
     {
       "title": "In the Lost Lands",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 63,
-      "rank_change": 54,
+      "rank_change": 46,
+      "seeders": 2768,
+      "leechers": 740,
+      "peers": 3508
+    },
+    {
+      "title": "In the Lost Lands",
+      "current_rank": 18,
+      "previous_rank": 63,
+      "rank_change": 45,
       "seeders": 2768,
       "leechers": 740,
       "peers": 3508
     },
     {
       "title": "Sinners",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 49,
-      "rank_change": 39,
+      "rank_change": 30,
       "seeders": 1404,
       "leechers": 2087,
       "peers": 3491
     },
     {
-      "title": "Freaky Tales",
-      "current_rank": 11,
-      "previous_rank": 112,
-      "rank_change": 101,
-      "seeders": 898,
-      "leechers": 1478,
-      "peers": 2376
-    },
-    {
-      "title": "Another Simple Favor",
-      "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1265,
-      "leechers": 928,
-      "peers": 2193
-    },
-    {
-      "title": "Captain America Brave New World",
-      "current_rank": 13,
-      "previous_rank": 91,
-      "rank_change": 78,
-      "seeders": 1596,
-      "leechers": 329,
-      "peers": 1925
-    },
-    {
-      "title": "Ash",
-      "current_rank": 14,
-      "previous_rank": 77,
-      "rank_change": 63,
-      "seeders": 1529,
-      "leechers": 301,
-      "peers": 1830
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 15,
-      "previous_rank": 98,
-      "rank_change": 83,
-      "seeders": 396,
-      "leechers": 1368,
-      "peers": 1764
-    },
-    {
-      "title": "Locked",
-      "current_rank": 16,
-      "previous_rank": 84,
-      "rank_change": 68,
-      "seeders": 1385,
-      "leechers": 362,
-      "peers": 1747
-    },
-    {
-      "title": "The Accountant",
-      "current_rank": 17,
-      "previous_rank": 154,
-      "rank_change": 137,
-      "seeders": 476,
-      "leechers": 1173,
-      "peers": 1649
-    },
-    {
-      "title": "G20",
-      "current_rank": 18,
-      "previous_rank": 105,
-      "rank_change": 87,
-      "seeders": 1322,
-      "leechers": 259,
-      "peers": 1581
-    },
-    {
-      "title": "Exterritorial",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1040,
-      "leechers": 453,
-      "peers": 1493
-    },
-    {
-      "title": "Raid 2",
+      "title": "Sinners",
       "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1322,
-      "leechers": 146,
-      "peers": 1468
+      "previous_rank": 49,
+      "rank_change": 29,
+      "seeders": 1404,
+      "leechers": 2087,
+      "peers": 3491
     }
   ]
 }
