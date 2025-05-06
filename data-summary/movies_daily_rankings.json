@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-06T20:07:35",
+  "updated_at": "2025-05-06T23:05:12",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -66,13 +66,13 @@
       "peers": 13986
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant 2",
       "current_rank": 8,
-      "previous_rank": 24,
-      "rank_change": 16,
-      "seeders": 3877,
-      "leechers": 1917,
-      "peers": 5794
+      "previous_rank": 8,
+      "rank_change": 0,
+      "seeders": 4404,
+      "leechers": 9582,
+      "peers": 13986
     },
     {
       "title": "Death of a Unicorn",
@@ -129,22 +129,22 @@
       "peers": 5794
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 15,
-      "previous_rank": 48,
-      "rank_change": 33,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 9,
+      "seeders": 3877,
+      "leechers": 1917,
+      "peers": 5794
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 16,
-      "previous_rank": 48,
-      "rank_change": 32,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 8,
+      "seeders": 3877,
+      "leechers": 1917,
+      "peers": 5794
     },
     {
       "title": "A Working Man",
