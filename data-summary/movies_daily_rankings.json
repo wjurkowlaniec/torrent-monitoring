@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-06T11:06:13",
+  "updated_at": "2025-05-06T14:10:07",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -39,13 +39,13 @@
       "peers": 13986
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant 2",
       "current_rank": 5,
-      "previous_rank": 24,
-      "rank_change": 19,
-      "seeders": 3877,
-      "leechers": 1917,
-      "peers": 5794
+      "previous_rank": 8,
+      "rank_change": 3,
+      "seeders": 4404,
+      "leechers": 9582,
+      "peers": 13986
     },
     {
       "title": "Death of a Unicorn",
@@ -75,22 +75,22 @@
       "peers": 5794
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 9,
-      "previous_rank": 48,
-      "rank_change": 39,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 15,
+      "seeders": 3877,
+      "leechers": 1917,
+      "peers": 5794
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 10,
-      "previous_rank": 48,
-      "rank_change": 38,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 14,
+      "seeders": 3877,
+      "leechers": 1917,
+      "peers": 5794
     },
     {
       "title": "A Working Man",
@@ -111,31 +111,31 @@
       "peers": 5116
     },
     {
-      "title": "Havoc",
+      "title": "A Working Man",
       "current_rank": 13,
-      "previous_rank": 40,
-      "rank_change": 27,
-      "seeders": 3389,
-      "leechers": 1580,
-      "peers": 4969
+      "previous_rank": 48,
+      "rank_change": 35,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     },
     {
-      "title": "Havoc",
+      "title": "A Working Man",
       "current_rank": 14,
-      "previous_rank": 40,
-      "rank_change": 26,
-      "seeders": 3389,
-      "leechers": 1580,
-      "peers": 4969
+      "previous_rank": 48,
+      "rank_change": 34,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     },
     {
-      "title": "Havoc",
+      "title": "A Working Man",
       "current_rank": 15,
-      "previous_rank": 40,
-      "rank_change": 25,
-      "seeders": 3389,
-      "leechers": 1580,
-      "peers": 4969
+      "previous_rank": 48,
+      "rank_change": 33,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     },
     {
       "title": "Havoc",
@@ -147,40 +147,40 @@
       "peers": 4969
     },
     {
-      "title": "Novocaine",
+      "title": "Havoc",
       "current_rank": 17,
-      "previous_rank": 64,
-      "rank_change": 47,
-      "seeders": 2338,
-      "leechers": 1189,
-      "peers": 3527
+      "previous_rank": 40,
+      "rank_change": 23,
+      "seeders": 3389,
+      "leechers": 1580,
+      "peers": 4969
     },
     {
-      "title": "Novocaine",
+      "title": "Havoc",
       "current_rank": 18,
-      "previous_rank": 64,
-      "rank_change": 46,
-      "seeders": 2338,
-      "leechers": 1189,
-      "peers": 3527
+      "previous_rank": 40,
+      "rank_change": 22,
+      "seeders": 3389,
+      "leechers": 1580,
+      "peers": 4969
     },
     {
-      "title": "Novocaine",
+      "title": "Havoc",
       "current_rank": 19,
-      "previous_rank": 64,
-      "rank_change": 45,
-      "seeders": 2338,
-      "leechers": 1189,
-      "peers": 3527
+      "previous_rank": 40,
+      "rank_change": 21,
+      "seeders": 3389,
+      "leechers": 1580,
+      "peers": 4969
     },
     {
-      "title": "Novocaine",
+      "title": "Havoc",
       "current_rank": 20,
-      "previous_rank": 64,
-      "rank_change": 44,
-      "seeders": 2338,
-      "leechers": 1189,
-      "peers": 3527
+      "previous_rank": 40,
+      "rank_change": 20,
+      "seeders": 3389,
+      "leechers": 1580,
+      "peers": 4969
     }
   ]
 }
