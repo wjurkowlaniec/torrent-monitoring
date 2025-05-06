@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-06T02:24:03",
+  "updated_at": "2025-05-06T05:21:58",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -12,175 +12,175 @@
       "peers": 4671
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 2,
+      "previous_rank": 8,
+      "rank_change": 6,
+      "seeders": 3232,
+      "leechers": 1439,
+      "peers": 4671
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "current_rank": 3,
       "previous_rank": 16,
-      "rank_change": 14,
+      "rank_change": 13,
+      "seeders": 3372,
+      "leechers": 1044,
+      "peers": 4416
+    },
+    {
+      "title": "Clair Obscur: Expedition 33",
+      "current_rank": 4,
+      "previous_rank": 16,
+      "rank_change": 12,
       "seeders": 3372,
       "leechers": 1044,
       "peers": 4416
     },
     {
       "title": "Clair Obscur Expedition 33",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 32,
-      "rank_change": 29,
+      "rank_change": 27,
+      "seeders": 1578,
+      "leechers": 433,
+      "peers": 2011
+    },
+    {
+      "title": "Clair Obscur Expedition 33",
+      "current_rank": 6,
+      "previous_rank": 32,
+      "rank_change": 26,
       "seeders": 1578,
       "leechers": 433,
       "peers": 2011
     },
     {
       "title": "The Elder Scrolls IV Oblivion",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 40,
-      "rank_change": 36,
+      "rank_change": 33,
+      "seeders": 1120,
+      "leechers": 308,
+      "peers": 1428
+    },
+    {
+      "title": "The Elder Scrolls IV Oblivion",
+      "current_rank": 8,
+      "previous_rank": 40,
+      "rank_change": 32,
       "seeders": 1120,
       "leechers": 308,
       "peers": 1428
     },
     {
       "title": "Schedule I",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 232,
-      "rank_change": 227,
+      "rank_change": 223,
+      "seeders": 1228,
+      "leechers": 41,
+      "peers": 1269
+    },
+    {
+      "title": "Schedule I",
+      "current_rank": 10,
+      "previous_rank": 232,
+      "rank_change": 222,
       "seeders": 1228,
       "leechers": 41,
       "peers": 1269
     },
     {
       "title": "Blue Prince",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 64,
-      "rank_change": 58,
+      "rank_change": 53,
+      "seeders": 817,
+      "leechers": 16,
+      "peers": 833
+    },
+    {
+      "title": "Blue Prince",
+      "current_rank": 12,
+      "previous_rank": 64,
+      "rank_change": 52,
       "seeders": 817,
       "leechers": 16,
       "peers": 833
     },
     {
       "title": "Days Gone [FitGirl",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 56,
-      "rank_change": 49,
+      "rank_change": 43,
+      "seeders": 434,
+      "leechers": 373,
+      "peers": 807
+    },
+    {
+      "title": "Days Gone [FitGirl",
+      "current_rank": 14,
+      "previous_rank": 56,
+      "rank_change": 42,
       "seeders": 434,
       "leechers": 373,
       "peers": 807
     },
     {
       "title": "Baldur's Gate 3",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 72,
-      "rank_change": 64,
+      "rank_change": 57,
+      "seeders": 370,
+      "leechers": 353,
+      "peers": 723
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "current_rank": 16,
+      "previous_rank": 72,
+      "rank_change": 56,
       "seeders": 370,
       "leechers": 353,
       "peers": 723
     },
     {
       "title": "Tempest Rising",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 88,
-      "rank_change": 79,
+      "rank_change": 71,
+      "seeders": 435,
+      "leechers": 83,
+      "peers": 518
+    },
+    {
+      "title": "Tempest Rising",
+      "current_rank": 18,
+      "previous_rank": 88,
+      "rank_change": 70,
       "seeders": 435,
       "leechers": 83,
       "peers": 518
     },
     {
       "title": "Schedule I 3 4f4",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 104,
-      "rank_change": 94,
+      "rank_change": 85,
       "seeders": 392,
       "leechers": 4,
       "peers": 396
     },
     {
-      "title": "Mandragora: Whispers of the Witch Tree",
-      "current_rank": 11,
-      "previous_rank": 120,
-      "rank_change": 109,
-      "seeders": 309,
-      "leechers": 32,
-      "peers": 341
-    },
-    {
-      "title": "Baldur\u2019s Gate 3",
-      "current_rank": 12,
-      "previous_rank": 158,
-      "rank_change": 146,
-      "seeders": 148,
-      "leechers": 151,
-      "peers": 299
-    },
-    {
-      "title": "Commandos: Origins",
-      "current_rank": 13,
-      "previous_rank": 512,
-      "rank_change": 499,
-      "seeders": 283,
-      "leechers": 16,
-      "peers": 299
-    },
-    {
-      "title": "Crusader Kings III: Collection",
-      "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 280,
-      "leechers": 13,
-      "peers": 293
-    },
-    {
-      "title": "The Last of Us Part II",
-      "current_rank": 15,
-      "previous_rank": 80,
-      "rank_change": 65,
-      "seeders": 282,
-      "leechers": 5,
-      "peers": 287
-    },
-    {
-      "title": "MEMORIAPOLIS",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 276,
-      "leechers": 10,
-      "peers": 286
-    },
-    {
-      "title": "V Rising",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 245,
-      "leechers": 35,
-      "peers": 280
-    },
-    {
-      "title": "The Sims 4",
-      "current_rank": 18,
-      "previous_rank": 176,
-      "rank_change": 158,
-      "seeders": 178,
-      "leechers": 92,
-      "peers": 270
-    },
-    {
-      "title": "Days Gone [DODI Re",
-      "current_rank": 19,
-      "previous_rank": 112,
-      "rank_change": 93,
-      "seeders": 136,
-      "leechers": 132,
-      "peers": 268
-    },
-    {
-      "title": "Dave The Diver",
+      "title": "Schedule I 3 4f4",
       "current_rank": 20,
-      "previous_rank": 184,
-      "rank_change": 164,
-      "seeders": 246,
-      "leechers": 15,
-      "peers": 261
+      "previous_rank": 104,
+      "rank_change": 84,
+      "seeders": 392,
+      "leechers": 4,
+      "peers": 396
     }
   ]
 }
