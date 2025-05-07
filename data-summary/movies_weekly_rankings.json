@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-07T14:09:34",
+  "updated_at": "2025-05-07T17:06:07",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -48,13 +48,13 @@
       "peers": 12845
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant 2",
       "current_rank": 6,
-      "previous_rank": 56,
-      "rank_change": 50,
-      "seeders": 3502,
-      "leechers": 2233,
-      "peers": 5735
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 4157,
+      "leechers": 8688,
+      "peers": 12845
     },
     {
       "title": "Death of a Unicorn",
@@ -93,22 +93,22 @@
       "peers": 5735
     },
     {
-      "title": "Warfare",
+      "title": "Death of a Unicorn",
       "current_rank": 11,
-      "previous_rank": 264,
-      "rank_change": 253,
-      "seeders": 3436,
-      "leechers": 1753,
-      "peers": 5189
+      "previous_rank": 56,
+      "rank_change": 45,
+      "seeders": 3502,
+      "leechers": 2233,
+      "peers": 5735
     },
     {
-      "title": "Warfare",
+      "title": "Death of a Unicorn",
       "current_rank": 12,
-      "previous_rank": 264,
-      "rank_change": 252,
-      "seeders": 3436,
-      "leechers": 1753,
-      "peers": 5189
+      "previous_rank": 56,
+      "rank_change": 44,
+      "seeders": 3502,
+      "leechers": 2233,
+      "peers": 5735
     },
     {
       "title": "Warfare",
@@ -138,31 +138,31 @@
       "peers": 5189
     },
     {
-      "title": "A Working Man",
+      "title": "Warfare",
       "current_rank": 16,
-      "previous_rank": 96,
-      "rank_change": 80,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 264,
+      "rank_change": 248,
+      "seeders": 3436,
+      "leechers": 1753,
+      "peers": 5189
     },
     {
-      "title": "A Working Man",
+      "title": "Warfare",
       "current_rank": 17,
-      "previous_rank": 96,
-      "rank_change": 79,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 264,
+      "rank_change": 247,
+      "seeders": 3436,
+      "leechers": 1753,
+      "peers": 5189
     },
     {
-      "title": "A Working Man",
+      "title": "Warfare",
       "current_rank": 18,
-      "previous_rank": 96,
-      "rank_change": 78,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 264,
+      "rank_change": 246,
+      "seeders": 3436,
+      "leechers": 1753,
+      "peers": 5189
     },
     {
       "title": "A Working Man",
