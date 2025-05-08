@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-08T20:07:16",
+  "updated_at": "2025-05-08T23:05:13",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -66,13 +66,13 @@
       "peers": 10200
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant 2",
       "current_rank": 8,
-      "previous_rank": 256,
-      "rank_change": 248,
-      "seeders": 5048,
-      "leechers": 3813,
-      "peers": 8861
+      "previous_rank": 8,
+      "rank_change": 0,
+      "seeders": 3897,
+      "leechers": 6303,
+      "peers": 10200
     },
     {
       "title": "Warfare",
@@ -129,22 +129,22 @@
       "peers": 8861
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Warfare",
       "current_rank": 15,
-      "previous_rank": 24,
-      "rank_change": 9,
-      "seeders": 3236,
-      "leechers": 2164,
-      "peers": 5400
+      "previous_rank": 256,
+      "rank_change": 241,
+      "seeders": 5048,
+      "leechers": 3813,
+      "peers": 8861
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Warfare",
       "current_rank": 16,
-      "previous_rank": 24,
-      "rank_change": 8,
-      "seeders": 3236,
-      "leechers": 2164,
-      "peers": 5400
+      "previous_rank": 256,
+      "rank_change": 240,
+      "seeders": 5048,
+      "leechers": 3813,
+      "peers": 8861
     },
     {
       "title": "Death of a Unicorn",
