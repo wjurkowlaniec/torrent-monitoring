@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-10T11:05:19",
+  "updated_at": "2025-05-10T14:08:07",
   "rankings": [
     {
       "title": "Warfare",
@@ -39,13 +39,13 @@
       "peers": 8926
     },
     {
-      "title": "The Accountant 2",
+      "title": "Warfare",
       "current_rank": 5,
-      "previous_rank": 8,
-      "rank_change": 3,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 256,
+      "rank_change": 251,
+      "seeders": 5082,
+      "leechers": 3844,
+      "peers": 8926
     },
     {
       "title": "The Accountant 2",
@@ -75,22 +75,22 @@
       "peers": 8353
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant 2",
       "current_rank": 9,
-      "previous_rank": 24,
-      "rank_change": 15,
-      "seeders": 3098,
-      "leechers": 2504,
-      "peers": 5602
+      "previous_rank": 8,
+      "rank_change": -1,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant 2",
       "current_rank": 10,
-      "previous_rank": 24,
-      "rank_change": 14,
-      "seeders": 3098,
-      "leechers": 2504,
-      "peers": 5602
+      "previous_rank": 8,
+      "rank_change": -2,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "Death of a Unicorn",
@@ -111,31 +111,31 @@
       "peers": 5602
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 13,
-      "previous_rank": 40,
-      "rank_change": 27,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 11,
+      "seeders": 3098,
+      "leechers": 2504,
+      "peers": 5602
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 14,
-      "previous_rank": 40,
-      "rank_change": 26,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 10,
+      "seeders": 3098,
+      "leechers": 2504,
+      "peers": 5602
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 15,
-      "previous_rank": 40,
-      "rank_change": 25,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 9,
+      "seeders": 3098,
+      "leechers": 2504,
+      "peers": 5602
     },
     {
       "title": "A Working Man",
@@ -147,40 +147,40 @@
       "peers": 5116
     },
     {
-      "title": "Havoc",
+      "title": "A Working Man",
       "current_rank": 17,
-      "previous_rank": 48,
-      "rank_change": 31,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
+      "previous_rank": 40,
+      "rank_change": 23,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     },
     {
-      "title": "Havoc",
+      "title": "A Working Man",
       "current_rank": 18,
-      "previous_rank": 48,
-      "rank_change": 30,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
+      "previous_rank": 40,
+      "rank_change": 22,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     },
     {
-      "title": "Havoc",
+      "title": "A Working Man",
       "current_rank": 19,
-      "previous_rank": 48,
-      "rank_change": 29,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
+      "previous_rank": 40,
+      "rank_change": 21,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     },
     {
-      "title": "Havoc",
+      "title": "A Working Man",
       "current_rank": 20,
-      "previous_rank": 48,
-      "rank_change": 28,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
+      "previous_rank": 40,
+      "rank_change": 20,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
     }
   ]
 }
