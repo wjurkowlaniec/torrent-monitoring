@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-10T08:06:59",
+  "updated_at": "2025-05-10T11:05:19",
   "rankings": [
     {
       "title": "Warfare",
@@ -30,13 +30,13 @@
       "peers": 8926
     },
     {
-      "title": "The Accountant 2",
+      "title": "Warfare",
       "current_rank": 4,
-      "previous_rank": 16,
-      "rank_change": 12,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 8,
+      "rank_change": 4,
+      "seeders": 5082,
+      "leechers": 3844,
+      "peers": 8926
     },
     {
       "title": "The Accountant 2",
@@ -57,22 +57,22 @@
       "peers": 8353
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant 2",
       "current_rank": 7,
-      "previous_rank": 24,
-      "rank_change": 17,
-      "seeders": 3098,
-      "leechers": 2504,
-      "peers": 5602
+      "previous_rank": 16,
+      "rank_change": 9,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "The Accountant 2",
       "current_rank": 8,
-      "previous_rank": 24,
-      "rank_change": 16,
-      "seeders": 3098,
-      "leechers": 2504,
-      "peers": 5602
+      "previous_rank": 16,
+      "rank_change": 8,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "Death of a Unicorn",
@@ -84,103 +84,103 @@
       "peers": 5602
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 10,
-      "previous_rank": 32,
-      "rank_change": 22,
-      "seeders": 3776,
-      "leechers": 1340,
-      "peers": 5116
+      "previous_rank": 24,
+      "rank_change": 14,
+      "seeders": 3098,
+      "leechers": 2504,
+      "peers": 5602
     },
     {
-      "title": "A Working Man",
+      "title": "Death of a Unicorn",
       "current_rank": 11,
+      "previous_rank": 24,
+      "rank_change": 13,
+      "seeders": 3098,
+      "leechers": 2504,
+      "peers": 5602
+    },
+    {
+      "title": "Death of a Unicorn",
+      "current_rank": 12,
+      "previous_rank": 24,
+      "rank_change": 12,
+      "seeders": 3098,
+      "leechers": 2504,
+      "peers": 5602
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 13,
       "previous_rank": 32,
-      "rank_change": 21,
+      "rank_change": 19,
       "seeders": 3776,
       "leechers": 1340,
       "peers": 5116
     },
     {
       "title": "A Working Man",
-      "current_rank": 12,
+      "current_rank": 14,
       "previous_rank": 32,
-      "rank_change": 20,
+      "rank_change": 18,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 15,
+      "previous_rank": 32,
+      "rank_change": 17,
+      "seeders": 3776,
+      "leechers": 1340,
+      "peers": 5116
+    },
+    {
+      "title": "A Working Man",
+      "current_rank": 16,
+      "previous_rank": 32,
+      "rank_change": 16,
       "seeders": 3776,
       "leechers": 1340,
       "peers": 5116
     },
     {
       "title": "Havoc",
-      "current_rank": 13,
-      "previous_rank": 40,
-      "rank_change": 27,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 14,
-      "previous_rank": 40,
-      "rank_change": 26,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 15,
-      "previous_rank": 40,
-      "rank_change": 25,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
-    },
-    {
-      "title": "Thunderbolts*",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2671,
-      "leechers": 1325,
-      "peers": 3996
-    },
-    {
-      "title": "Thunderbolts*",
       "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2671,
-      "leechers": 1325,
-      "peers": 3996
+      "previous_rank": 40,
+      "rank_change": 23,
+      "seeders": 3534,
+      "leechers": 857,
+      "peers": 4391
     },
     {
-      "title": "Thunderbolts*",
+      "title": "Havoc",
       "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2671,
-      "leechers": 1325,
-      "peers": 3996
+      "previous_rank": 40,
+      "rank_change": 22,
+      "seeders": 3534,
+      "leechers": 857,
+      "peers": 4391
     },
     {
-      "title": "Sinners",
+      "title": "Havoc",
       "current_rank": 19,
-      "previous_rank": 48,
-      "rank_change": 29,
-      "seeders": 1404,
-      "leechers": 2087,
-      "peers": 3491
+      "previous_rank": 40,
+      "rank_change": 21,
+      "seeders": 3534,
+      "leechers": 857,
+      "peers": 4391
     },
     {
-      "title": "Sinners",
+      "title": "Havoc",
       "current_rank": 20,
-      "previous_rank": 48,
-      "rank_change": 28,
-      "seeders": 1404,
-      "leechers": 2087,
-      "peers": 3491
+      "previous_rank": 40,
+      "rank_change": 20,
+      "seeders": 3534,
+      "leechers": 857,
+      "peers": 4391
     }
   ]
 }
