@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-11T17:04:51",
+  "updated_at": "2025-05-11T20:06:28",
   "rankings": [
     {
       "title": "Warfare",
@@ -57,13 +57,13 @@
       "peers": 8864
     },
     {
-      "title": "The Accountant 2",
+      "title": "Warfare",
       "current_rank": 7,
-      "previous_rank": 16,
-      "rank_change": 9,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 8,
+      "rank_change": 1,
+      "seeders": 4953,
+      "leechers": 3911,
+      "peers": 8864
     },
     {
       "title": "The Accountant 2",
@@ -111,22 +111,22 @@
       "peers": 8353
     },
     {
-      "title": "Thunderbolts*",
+      "title": "The Accountant 2",
       "current_rank": 13,
-      "previous_rank": 48,
-      "rank_change": 35,
-      "seeders": 3997,
-      "leechers": 2312,
-      "peers": 6309
+      "previous_rank": 16,
+      "rank_change": 3,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "Thunderbolts*",
+      "title": "The Accountant 2",
       "current_rank": 14,
-      "previous_rank": 48,
-      "rank_change": 34,
-      "seeders": 3997,
-      "leechers": 2312,
-      "peers": 6309
+      "previous_rank": 16,
+      "rank_change": 2,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "Thunderbolts*",
@@ -165,22 +165,22 @@
       "peers": 6309
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Thunderbolts*",
       "current_rank": 19,
-      "previous_rank": 24,
-      "rank_change": 5,
-      "seeders": 3093,
-      "leechers": 2755,
-      "peers": 5848
+      "previous_rank": 48,
+      "rank_change": 29,
+      "seeders": 3997,
+      "leechers": 2312,
+      "peers": 6309
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Thunderbolts*",
       "current_rank": 20,
-      "previous_rank": 24,
-      "rank_change": 4,
-      "seeders": 3093,
-      "leechers": 2755,
-      "peers": 5848
+      "previous_rank": 48,
+      "rank_change": 28,
+      "seeders": 3997,
+      "leechers": 2312,
+      "peers": 6309
     }
   ]
 }
