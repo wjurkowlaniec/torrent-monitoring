@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-12T20:07:23",
+  "updated_at": "2025-05-12T23:05:35",
   "rankings": [
     {
       "title": "Warfare",
@@ -66,13 +66,13 @@
       "peers": 8780
     },
     {
-      "title": "The Accountant 2",
+      "title": "Warfare",
       "current_rank": 8,
-      "previous_rank": 8,
-      "rank_change": 0,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 240,
+      "rank_change": 232,
+      "seeders": 4797,
+      "leechers": 3983,
+      "peers": 8780
     },
     {
       "title": "The Accountant 2",
@@ -129,22 +129,22 @@
       "peers": 8353
     },
     {
-      "title": "Thunderbolts*",
+      "title": "The Accountant 2",
       "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 4262,
-      "leechers": 2480,
-      "peers": 6742
+      "previous_rank": 8,
+      "rank_change": -7,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "Thunderbolts*",
+      "title": "The Accountant 2",
       "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 4262,
-      "leechers": 2480,
-      "peers": 6742
+      "previous_rank": 8,
+      "rank_change": -8,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "Thunderbolts*",
