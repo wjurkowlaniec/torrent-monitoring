@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-14T14:09:21",
+  "updated_at": "2025-05-14T17:06:02",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -48,13 +48,13 @@
       "peers": 8353
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant 2",
       "current_rank": 6,
-      "previous_rank": 16,
-      "rank_change": 10,
-      "seeders": 4114,
-      "leechers": 2949,
-      "peers": 7063
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "Warfare",
@@ -93,22 +93,22 @@
       "peers": 7063
     },
     {
-      "title": "Thunderbolts*",
+      "title": "Warfare",
       "current_rank": 11,
-      "previous_rank": 24,
-      "rank_change": 13,
-      "seeders": 3450,
-      "leechers": 2406,
-      "peers": 5856
+      "previous_rank": 16,
+      "rank_change": 5,
+      "seeders": 4114,
+      "leechers": 2949,
+      "peers": 7063
     },
     {
-      "title": "Thunderbolts*",
+      "title": "Warfare",
       "current_rank": 12,
-      "previous_rank": 24,
-      "rank_change": 12,
-      "seeders": 3450,
-      "leechers": 2406,
-      "peers": 5856
+      "previous_rank": 16,
+      "rank_change": 4,
+      "seeders": 4114,
+      "leechers": 2949,
+      "peers": 7063
     },
     {
       "title": "Thunderbolts*",
@@ -138,31 +138,31 @@
       "peers": 5856
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Thunderbolts*",
       "current_rank": 16,
-      "previous_rank": 32,
-      "rank_change": 16,
-      "seeders": 3090,
-      "leechers": 2082,
-      "peers": 5172
+      "previous_rank": 24,
+      "rank_change": 8,
+      "seeders": 3450,
+      "leechers": 2406,
+      "peers": 5856
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Thunderbolts*",
       "current_rank": 17,
-      "previous_rank": 32,
-      "rank_change": 15,
-      "seeders": 3090,
-      "leechers": 2082,
-      "peers": 5172
+      "previous_rank": 24,
+      "rank_change": 7,
+      "seeders": 3450,
+      "leechers": 2406,
+      "peers": 5856
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "Thunderbolts*",
       "current_rank": 18,
-      "previous_rank": 32,
-      "rank_change": 14,
-      "seeders": 3090,
-      "leechers": 2082,
-      "peers": 5172
+      "previous_rank": 24,
+      "rank_change": 6,
+      "seeders": 3450,
+      "leechers": 2406,
+      "peers": 5856
     },
     {
       "title": "Death of a Unicorn",
