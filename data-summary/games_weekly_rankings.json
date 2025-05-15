@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-15T14:09:21",
+  "updated_at": "2025-05-15T17:06:09",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -48,13 +48,13 @@
       "peers": 4671
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 6,
-      "previous_rank": 16,
-      "rank_change": 10,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 3261,
+      "leechers": 1410,
+      "peers": 4671
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -93,22 +93,22 @@
       "peers": 3462
     },
     {
-      "title": "The Precinct",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 11,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1899,
-      "leechers": 225,
-      "peers": 2124
+      "previous_rank": 16,
+      "rank_change": 5,
+      "seeders": 2640,
+      "leechers": 822,
+      "peers": 3462
     },
     {
-      "title": "The Precinct",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1899,
-      "leechers": 225,
-      "peers": 2124
+      "previous_rank": 16,
+      "rank_change": 4,
+      "seeders": 2640,
+      "leechers": 822,
+      "peers": 3462
     },
     {
       "title": "The Precinct",
@@ -138,31 +138,31 @@
       "peers": 2124
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Precinct",
       "current_rank": 16,
-      "previous_rank": 24,
-      "rank_change": 8,
-      "seeders": 1413,
-      "leechers": 312,
-      "peers": 1725
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1899,
+      "leechers": 225,
+      "peers": 2124
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Precinct",
       "current_rank": 17,
-      "previous_rank": 24,
-      "rank_change": 7,
-      "seeders": 1413,
-      "leechers": 312,
-      "peers": 1725
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1899,
+      "leechers": 225,
+      "peers": 2124
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Precinct",
       "current_rank": 18,
-      "previous_rank": 24,
-      "rank_change": 6,
-      "seeders": 1413,
-      "leechers": 312,
-      "peers": 1725
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1899,
+      "leechers": 225,
+      "peers": 2124
     },
     {
       "title": "Clair Obscur Expedition 33",
