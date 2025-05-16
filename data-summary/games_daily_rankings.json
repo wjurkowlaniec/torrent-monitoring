@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-16T11:06:02",
+  "updated_at": "2025-05-16T14:09:54",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -39,13 +39,13 @@
       "peers": 4671
     },
     {
-      "title": "Clair Obscur: Expedition 33",
+      "title": "The Elder Scrolls IV: Oblivion",
       "current_rank": 5,
-      "previous_rank": 16,
-      "rank_change": 11,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
+      "previous_rank": 8,
+      "rank_change": 3,
+      "seeders": 3261,
+      "leechers": 1410,
+      "peers": 4671
     },
     {
       "title": "Clair Obscur: Expedition 33",
@@ -75,22 +75,22 @@
       "peers": 3462
     },
     {
-      "title": "The Precinct",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 9,
-      "previous_rank": 24,
-      "rank_change": 15,
-      "seeders": 1709,
-      "leechers": 127,
-      "peers": 1836
+      "previous_rank": 16,
+      "rank_change": 7,
+      "seeders": 2640,
+      "leechers": 822,
+      "peers": 3462
     },
     {
-      "title": "The Precinct",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 10,
-      "previous_rank": 24,
-      "rank_change": 14,
-      "seeders": 1709,
-      "leechers": 127,
-      "peers": 1836
+      "previous_rank": 16,
+      "rank_change": 6,
+      "seeders": 2640,
+      "leechers": 822,
+      "peers": 3462
     },
     {
       "title": "The Precinct",
@@ -111,31 +111,31 @@
       "peers": 1836
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Precinct",
       "current_rank": 13,
-      "previous_rank": 32,
-      "rank_change": 19,
-      "seeders": 1403,
-      "leechers": 312,
-      "peers": 1715
+      "previous_rank": 24,
+      "rank_change": 11,
+      "seeders": 1709,
+      "leechers": 127,
+      "peers": 1836
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Precinct",
       "current_rank": 14,
-      "previous_rank": 32,
-      "rank_change": 18,
-      "seeders": 1403,
-      "leechers": 312,
-      "peers": 1715
+      "previous_rank": 24,
+      "rank_change": 10,
+      "seeders": 1709,
+      "leechers": 127,
+      "peers": 1836
     },
     {
-      "title": "Clair Obscur Expedition 33",
+      "title": "The Precinct",
       "current_rank": 15,
-      "previous_rank": 32,
-      "rank_change": 17,
-      "seeders": 1403,
-      "leechers": 312,
-      "peers": 1715
+      "previous_rank": 24,
+      "rank_change": 9,
+      "seeders": 1709,
+      "leechers": 127,
+      "peers": 1836
     },
     {
       "title": "Clair Obscur Expedition 33",
@@ -147,40 +147,40 @@
       "peers": 1715
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "Clair Obscur Expedition 33",
       "current_rank": 17,
-      "previous_rank": 40,
-      "rank_change": 23,
-      "seeders": 1120,
-      "leechers": 308,
-      "peers": 1428
+      "previous_rank": 32,
+      "rank_change": 15,
+      "seeders": 1403,
+      "leechers": 312,
+      "peers": 1715
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "Clair Obscur Expedition 33",
       "current_rank": 18,
-      "previous_rank": 40,
-      "rank_change": 22,
-      "seeders": 1120,
-      "leechers": 308,
-      "peers": 1428
+      "previous_rank": 32,
+      "rank_change": 14,
+      "seeders": 1403,
+      "leechers": 312,
+      "peers": 1715
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "Clair Obscur Expedition 33",
       "current_rank": 19,
-      "previous_rank": 40,
-      "rank_change": 21,
-      "seeders": 1120,
-      "leechers": 308,
-      "peers": 1428
+      "previous_rank": 32,
+      "rank_change": 13,
+      "seeders": 1403,
+      "leechers": 312,
+      "peers": 1715
     },
     {
-      "title": "The Elder Scrolls IV Oblivion",
+      "title": "Clair Obscur Expedition 33",
       "current_rank": 20,
-      "previous_rank": 40,
-      "rank_change": 20,
-      "seeders": 1120,
-      "leechers": 308,
-      "peers": 1428
+      "previous_rank": 32,
+      "rank_change": 12,
+      "seeders": 1403,
+      "leechers": 312,
+      "peers": 1715
     }
   ]
 }
