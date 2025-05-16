@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-15T23:05:19",
+  "updated_at": "2025-05-16T02:24:28",
   "rankings": [
     {
       "title": "The Elder Scrolls IV: Oblivion",
@@ -12,175 +12,175 @@
       "peers": 4671
     },
     {
-      "title": "The Elder Scrolls IV: Oblivion",
+      "title": "Clair Obscur: Expedition 33",
       "current_rank": 2,
-      "previous_rank": 8,
-      "rank_change": 6,
-      "seeders": 3261,
-      "leechers": 1410,
-      "peers": 4671
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion",
-      "current_rank": 3,
-      "previous_rank": 8,
-      "rank_change": 5,
-      "seeders": 3261,
-      "leechers": 1410,
-      "peers": 4671
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion",
-      "current_rank": 4,
-      "previous_rank": 8,
-      "rank_change": 4,
-      "seeders": 3261,
-      "leechers": 1410,
-      "peers": 4671
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion",
-      "current_rank": 5,
-      "previous_rank": 8,
-      "rank_change": 3,
-      "seeders": 3261,
-      "leechers": 1410,
-      "peers": 4671
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion",
-      "current_rank": 6,
-      "previous_rank": 8,
-      "rank_change": 2,
-      "seeders": 3261,
-      "leechers": 1410,
-      "peers": 4671
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion",
-      "current_rank": 7,
-      "previous_rank": 8,
-      "rank_change": 1,
-      "seeders": 3261,
-      "leechers": 1410,
-      "peers": 4671
-    },
-    {
-      "title": "The Elder Scrolls IV: Oblivion",
-      "current_rank": 8,
-      "previous_rank": 8,
-      "rank_change": 0,
-      "seeders": 3261,
-      "leechers": 1410,
-      "peers": 4671
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 9,
       "previous_rank": 16,
-      "rank_change": 7,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 10,
-      "previous_rank": 16,
-      "rank_change": 6,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 11,
-      "previous_rank": 16,
-      "rank_change": 5,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 12,
-      "previous_rank": 16,
-      "rank_change": 4,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 13,
-      "previous_rank": 16,
-      "rank_change": 3,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 14,
-      "previous_rank": 16,
-      "rank_change": 2,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 15,
-      "previous_rank": 16,
-      "rank_change": 1,
-      "seeders": 2640,
-      "leechers": 822,
-      "peers": 3462
-    },
-    {
-      "title": "Clair Obscur: Expedition 33",
-      "current_rank": 16,
-      "previous_rank": 16,
-      "rank_change": 0,
+      "rank_change": 14,
       "seeders": 2640,
       "leechers": 822,
       "peers": 3462
     },
     {
       "title": "The Precinct",
-      "current_rank": 17,
+      "current_rank": 3,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 1899,
-      "leechers": 225,
-      "peers": 2124
+      "seeders": 1709,
+      "leechers": 127,
+      "peers": 1836
     },
     {
-      "title": "The Precinct",
+      "title": "Clair Obscur Expedition 33",
+      "current_rank": 4,
+      "previous_rank": 24,
+      "rank_change": 20,
+      "seeders": 1403,
+      "leechers": 312,
+      "peers": 1715
+    },
+    {
+      "title": "The Elder Scrolls IV Oblivion",
+      "current_rank": 5,
+      "previous_rank": 32,
+      "rank_change": 27,
+      "seeders": 1120,
+      "leechers": 308,
+      "peers": 1428
+    },
+    {
+      "title": "Days Gone [FitGirl",
+      "current_rank": 6,
+      "previous_rank": 40,
+      "rank_change": 34,
+      "seeders": 446,
+      "leechers": 424,
+      "peers": 870
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "current_rank": 7,
+      "previous_rank": 56,
+      "rank_change": 49,
+      "seeders": 370,
+      "leechers": 353,
+      "peers": 723
+    },
+    {
+      "title": "The Sinking City",
+      "current_rank": 8,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 257,
+      "leechers": 292,
+      "peers": 549
+    },
+    {
+      "title": "Tempest Rising",
+      "current_rank": 9,
+      "previous_rank": 456,
+      "rank_change": 447,
+      "seeders": 435,
+      "leechers": 83,
+      "peers": 518
+    },
+    {
+      "title": "EVERSPACE 2: [FitGirl Re",
+      "current_rank": 10,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 307,
+      "leechers": 140,
+      "peers": 447
+    },
+    {
+      "title": "Crusader Kings III: Collection",
+      "current_rank": 11,
+      "previous_rank": 128,
+      "rank_change": 117,
+      "seeders": 341,
+      "leechers": 15,
+      "peers": 356
+    },
+    {
+      "title": "Mandragora: Whispers of the Witch Tree",
+      "current_rank": 12,
+      "previous_rank": 96,
+      "rank_change": 84,
+      "seeders": 309,
+      "leechers": 32,
+      "peers": 341
+    },
+    {
+      "title": "Stellaris",
+      "current_rank": 13,
+      "previous_rank": 80,
+      "rank_change": 67,
+      "seeders": 290,
+      "leechers": 26,
+      "peers": 316
+    },
+    {
+      "title": "Baldur\u2019s Gate 3",
+      "current_rank": 14,
+      "previous_rank": 112,
+      "rank_change": 98,
+      "seeders": 148,
+      "leechers": 151,
+      "peers": 299
+    },
+    {
+      "title": "Darfall",
+      "current_rank": 15,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 265,
+      "leechers": 15,
+      "peers": 280
+    },
+    {
+      "title": "Cash Cleaner Simulator",
+      "current_rank": 16,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 243,
+      "leechers": 9,
+      "peers": 252
+    },
+    {
+      "title": "FATAL FURY: City of the Wolves",
+      "current_rank": 17,
+      "previous_rank": 160,
+      "rank_change": 143,
+      "seeders": 226,
+      "leechers": 25,
+      "peers": 251
+    },
+    {
+      "title": "The Midnight Walk",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 1899,
-      "leechers": 225,
-      "peers": 2124
+      "seeders": 218,
+      "leechers": 30,
+      "peers": 248
     },
     {
-      "title": "The Precinct",
+      "title": "Drop Duchy",
       "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 1899,
-      "leechers": 225,
-      "peers": 2124
+      "seeders": 237,
+      "leechers": 3,
+      "peers": 240
     },
     {
-      "title": "The Precinct",
+      "title": "DRAGON BALL: Sparking! ZERO",
       "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1899,
-      "leechers": 225,
-      "peers": 2124
+      "previous_rank": 176,
+      "rank_change": 156,
+      "seeders": 154,
+      "leechers": 68,
+      "peers": 222
     }
   ]
 }
