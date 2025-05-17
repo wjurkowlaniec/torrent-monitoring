@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-16T23:05:13",
+  "updated_at": "2025-05-17T02:23:36",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -12,175 +12,175 @@
       "peers": 8353
     },
     {
-      "title": "The Accountant 2",
+      "title": "A Minecraft Movie",
       "current_rank": 2,
-      "previous_rank": 16,
-      "rank_change": 14,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 304,
+      "rank_change": 302,
+      "seeders": 4893,
+      "leechers": 1602,
+      "peers": 6495
     },
     {
-      "title": "The Accountant 2",
+      "title": "Warfare",
       "current_rank": 3,
-      "previous_rank": 16,
-      "rank_change": 13,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 8,
+      "rank_change": 5,
+      "seeders": 3816,
+      "leechers": 2240,
+      "peers": 6056
     },
     {
-      "title": "The Accountant 2",
+      "title": "Thunderbolts*",
       "current_rank": 4,
-      "previous_rank": 16,
-      "rank_change": 12,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 24,
+      "rank_change": 20,
+      "seeders": 3637,
+      "leechers": 1678,
+      "peers": 5315
     },
     {
-      "title": "The Accountant 2",
+      "title": "Death of a Unicorn",
       "current_rank": 5,
-      "previous_rank": 16,
-      "rank_change": 11,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 32,
+      "rank_change": 27,
+      "seeders": 3090,
+      "leechers": 2082,
+      "peers": 5172
     },
     {
-      "title": "The Accountant 2",
+      "title": "Havoc",
       "current_rank": 6,
-      "previous_rank": 16,
-      "rank_change": 10,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 48,
+      "rank_change": 42,
+      "seeders": 3534,
+      "leechers": 857,
+      "peers": 4391
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 7,
-      "previous_rank": 16,
-      "rank_change": 9,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 56,
+      "rank_change": 49,
+      "seeders": 1404,
+      "leechers": 2087,
+      "peers": 3491
     },
     {
-      "title": "The Accountant 2",
+      "title": "Snow White",
       "current_rank": 8,
-      "previous_rank": 16,
-      "rank_change": 8,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2144,
+      "leechers": 557,
+      "peers": 2701
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Drop",
       "current_rank": 9,
-      "previous_rank": 88,
-      "rank_change": 79,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "previous_rank": 64,
+      "rank_change": 55,
+      "seeders": 1331,
+      "leechers": 917,
+      "peers": 2248
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Ash",
       "current_rank": 10,
-      "previous_rank": 88,
-      "rank_change": 78,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "previous_rank": 80,
+      "rank_change": 70,
+      "seeders": 1529,
+      "leechers": 301,
+      "peers": 1830
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Locked",
       "current_rank": 11,
       "previous_rank": 88,
       "rank_change": 77,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "seeders": 1385,
+      "leechers": 362,
+      "peers": 1747
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Raid 2",
       "current_rank": 12,
-      "previous_rank": 88,
-      "rank_change": 76,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "previous_rank": 144,
+      "rank_change": 132,
+      "seeders": 1419,
+      "leechers": 208,
+      "peers": 1627
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Nonnas",
       "current_rank": 13,
-      "previous_rank": 88,
-      "rank_change": 75,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 404,
+      "leechers": 940,
+      "peers": 1344
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Freaky Tales",
       "current_rank": 14,
-      "previous_rank": 88,
-      "rank_change": 74,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "previous_rank": 120,
+      "rank_change": 106,
+      "seeders": 743,
+      "leechers": 560,
+      "peers": 1303
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Tin Soldier",
       "current_rank": 15,
-      "previous_rank": 88,
-      "rank_change": 73,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "previous_rank": 104,
+      "rank_change": 89,
+      "seeders": 1015,
+      "leechers": 120,
+      "peers": 1135
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Another Simple Favor",
       "current_rank": 16,
-      "previous_rank": 88,
-      "rank_change": 72,
-      "seeders": 4943,
-      "leechers": 1404,
-      "peers": 6347
+      "previous_rank": 96,
+      "rank_change": 80,
+      "seeders": 720,
+      "leechers": 315,
+      "peers": 1035
     },
     {
-      "title": "Warfare",
+      "title": "Mr K",
       "current_rank": 17,
-      "previous_rank": 8,
-      "rank_change": -9,
-      "seeders": 4081,
-      "leechers": 2190,
-      "peers": 6271
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 868,
+      "leechers": 137,
+      "peers": 1005
     },
     {
-      "title": "Warfare",
+      "title": "Exterritorial",
       "current_rank": 18,
-      "previous_rank": 8,
-      "rank_change": -10,
-      "seeders": 4081,
-      "leechers": 2190,
-      "peers": 6271
+      "previous_rank": 520,
+      "rank_change": 502,
+      "seeders": 641,
+      "leechers": 226,
+      "peers": 867
     },
     {
-      "title": "Warfare",
+      "title": "Rogue One A Star Wars Story",
       "current_rank": 19,
-      "previous_rank": 8,
-      "rank_change": -11,
-      "seeders": 4081,
-      "leechers": 2190,
-      "peers": 6271
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 682,
+      "leechers": 171,
+      "peers": 853
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant",
       "current_rank": 20,
-      "previous_rank": 8,
-      "rank_change": -12,
-      "seeders": 4081,
-      "leechers": 2190,
-      "peers": 6271
+      "previous_rank": 160,
+      "rank_change": 140,
+      "seeders": 411,
+      "leechers": 442,
+      "peers": 853
     }
   ]
 }
