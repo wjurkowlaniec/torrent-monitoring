@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-18T02:26:20",
+  "updated_at": "2025-05-18T05:26:32",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -12,26 +12,62 @@
       "peers": 8353
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "The Accountant 2",
       "current_rank": 2,
+      "previous_rank": 16,
+      "rank_change": 14,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 3,
       "previous_rank": 280,
-      "rank_change": 278,
+      "rank_change": 277,
+      "seeders": 4920,
+      "leechers": 1799,
+      "peers": 6719
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 4,
+      "previous_rank": 280,
+      "rank_change": 276,
       "seeders": 4920,
       "leechers": 1799,
       "peers": 6719
     },
     {
       "title": "Warfare",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 8,
-      "rank_change": 5,
+      "rank_change": 3,
+      "seeders": 3847,
+      "leechers": 2448,
+      "peers": 6295
+    },
+    {
+      "title": "Warfare",
+      "current_rank": 6,
+      "previous_rank": 8,
+      "rank_change": 2,
       "seeders": 3847,
       "leechers": 2448,
       "peers": 6295
     },
     {
       "title": "Final Destination Bloodlines",
-      "current_rank": 4,
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2682,
+      "leechers": 3374,
+      "peers": 6056
+    },
+    {
+      "title": "Final Destination Bloodlines",
+      "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 2682,
@@ -40,43 +76,88 @@
     },
     {
       "title": "Thunderbolts*",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 24,
-      "rank_change": 19,
+      "rank_change": 15,
+      "seeders": 3610,
+      "leechers": 1877,
+      "peers": 5487
+    },
+    {
+      "title": "Thunderbolts*",
+      "current_rank": 10,
+      "previous_rank": 24,
+      "rank_change": 14,
       "seeders": 3610,
       "leechers": 1877,
       "peers": 5487
     },
     {
       "title": "Death of a Unicorn",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 32,
-      "rank_change": 26,
+      "rank_change": 21,
+      "seeders": 3090,
+      "leechers": 2082,
+      "peers": 5172
+    },
+    {
+      "title": "Death of a Unicorn",
+      "current_rank": 12,
+      "previous_rank": 32,
+      "rank_change": 20,
       "seeders": 3090,
       "leechers": 2082,
       "peers": 5172
     },
     {
       "title": "Havoc",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 464,
-      "rank_change": 457,
+      "rank_change": 451,
+      "seeders": 3534,
+      "leechers": 857,
+      "peers": 4391
+    },
+    {
+      "title": "Havoc",
+      "current_rank": 14,
+      "previous_rank": 464,
+      "rank_change": 450,
       "seeders": 3534,
       "leechers": 857,
       "peers": 4391
     },
     {
       "title": "Sinners",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 56,
-      "rank_change": 48,
+      "rank_change": 41,
+      "seeders": 1404,
+      "leechers": 2087,
+      "peers": 3491
+    },
+    {
+      "title": "Sinners",
+      "current_rank": 16,
+      "previous_rank": 56,
+      "rank_change": 40,
       "seeders": 1404,
       "leechers": 2087,
       "peers": 3491
     },
     {
       "title": "Snow White",
-      "current_rank": 9,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2130,
+      "leechers": 574,
+      "peers": 2704
+    },
+    {
+      "title": "Snow White",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 2130,
@@ -85,102 +166,21 @@
     },
     {
       "title": "Drop",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 72,
-      "rank_change": 62,
+      "rank_change": 53,
       "seeders": 1331,
       "leechers": 917,
       "peers": 2248
     },
     {
-      "title": "Ash",
-      "current_rank": 11,
-      "previous_rank": 80,
-      "rank_change": 69,
-      "seeders": 1529,
-      "leechers": 301,
-      "peers": 1830
-    },
-    {
-      "title": "Locked",
-      "current_rank": 12,
-      "previous_rank": 88,
-      "rank_change": 76,
-      "seeders": 1385,
-      "leechers": 362,
-      "peers": 1747
-    },
-    {
-      "title": "Raid 2",
-      "current_rank": 13,
-      "previous_rank": 136,
-      "rank_change": 123,
-      "seeders": 1419,
-      "leechers": 208,
-      "peers": 1627
-    },
-    {
-      "title": "Nonnas",
-      "current_rank": 14,
-      "previous_rank": 175,
-      "rank_change": 161,
-      "seeders": 407,
-      "leechers": 995,
-      "peers": 1402
-    },
-    {
-      "title": "Freaky Tales",
-      "current_rank": 15,
-      "previous_rank": 112,
-      "rank_change": 97,
-      "seeders": 743,
-      "leechers": 560,
-      "peers": 1303
-    },
-    {
-      "title": "Mr K",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1005,
-      "leechers": 100,
-      "peers": 1105
-    },
-    {
-      "title": "Tin Soldier",
-      "current_rank": 17,
-      "previous_rank": 104,
-      "rank_change": 87,
-      "seeders": 937,
-      "leechers": 112,
-      "peers": 1049
-    },
-    {
-      "title": "Another Simple Favor",
-      "current_rank": 18,
-      "previous_rank": 96,
-      "rank_change": 78,
-      "seeders": 720,
-      "leechers": 315,
-      "peers": 1035
-    },
-    {
-      "title": "Exterritorial",
-      "current_rank": 19,
-      "previous_rank": 512,
-      "rank_change": 493,
-      "seeders": 641,
-      "leechers": 226,
-      "peers": 867
-    },
-    {
-      "title": "The Accountant",
+      "title": "Drop",
       "current_rank": 20,
-      "previous_rank": 144,
-      "rank_change": 124,
-      "seeders": 411,
-      "leechers": 442,
-      "peers": 853
+      "previous_rank": 72,
+      "rank_change": 52,
+      "seeders": 1331,
+      "leechers": 917,
+      "peers": 2248
     }
   ]
 }
