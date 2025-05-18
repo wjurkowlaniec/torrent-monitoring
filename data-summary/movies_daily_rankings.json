@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-18T14:08:15",
+  "updated_at": "2025-05-18T17:04:49",
   "rankings": [
     {
       "title": "The Accountant 2",
@@ -48,13 +48,13 @@
       "peers": 8353
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "The Accountant 2",
       "current_rank": 6,
-      "previous_rank": 16,
-      "rank_change": 10,
-      "seeders": 4920,
-      "leechers": 1799,
-      "peers": 6719
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "A Minecraft Movie",
@@ -93,22 +93,22 @@
       "peers": 6719
     },
     {
-      "title": "Warfare",
+      "title": "A Minecraft Movie",
       "current_rank": 11,
-      "previous_rank": 24,
-      "rank_change": 13,
-      "seeders": 3847,
-      "leechers": 2448,
-      "peers": 6295
+      "previous_rank": 16,
+      "rank_change": 5,
+      "seeders": 4920,
+      "leechers": 1799,
+      "peers": 6719
     },
     {
-      "title": "Warfare",
+      "title": "A Minecraft Movie",
       "current_rank": 12,
-      "previous_rank": 24,
-      "rank_change": 12,
-      "seeders": 3847,
-      "leechers": 2448,
-      "peers": 6295
+      "previous_rank": 16,
+      "rank_change": 4,
+      "seeders": 4920,
+      "leechers": 1799,
+      "peers": 6719
     },
     {
       "title": "Warfare",
@@ -138,31 +138,31 @@
       "peers": 6295
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Warfare",
       "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2682,
-      "leechers": 3374,
-      "peers": 6056
+      "previous_rank": 24,
+      "rank_change": 8,
+      "seeders": 3847,
+      "leechers": 2448,
+      "peers": 6295
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Warfare",
       "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2682,
-      "leechers": 3374,
-      "peers": 6056
+      "previous_rank": 24,
+      "rank_change": 7,
+      "seeders": 3847,
+      "leechers": 2448,
+      "peers": 6295
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Warfare",
       "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2682,
-      "leechers": 3374,
-      "peers": 6056
+      "previous_rank": 24,
+      "rank_change": 6,
+      "seeders": 3847,
+      "leechers": 2448,
+      "peers": 6295
     },
     {
       "title": "Final Destination Bloodlines",
