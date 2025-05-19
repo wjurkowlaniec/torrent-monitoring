@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-19T20:07:43",
+  "updated_at": "2025-05-19T23:05:18",
   "rankings": [
     {
       "title": "Final Destination Bloodlines",
@@ -66,13 +66,13 @@
       "peers": 15247
     },
     {
-      "title": "Sinners",
+      "title": "Final Destination Bloodlines",
       "current_rank": 8,
-      "previous_rank": 64,
-      "rank_change": 56,
-      "seeders": 4300,
-      "leechers": 9078,
-      "peers": 13378
+      "previous_rank": 32,
+      "rank_change": 24,
+      "seeders": 6200,
+      "leechers": 9047,
+      "peers": 15247
     },
     {
       "title": "Sinners",
@@ -129,22 +129,22 @@
       "peers": 13378
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 15,
-      "previous_rank": 8,
-      "rank_change": -7,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 64,
+      "rank_change": 49,
+      "seeders": 4300,
+      "leechers": 9078,
+      "peers": 13378
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 16,
-      "previous_rank": 8,
-      "rank_change": -8,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 64,
+      "rank_change": 48,
+      "seeders": 4300,
+      "leechers": 9078,
+      "peers": 13378
     },
     {
       "title": "The Accountant 2",
