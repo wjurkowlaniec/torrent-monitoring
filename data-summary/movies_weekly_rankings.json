@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-19T17:06:15",
+  "updated_at": "2025-05-19T20:07:43",
   "rankings": [
     {
       "title": "Final Destination Bloodlines",
@@ -57,13 +57,13 @@
       "peers": 15247
     },
     {
-      "title": "Sinners",
+      "title": "Final Destination Bloodlines",
       "current_rank": 7,
-      "previous_rank": 56,
-      "rank_change": 49,
-      "seeders": 4300,
-      "leechers": 9078,
-      "peers": 13378
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 6200,
+      "leechers": 9047,
+      "peers": 15247
     },
     {
       "title": "Sinners",
@@ -111,22 +111,22 @@
       "peers": 13378
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 13,
-      "previous_rank": 8,
-      "rank_change": -5,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 56,
+      "rank_change": 43,
+      "seeders": 4300,
+      "leechers": 9078,
+      "peers": 13378
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 14,
-      "previous_rank": 8,
-      "rank_change": -6,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 56,
+      "rank_change": 42,
+      "seeders": 4300,
+      "leechers": 9078,
+      "peers": 13378
     },
     {
       "title": "The Accountant 2",
@@ -165,22 +165,22 @@
       "peers": 8353
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "The Accountant 2",
       "current_rank": 19,
-      "previous_rank": 280,
-      "rank_change": 261,
-      "seeders": 4868,
-      "leechers": 2027,
-      "peers": 6895
+      "previous_rank": 8,
+      "rank_change": -11,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "The Accountant 2",
       "current_rank": 20,
-      "previous_rank": 280,
-      "rank_change": 260,
-      "seeders": 4868,
-      "leechers": 2027,
-      "peers": 6895
+      "previous_rank": 8,
+      "rank_change": -12,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     }
   ]
 }
