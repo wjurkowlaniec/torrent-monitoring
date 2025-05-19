@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-19T11:06:51",
+  "updated_at": "2025-05-19T14:09:46",
   "rankings": [
     {
       "title": "Final Destination Bloodlines",
@@ -39,13 +39,13 @@
       "peers": 15247
     },
     {
-      "title": "Sinners",
+      "title": "Final Destination Bloodlines",
       "current_rank": 5,
-      "previous_rank": 64,
-      "rank_change": 59,
-      "seeders": 4300,
-      "leechers": 9078,
-      "peers": 13378
+      "previous_rank": 32,
+      "rank_change": 27,
+      "seeders": 6200,
+      "leechers": 9047,
+      "peers": 15247
     },
     {
       "title": "Sinners",
@@ -75,22 +75,22 @@
       "peers": 13378
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 9,
-      "previous_rank": 8,
-      "rank_change": -1,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 64,
+      "rank_change": 55,
+      "seeders": 4300,
+      "leechers": 9078,
+      "peers": 13378
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 10,
-      "previous_rank": 8,
-      "rank_change": -2,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 64,
+      "rank_change": 54,
+      "seeders": 4300,
+      "leechers": 9078,
+      "peers": 13378
     },
     {
       "title": "The Accountant 2",
@@ -111,31 +111,31 @@
       "peers": 8353
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "The Accountant 2",
       "current_rank": 13,
-      "previous_rank": 16,
-      "rank_change": 3,
-      "seeders": 4868,
-      "leechers": 2027,
-      "peers": 6895
+      "previous_rank": 8,
+      "rank_change": -5,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "The Accountant 2",
       "current_rank": 14,
-      "previous_rank": 16,
-      "rank_change": 2,
-      "seeders": 4868,
-      "leechers": 2027,
-      "peers": 6895
+      "previous_rank": 8,
+      "rank_change": -6,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "The Accountant 2",
       "current_rank": 15,
-      "previous_rank": 16,
-      "rank_change": 1,
-      "seeders": 4868,
-      "leechers": 2027,
-      "peers": 6895
+      "previous_rank": 8,
+      "rank_change": -7,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "A Minecraft Movie",
@@ -147,40 +147,40 @@
       "peers": 6895
     },
     {
-      "title": "Thunderbolts*",
+      "title": "A Minecraft Movie",
       "current_rank": 17,
-      "previous_rank": 40,
-      "rank_change": 23,
-      "seeders": 3589,
-      "leechers": 3220,
-      "peers": 6809
+      "previous_rank": 16,
+      "rank_change": -1,
+      "seeders": 4868,
+      "leechers": 2027,
+      "peers": 6895
     },
     {
-      "title": "Thunderbolts*",
+      "title": "A Minecraft Movie",
       "current_rank": 18,
-      "previous_rank": 40,
-      "rank_change": 22,
-      "seeders": 3589,
-      "leechers": 3220,
-      "peers": 6809
+      "previous_rank": 16,
+      "rank_change": -2,
+      "seeders": 4868,
+      "leechers": 2027,
+      "peers": 6895
     },
     {
-      "title": "Thunderbolts*",
+      "title": "A Minecraft Movie",
       "current_rank": 19,
-      "previous_rank": 40,
-      "rank_change": 21,
-      "seeders": 3589,
-      "leechers": 3220,
-      "peers": 6809
+      "previous_rank": 16,
+      "rank_change": -3,
+      "seeders": 4868,
+      "leechers": 2027,
+      "peers": 6895
     },
     {
-      "title": "Thunderbolts*",
+      "title": "A Minecraft Movie",
       "current_rank": 20,
-      "previous_rank": 40,
-      "rank_change": 20,
-      "seeders": 3589,
-      "leechers": 3220,
-      "peers": 6809
+      "previous_rank": 16,
+      "rank_change": -4,
+      "seeders": 4868,
+      "leechers": 2027,
+      "peers": 6895
     }
   ]
 }
