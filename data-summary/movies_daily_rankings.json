@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-05-20T08:08:06",
+  "updated_at": "2025-05-20T11:06:40",
   "rankings": [
     {
       "title": "Final Destination Bloodlines",
@@ -30,13 +30,13 @@
       "peers": 10852
     },
     {
-      "title": "Sinners",
+      "title": "Final Destination Bloodlines",
       "current_rank": 4,
-      "previous_rank": 16,
-      "rank_change": 12,
-      "seeders": 4559,
-      "leechers": 6217,
-      "peers": 10776
+      "previous_rank": 8,
+      "rank_change": 4,
+      "seeders": 5858,
+      "leechers": 4994,
+      "peers": 10852
     },
     {
       "title": "Sinners",
@@ -57,22 +57,22 @@
       "peers": 10776
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 7,
-      "previous_rank": 24,
-      "rank_change": 17,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 16,
+      "rank_change": 9,
+      "seeders": 4559,
+      "leechers": 6217,
+      "peers": 10776
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 8,
-      "previous_rank": 24,
-      "rank_change": 16,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 16,
+      "rank_change": 8,
+      "seeders": 4559,
+      "leechers": 6217,
+      "peers": 10776
     },
     {
       "title": "The Accountant 2",
@@ -84,103 +84,103 @@
       "peers": 8353
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant 2",
       "current_rank": 10,
-      "previous_rank": 48,
-      "rank_change": 38,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": 24,
+      "rank_change": 14,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant 2",
       "current_rank": 11,
+      "previous_rank": 24,
+      "rank_change": 13,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
+    },
+    {
+      "title": "The Accountant 2",
+      "current_rank": 12,
+      "previous_rank": 24,
+      "rank_change": 12,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
+    },
+    {
+      "title": "Warfare",
+      "current_rank": 13,
       "previous_rank": 48,
-      "rank_change": 37,
+      "rank_change": 35,
       "seeders": 4127,
       "leechers": 1994,
       "peers": 6121
     },
     {
       "title": "Warfare",
-      "current_rank": 12,
+      "current_rank": 14,
       "previous_rank": 48,
-      "rank_change": 36,
+      "rank_change": 34,
+      "seeders": 4127,
+      "leechers": 1994,
+      "peers": 6121
+    },
+    {
+      "title": "Warfare",
+      "current_rank": 15,
+      "previous_rank": 48,
+      "rank_change": 33,
+      "seeders": 4127,
+      "leechers": 1994,
+      "peers": 6121
+    },
+    {
+      "title": "Warfare",
+      "current_rank": 16,
+      "previous_rank": 48,
+      "rank_change": 32,
       "seeders": 4127,
       "leechers": 1994,
       "peers": 6121
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 13,
-      "previous_rank": 32,
-      "rank_change": 19,
-      "seeders": 4548,
-      "leechers": 1522,
-      "peers": 6070
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 14,
-      "previous_rank": 32,
-      "rank_change": 18,
-      "seeders": 4548,
-      "leechers": 1522,
-      "peers": 6070
-    },
-    {
-      "title": "A Minecraft Movie",
-      "current_rank": 15,
-      "previous_rank": 32,
-      "rank_change": 17,
-      "seeders": 4548,
-      "leechers": 1522,
-      "peers": 6070
-    },
-    {
-      "title": "Thunderbolts*",
-      "current_rank": 16,
-      "previous_rank": 40,
-      "rank_change": 24,
-      "seeders": 3261,
-      "leechers": 1977,
-      "peers": 5238
-    },
-    {
-      "title": "Thunderbolts*",
       "current_rank": 17,
-      "previous_rank": 40,
-      "rank_change": 23,
-      "seeders": 3261,
-      "leechers": 1977,
-      "peers": 5238
+      "previous_rank": 32,
+      "rank_change": 15,
+      "seeders": 4548,
+      "leechers": 1522,
+      "peers": 6070
     },
     {
-      "title": "Thunderbolts*",
+      "title": "A Minecraft Movie",
       "current_rank": 18,
-      "previous_rank": 40,
-      "rank_change": 22,
-      "seeders": 3261,
-      "leechers": 1977,
-      "peers": 5238
+      "previous_rank": 32,
+      "rank_change": 14,
+      "seeders": 4548,
+      "leechers": 1522,
+      "peers": 6070
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "A Minecraft Movie",
       "current_rank": 19,
-      "previous_rank": 56,
-      "rank_change": 37,
-      "seeders": 3090,
-      "leechers": 2082,
-      "peers": 5172
+      "previous_rank": 32,
+      "rank_change": 13,
+      "seeders": 4548,
+      "leechers": 1522,
+      "peers": 6070
     },
     {
-      "title": "Death of a Unicorn",
+      "title": "A Minecraft Movie",
       "current_rank": 20,
-      "previous_rank": 56,
-      "rank_change": 36,
-      "seeders": 3090,
-      "leechers": 2082,
-      "peers": 5172
+      "previous_rank": 32,
+      "rank_change": 12,
+      "seeders": 4548,
+      "leechers": 1522,
+      "peers": 6070
     }
   ]
 }
