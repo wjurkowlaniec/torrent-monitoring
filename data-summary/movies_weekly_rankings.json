@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-20T11:06:40",
+  "updated_at": "2025-05-20T14:09:42",
   "rankings": [
     {
       "title": "Final Destination Bloodlines",
@@ -39,13 +39,13 @@
       "peers": 10852
     },
     {
-      "title": "Sinners",
+      "title": "Final Destination Bloodlines",
       "current_rank": 5,
-      "previous_rank": 64,
-      "rank_change": 59,
-      "seeders": 4559,
-      "leechers": 6217,
-      "peers": 10776
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5858,
+      "leechers": 4994,
+      "peers": 10852
     },
     {
       "title": "Sinners",
@@ -75,22 +75,22 @@
       "peers": 10776
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 9,
-      "previous_rank": 8,
-      "rank_change": -1,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 64,
+      "rank_change": 55,
+      "seeders": 4559,
+      "leechers": 6217,
+      "peers": 10776
     },
     {
-      "title": "The Accountant 2",
+      "title": "Sinners",
       "current_rank": 10,
-      "previous_rank": 8,
-      "rank_change": -2,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": 64,
+      "rank_change": 54,
+      "seeders": 4559,
+      "leechers": 6217,
+      "peers": 10776
     },
     {
       "title": "The Accountant 2",
@@ -111,31 +111,31 @@
       "peers": 8353
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant 2",
       "current_rank": 13,
-      "previous_rank": 16,
-      "rank_change": 3,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": 8,
+      "rank_change": -5,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant 2",
       "current_rank": 14,
-      "previous_rank": 16,
-      "rank_change": 2,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": 8,
+      "rank_change": -6,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
-      "title": "Warfare",
+      "title": "The Accountant 2",
       "current_rank": 15,
-      "previous_rank": 16,
-      "rank_change": 1,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": 8,
+      "rank_change": -7,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
     },
     {
       "title": "Warfare",
@@ -147,40 +147,40 @@
       "peers": 6121
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Warfare",
       "current_rank": 17,
-      "previous_rank": 48,
-      "rank_change": 31,
-      "seeders": 4548,
-      "leechers": 1522,
-      "peers": 6070
+      "previous_rank": 16,
+      "rank_change": -1,
+      "seeders": 4127,
+      "leechers": 1994,
+      "peers": 6121
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Warfare",
       "current_rank": 18,
-      "previous_rank": 48,
-      "rank_change": 30,
-      "seeders": 4548,
-      "leechers": 1522,
-      "peers": 6070
+      "previous_rank": 16,
+      "rank_change": -2,
+      "seeders": 4127,
+      "leechers": 1994,
+      "peers": 6121
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Warfare",
       "current_rank": 19,
-      "previous_rank": 48,
-      "rank_change": 29,
-      "seeders": 4548,
-      "leechers": 1522,
-      "peers": 6070
+      "previous_rank": 16,
+      "rank_change": -3,
+      "seeders": 4127,
+      "leechers": 1994,
+      "peers": 6121
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Warfare",
       "current_rank": 20,
-      "previous_rank": 48,
-      "rank_change": 28,
-      "seeders": 4548,
-      "leechers": 1522,
-      "peers": 6070
+      "previous_rank": 16,
+      "rank_change": -4,
+      "seeders": 4127,
+      "leechers": 1994,
+      "peers": 6121
     }
   ]
 }
