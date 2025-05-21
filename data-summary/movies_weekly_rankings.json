@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-21T08:08:09",
+  "updated_at": "2025-05-21T11:06:15",
   "rankings": [
     {
       "title": "Final Destination Bloodlines",
@@ -21,13 +21,13 @@
       "peers": 9782
     },
     {
-      "title": "The Accountant 2",
+      "title": "Final Destination Bloodlines",
       "current_rank": 3,
-      "previous_rank": 8,
-      "rank_change": 5,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5597,
+      "leechers": 4185,
+      "peers": 9782
     },
     {
       "title": "The Accountant 2",
@@ -39,62 +39,107 @@
       "peers": 8353
     },
     {
-      "title": "Sinners",
+      "title": "The Accountant 2",
       "current_rank": 5,
+      "previous_rank": 8,
+      "rank_change": 3,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
+    },
+    {
+      "title": "The Accountant 2",
+      "current_rank": 6,
+      "previous_rank": 8,
+      "rank_change": 2,
+      "seeders": 4004,
+      "leechers": 4349,
+      "peers": 8353
+    },
+    {
+      "title": "Sinners",
+      "current_rank": 7,
       "previous_rank": 64,
-      "rank_change": 59,
+      "rank_change": 57,
       "seeders": 3045,
       "leechers": 4017,
       "peers": 7062
     },
     {
       "title": "Sinners",
-      "current_rank": 6,
+      "current_rank": 8,
       "previous_rank": 64,
-      "rank_change": 58,
+      "rank_change": 56,
+      "seeders": 3045,
+      "leechers": 4017,
+      "peers": 7062
+    },
+    {
+      "title": "Sinners",
+      "current_rank": 9,
+      "previous_rank": 64,
+      "rank_change": 55,
       "seeders": 3045,
       "leechers": 4017,
       "peers": 7062
     },
     {
       "title": "Warfare",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": 24,
-      "rank_change": 17,
+      "rank_change": 14,
       "seeders": 4127,
       "leechers": 1994,
       "peers": 6121
     },
     {
       "title": "Warfare",
-      "current_rank": 8,
+      "current_rank": 11,
       "previous_rank": 24,
-      "rank_change": 16,
+      "rank_change": 13,
+      "seeders": 4127,
+      "leechers": 1994,
+      "peers": 6121
+    },
+    {
+      "title": "Warfare",
+      "current_rank": 12,
+      "previous_rank": 24,
+      "rank_change": 12,
       "seeders": 4127,
       "leechers": 1994,
       "peers": 6121
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": 16,
-      "rank_change": 7,
+      "rank_change": 3,
       "seeders": 4200,
       "leechers": 1341,
       "peers": 5541
     },
     {
       "title": "A Minecraft Movie",
-      "current_rank": 10,
+      "current_rank": 14,
       "previous_rank": 16,
-      "rank_change": 6,
+      "rank_change": 2,
+      "seeders": 4200,
+      "leechers": 1341,
+      "peers": 5541
+    },
+    {
+      "title": "A Minecraft Movie",
+      "current_rank": 15,
+      "previous_rank": 16,
+      "rank_change": 1,
       "seeders": 4200,
       "leechers": 1341,
       "peers": 5541
     },
     {
       "title": "Mission: Impossible - The Final Reckoning",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 1820,
@@ -103,7 +148,16 @@
     },
     {
       "title": "Mission: Impossible - The Final Reckoning",
-      "current_rank": 12,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1820,
+      "leechers": 3383,
+      "peers": 5203
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 1820,
@@ -112,75 +166,21 @@
     },
     {
       "title": "Death of a Unicorn",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": 32,
-      "rank_change": 19,
+      "rank_change": 13,
       "seeders": 3090,
       "leechers": 2082,
       "peers": 5172
     },
     {
       "title": "Death of a Unicorn",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": 32,
-      "rank_change": 18,
+      "rank_change": 12,
       "seeders": 3090,
       "leechers": 2082,
       "peers": 5172
-    },
-    {
-      "title": "Thunderbolts*",
-      "current_rank": 15,
-      "previous_rank": 48,
-      "rank_change": 33,
-      "seeders": 2950,
-      "leechers": 1642,
-      "peers": 4592
-    },
-    {
-      "title": "Thunderbolts*",
-      "current_rank": 16,
-      "previous_rank": 48,
-      "rank_change": 32,
-      "seeders": 2950,
-      "leechers": 1642,
-      "peers": 4592
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 17,
-      "previous_rank": 504,
-      "rank_change": 487,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
-    },
-    {
-      "title": "Havoc",
-      "current_rank": 18,
-      "previous_rank": 504,
-      "rank_change": 486,
-      "seeders": 3534,
-      "leechers": 857,
-      "peers": 4391
-    },
-    {
-      "title": "Drop",
-      "current_rank": 19,
-      "previous_rank": 80,
-      "rank_change": 61,
-      "seeders": 1331,
-      "leechers": 917,
-      "peers": 2248
-    },
-    {
-      "title": "Drop",
-      "current_rank": 20,
-      "previous_rank": 80,
-      "rank_change": 60,
-      "seeders": 1331,
-      "leechers": 917,
-      "peers": 2248
     }
   ]
 }
