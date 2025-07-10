@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-10T20:07:39",
+  "updated_at": "2025-07-10T23:05:43",
   "rankings": [
     {
       "title": "The Alters",
@@ -30,13 +30,13 @@
       "peers": 803
     },
     {
-      "title": "MindsEye",
+      "title": "The Alters",
       "current_rank": 4,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 570,
-      "leechers": 149,
-      "peers": 719
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
       "title": "MindsEye",
@@ -57,22 +57,22 @@
       "peers": 719
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "MindsEye",
       "current_rank": 7,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 570,
+      "leechers": 149,
+      "peers": 719
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "MindsEye",
       "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 570,
+      "leechers": 149,
+      "peers": 719
     },
     {
       "title": "Call of Duty: Modern Warfare II",
@@ -84,26 +84,62 @@
       "peers": 544
     },
     {
-      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 504,
-      "leechers": 37,
-      "peers": 541
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
-      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 11,
       "previous_rank": null,
       "rank_change": "new",
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
+    },
+    {
+      "title": "Call of Duty: Modern Warfare II",
+      "current_rank": 12,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
+    },
+    {
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "current_rank": 13,
+      "previous_rank": null,
+      "rank_change": "new",
       "seeders": 504,
       "leechers": 37,
       "peers": 541
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
-      "current_rank": 12,
+      "current_rank": 14,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
+    },
+    {
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "current_rank": 15,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
+    },
+    {
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 504,
@@ -112,75 +148,39 @@
     },
     {
       "title": "Date Everything! Lavish Edition",
-      "current_rank": 13,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
-    },
-    {
-      "title": "Date Everything! Lavish Edition",
-      "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
-    },
-    {
-      "title": "Date Everything! Lavish Edition",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
-    },
-    {
-      "title": "Call of Duty: Modern Warfare",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 169,
-      "leechers": 280,
-      "peers": 449
-    },
-    {
-      "title": "Call of Duty: Modern Warfare",
       "current_rank": 17,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 169,
-      "leechers": 280,
-      "peers": 449
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
     },
     {
-      "title": "Call of Duty: Modern Warfare",
+      "title": "Date Everything! Lavish Edition",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 169,
-      "leechers": 280,
-      "peers": 449
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
     },
     {
-      "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
+      "title": "Date Everything! Lavish Edition",
       "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 331,
-      "leechers": 48,
-      "peers": 379
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
     },
     {
-      "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
+      "title": "Date Everything! Lavish Edition",
       "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 331,
-      "leechers": 48,
-      "peers": 379
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
     }
   ]
 }
