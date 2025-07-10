@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-10T17:06:15",
+  "updated_at": "2025-07-10T20:07:39",
   "rankings": [
     {
       "title": "The Alters",
@@ -21,13 +21,13 @@
       "peers": 803
     },
     {
-      "title": "MindsEye",
+      "title": "The Alters",
       "current_rank": 3,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 570,
-      "leechers": 149,
-      "peers": 719
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
       "title": "MindsEye",
@@ -39,17 +39,44 @@
       "peers": 719
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "MindsEye",
       "current_rank": 5,
       "previous_rank": null,
       "rank_change": "new",
+      "seeders": 570,
+      "leechers": 149,
+      "peers": 719
+    },
+    {
+      "title": "MindsEye",
+      "current_rank": 6,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 570,
+      "leechers": 149,
+      "peers": 719
+    },
+    {
+      "title": "Call of Duty: Modern Warfare II",
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
       "seeders": 339,
       "leechers": 205,
       "peers": 544
     },
     {
       "title": "Call of Duty: Modern Warfare II",
-      "current_rank": 6,
+      "current_rank": 8,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
+    },
+    {
+      "title": "Call of Duty: Modern Warfare II",
+      "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 339,
@@ -58,7 +85,7 @@
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 504,
@@ -67,7 +94,16 @@
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
-      "current_rank": 8,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
+    },
+    {
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 504,
@@ -76,7 +112,7 @@
     },
     {
       "title": "Date Everything! Lavish Edition",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 477,
@@ -85,7 +121,16 @@
     },
     {
       "title": "Date Everything! Lavish Edition",
-      "current_rank": 10,
+      "current_rank": 14,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
+    },
+    {
+      "title": "Date Everything! Lavish Edition",
+      "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 477,
@@ -94,7 +139,7 @@
     },
     {
       "title": "Call of Duty: Modern Warfare",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 169,
@@ -103,7 +148,16 @@
     },
     {
       "title": "Call of Duty: Modern Warfare",
-      "current_rank": 12,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 169,
+      "leechers": 280,
+      "peers": 449
+    },
+    {
+      "title": "Call of Duty: Modern Warfare",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 169,
@@ -112,7 +166,7 @@
     },
     {
       "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 331,
@@ -121,66 +175,12 @@
     },
     {
       "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 331,
       "leechers": 48,
       "peers": 379
-    },
-    {
-      "title": "Tony Hawks Pro Skater 3 Plus 4",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 174,
-      "leechers": 153,
-      "peers": 327
-    },
-    {
-      "title": "Tony Hawks Pro Skater 3 Plus 4",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 174,
-      "leechers": 153,
-      "peers": 327
-    },
-    {
-      "title": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 273,
-      "leechers": 34,
-      "peers": 307
-    },
-    {
-      "title": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 273,
-      "leechers": 34,
-      "peers": 307
-    },
-    {
-      "title": "Ancient Cities",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 267,
-      "leechers": 19,
-      "peers": 286
-    },
-    {
-      "title": "Ancient Cities",
-      "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 267,
-      "leechers": 19,
-      "peers": 286
     }
   ]
 }
