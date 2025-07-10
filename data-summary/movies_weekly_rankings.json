@@ -1,186 +1,186 @@
 {
   "period": "weekly",
-  "updated_at": "2025-05-21T14:09:29",
+  "updated_at": "2025-07-10T14:33:46",
   "rankings": [
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Ballerina",
       "current_rank": 1,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 5597,
-      "leechers": 4185,
-      "peers": 9782
+      "seeders": 5783,
+      "leechers": 4468,
+      "peers": 10251
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Thunderbolts",
       "current_rank": 2,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 5597,
-      "leechers": 4185,
-      "peers": 9782
+      "previous_rank": 400,
+      "rank_change": 398,
+      "seeders": 5773,
+      "leechers": 4229,
+      "peers": 10002
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Heads of State",
       "current_rank": 3,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 5597,
-      "leechers": 4185,
-      "peers": 9782
+      "seeders": 2965,
+      "leechers": 2811,
+      "peers": 5776
     },
     {
       "title": "Final Destination Bloodlines",
       "current_rank": 4,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 5597,
-      "leechers": 4185,
-      "peers": 9782
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
     },
     {
-      "title": "The Accountant 2",
+      "title": "The Old Guard 2",
       "current_rank": 5,
-      "previous_rank": 8,
-      "rank_change": 3,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3182,
+      "leechers": 1646,
+      "peers": 4828
     },
     {
-      "title": "The Accountant 2",
+      "title": "Karate Kid Legends",
       "current_rank": 6,
-      "previous_rank": 8,
-      "rank_change": 2,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3333,
+      "leechers": 1260,
+      "peers": 4593
     },
     {
-      "title": "The Accountant 2",
+      "title": "Bring Her Back",
       "current_rank": 7,
-      "previous_rank": 8,
-      "rank_change": 1,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1121,
+      "leechers": 1978,
+      "peers": 3099
     },
     {
-      "title": "The Accountant 2",
+      "title": "Eden",
       "current_rank": 8,
-      "previous_rank": 8,
-      "rank_change": 0,
-      "seeders": 4004,
-      "leechers": 4349,
-      "peers": 8353
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1817,
+      "leechers": 1252,
+      "peers": 3069
     },
     {
-      "title": "Sinners",
+      "title": "The Phoenician Scheme",
       "current_rank": 9,
-      "previous_rank": 64,
-      "rank_change": 55,
-      "seeders": 3045,
-      "leechers": 4017,
-      "peers": 7062
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2072,
+      "leechers": 817,
+      "peers": 2889
     },
     {
-      "title": "Sinners",
+      "title": "The Unholy Trinity",
       "current_rank": 10,
-      "previous_rank": 64,
-      "rank_change": 54,
-      "seeders": 3045,
-      "leechers": 4017,
-      "peers": 7062
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2409,
+      "leechers": 447,
+      "peers": 2856
     },
     {
-      "title": "Sinners",
+      "title": "Deep Cover",
       "current_rank": 11,
-      "previous_rank": 64,
-      "rank_change": 53,
-      "seeders": 3045,
-      "leechers": 4017,
-      "peers": 7062
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1755,
+      "leechers": 916,
+      "peers": 2671
     },
     {
-      "title": "Sinners",
+      "title": "Ice Road Vengeance",
       "current_rank": 12,
-      "previous_rank": 64,
-      "rank_change": 52,
-      "seeders": 3045,
-      "leechers": 4017,
-      "peers": 7062
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 972,
+      "leechers": 633,
+      "peers": 1605
     },
     {
-      "title": "Warfare",
+      "title": "Friendship",
       "current_rank": 13,
-      "previous_rank": 24,
-      "rank_change": 11,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1239,
+      "leechers": 232,
+      "peers": 1471
     },
     {
-      "title": "Warfare",
+      "title": "Dora and the Search for Sol Dorado",
       "current_rank": 14,
-      "previous_rank": 24,
-      "rank_change": 10,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 880,
+      "leechers": 101,
+      "peers": 981
     },
     {
-      "title": "Warfare",
+      "title": "Ballerina From the World of John Wick",
       "current_rank": 15,
-      "previous_rank": 24,
-      "rank_change": 9,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 547,
+      "leechers": 414,
+      "peers": 961
     },
     {
-      "title": "Warfare",
+      "title": "The Amateur",
       "current_rank": 16,
-      "previous_rank": 24,
-      "rank_change": 8,
-      "seeders": 4127,
-      "leechers": 1994,
-      "peers": 6121
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 408,
+      "leechers": 533,
+      "peers": 941
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Spaceballs",
       "current_rank": 17,
-      "previous_rank": 16,
-      "rank_change": -1,
-      "seeders": 4200,
-      "leechers": 1341,
-      "peers": 5541
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 630,
+      "leechers": 227,
+      "peers": 857
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Ballerina",
       "current_rank": 18,
-      "previous_rank": 16,
-      "rank_change": -2,
-      "seeders": 4200,
-      "leechers": 1341,
-      "peers": 5541
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 622,
+      "leechers": 186,
+      "peers": 808
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "KPop Demon Hunters",
       "current_rank": 19,
-      "previous_rank": 16,
-      "rank_change": -3,
-      "seeders": 4200,
-      "leechers": 1341,
-      "peers": 5541
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 653,
+      "leechers": 145,
+      "peers": 798
     },
     {
-      "title": "A Minecraft Movie",
+      "title": "Diablo",
       "current_rank": 20,
-      "previous_rank": 16,
-      "rank_change": -4,
-      "seeders": 4200,
-      "leechers": 1341,
-      "peers": 5541
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 629,
+      "leechers": 114,
+      "peers": 743
     }
   ]
 }
