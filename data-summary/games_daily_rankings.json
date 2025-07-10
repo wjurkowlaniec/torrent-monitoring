@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-10T14:33:46",
+  "updated_at": "2025-07-10T17:06:15",
   "rankings": [
     {
       "title": "The Alters",
@@ -12,8 +12,26 @@
       "peers": 803
     },
     {
-      "title": "MindsEye",
+      "title": "The Alters",
       "current_rank": 2,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
+    },
+    {
+      "title": "MindsEye",
+      "current_rank": 3,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 570,
+      "leechers": 149,
+      "peers": 719
+    },
+    {
+      "title": "MindsEye",
+      "current_rank": 4,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 570,
@@ -22,7 +40,16 @@
     },
     {
       "title": "Call of Duty: Modern Warfare II",
-      "current_rank": 3,
+      "current_rank": 5,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
+    },
+    {
+      "title": "Call of Duty: Modern Warfare II",
+      "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 339,
@@ -31,7 +58,16 @@
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
-      "current_rank": 4,
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
+    },
+    {
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 504,
@@ -40,7 +76,16 @@
     },
     {
       "title": "Date Everything! Lavish Edition",
-      "current_rank": 5,
+      "current_rank": 9,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
+    },
+    {
+      "title": "Date Everything! Lavish Edition",
+      "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 477,
@@ -49,7 +94,16 @@
     },
     {
       "title": "Call of Duty: Modern Warfare",
-      "current_rank": 6,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 169,
+      "leechers": 280,
+      "peers": 449
+    },
+    {
+      "title": "Call of Duty: Modern Warfare",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 169,
@@ -58,7 +112,16 @@
     },
     {
       "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
-      "current_rank": 7,
+      "current_rank": 13,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 331,
+      "leechers": 48,
+      "peers": 379
+    },
+    {
+      "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
+      "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 331,
@@ -67,7 +130,16 @@
     },
     {
       "title": "Tony Hawks Pro Skater 3 Plus 4",
-      "current_rank": 8,
+      "current_rank": 15,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 174,
+      "leechers": 153,
+      "peers": 327
+    },
+    {
+      "title": "Tony Hawks Pro Skater 3 Plus 4",
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 174,
@@ -76,7 +148,16 @@
     },
     {
       "title": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "current_rank": 9,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 273,
+      "leechers": 34,
+      "peers": 307
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 273,
@@ -85,7 +166,7 @@
     },
     {
       "title": "Ancient Cities",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 267,
@@ -93,94 +174,13 @@
       "peers": 286
     },
     {
-      "title": "Victoria 3: Grand Edition",
-      "current_rank": 11,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 258,
-      "leechers": 14,
-      "peers": 272
-    },
-    {
-      "title": "System Shock 2: 25th Anniversary Remaster [FitGirl",
-      "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 260,
-      "leechers": 12,
-      "peers": 272
-    },
-    {
-      "title": "Steep [FitGirl , Selectiv",
-      "current_rank": 13,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 165,
-      "leechers": 88,
-      "peers": 253
-    },
-    {
-      "title": "Call of Duty: Modern Warfare [DO",
-      "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 83,
-      "leechers": 167,
-      "peers": 250
-    },
-    {
-      "title": "Warhammer 40,000: Rogue Trader - Voidfarer Edition",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 192,
-      "leechers": 34,
-      "peers": 226
-    },
-    {
-      "title": "Call of Duty: Modern Warfare III",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 140,
-      "leechers": 78,
-      "peers": 218
-    },
-    {
-      "title": "Suit for Hire",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 206,
-      "leechers": 11,
-      "peers": 217
-    },
-    {
-      "title": "7 Days to Die [FitGirl , Selective D",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 190,
-      "leechers": 22,
-      "peers": 212
-    },
-    {
-      "title": "Little Nightmares",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 191,
-      "leechers": 7,
-      "peers": 198
-    },
-    {
-      "title": "Len's Island",
+      "title": "Ancient Cities",
       "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 191,
-      "leechers": 3,
-      "peers": 194
+      "seeders": 267,
+      "leechers": 19,
+      "peers": 286
     }
   ]
 }
