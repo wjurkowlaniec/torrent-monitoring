@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-11T14:09:40",
+  "updated_at": "2025-07-11T17:05:59",
   "rankings": [
     {
       "title": "Tony Hawk's Pro Skater 3",
@@ -48,13 +48,13 @@
       "peers": 1282
     },
     {
-      "title": "The Alters",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "seeders": 701,
+      "leechers": 581,
+      "peers": 1282
     },
     {
       "title": "The Alters",
@@ -93,22 +93,22 @@
       "peers": 803
     },
     {
-      "title": "MindsEye",
+      "title": "The Alters",
       "current_rank": 11,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 495,
-      "leechers": 137,
-      "peers": 632
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
-      "title": "MindsEye",
+      "title": "The Alters",
       "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 495,
-      "leechers": 137,
-      "peers": 632
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
       "title": "MindsEye",
@@ -138,31 +138,31 @@
       "peers": 632
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "MindsEye",
       "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 495,
+      "leechers": 137,
+      "peers": 632
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "MindsEye",
       "current_rank": 17,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 495,
+      "leechers": 137,
+      "peers": 632
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "MindsEye",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 495,
+      "leechers": 137,
+      "peers": 632
     },
     {
       "title": "Call of Duty: Modern Warfare II",
