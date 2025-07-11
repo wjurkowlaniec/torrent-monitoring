@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-11T17:05:59",
+  "updated_at": "2025-07-11T20:07:33",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -57,13 +57,13 @@
       "peers": 10061
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 7,
-      "previous_rank": 72,
-      "rank_change": 65,
-      "seeders": 5715,
-      "leechers": 4282,
-      "peers": 9997
+      "previous_rank": 100,
+      "rank_change": 93,
+      "seeders": 5848,
+      "leechers": 4213,
+      "peers": 10061
     },
     {
       "title": "Ballerina",
@@ -111,22 +111,22 @@
       "peers": 9997
     },
     {
-      "title": "Heads of State",
+      "title": "Ballerina",
       "current_rank": 13,
-      "previous_rank": 208,
-      "rank_change": 195,
-      "seeders": 2987,
-      "leechers": 2847,
-      "peers": 5834
+      "previous_rank": 72,
+      "rank_change": 59,
+      "seeders": 5715,
+      "leechers": 4282,
+      "peers": 9997
     },
     {
-      "title": "Heads of State",
+      "title": "Ballerina",
       "current_rank": 14,
-      "previous_rank": 208,
-      "rank_change": 194,
-      "seeders": 2987,
-      "leechers": 2847,
-      "peers": 5834
+      "previous_rank": 72,
+      "rank_change": 58,
+      "seeders": 5715,
+      "leechers": 4282,
+      "peers": 9997
     },
     {
       "title": "Heads of State",
@@ -165,22 +165,22 @@
       "peers": 5834
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Heads of State",
       "current_rank": 19,
-      "previous_rank": 84,
-      "rank_change": 65,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": 208,
+      "rank_change": 189,
+      "seeders": 2987,
+      "leechers": 2847,
+      "peers": 5834
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Heads of State",
       "current_rank": 20,
-      "previous_rank": 84,
-      "rank_change": 64,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": 208,
+      "rank_change": 188,
+      "seeders": 2987,
+      "leechers": 2847,
+      "peers": 5834
     }
   ]
 }
