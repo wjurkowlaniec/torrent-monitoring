@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-11T05:33:54",
+  "updated_at": "2025-07-11T08:08:31",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -21,13 +21,13 @@
       "peers": 10061
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 3,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 5715,
-      "leechers": 4282,
-      "peers": 9997
+      "previous_rank": 328,
+      "rank_change": 325,
+      "seeders": 5848,
+      "leechers": 4213,
+      "peers": 10061
     },
     {
       "title": "Ballerina",
@@ -39,17 +39,44 @@
       "peers": 9997
     },
     {
-      "title": "Heads of State",
+      "title": "Ballerina",
       "current_rank": 5,
       "previous_rank": null,
       "rank_change": "new",
+      "seeders": 5715,
+      "leechers": 4282,
+      "peers": 9997
+    },
+    {
+      "title": "Ballerina",
+      "current_rank": 6,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5715,
+      "leechers": 4282,
+      "peers": 9997
+    },
+    {
+      "title": "Heads of State",
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
       "seeders": 2987,
       "leechers": 2847,
       "peers": 5834
     },
     {
       "title": "Heads of State",
-      "current_rank": 6,
+      "current_rank": 8,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2987,
+      "leechers": 2847,
+      "peers": 5834
+    },
+    {
+      "title": "Heads of State",
+      "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 2987,
@@ -58,7 +85,7 @@
     },
     {
       "title": "Final Destination Bloodlines",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 4232,
@@ -67,7 +94,16 @@
     },
     {
       "title": "Final Destination Bloodlines",
-      "current_rank": 8,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
+    },
+    {
+      "title": "Final Destination Bloodlines",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 4232,
@@ -76,7 +112,7 @@
     },
     {
       "title": "Karate Kid Legends",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3648,
@@ -85,7 +121,16 @@
     },
     {
       "title": "Karate Kid Legends",
-      "current_rank": 10,
+      "current_rank": 14,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3648,
+      "leechers": 1220,
+      "peers": 4868
+    },
+    {
+      "title": "Karate Kid Legends",
+      "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3648,
@@ -94,7 +139,7 @@
     },
     {
       "title": "The Old Guard 2",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3061,
@@ -103,7 +148,16 @@
     },
     {
       "title": "The Old Guard 2",
-      "current_rank": 12,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 3061,
+      "leechers": 1494,
+      "peers": 4555
+    },
+    {
+      "title": "The Old Guard 2",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3061,
@@ -112,7 +166,7 @@
     },
     {
       "title": "Eden",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 1789,
@@ -121,66 +175,12 @@
     },
     {
       "title": "Eden",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 1789,
       "leechers": 1299,
       "peers": 3088
-    },
-    {
-      "title": "The Phoenician Scheme",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2072,
-      "leechers": 817,
-      "peers": 2889
-    },
-    {
-      "title": "The Phoenician Scheme",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2072,
-      "leechers": 817,
-      "peers": 2889
-    },
-    {
-      "title": "Bring Her Back",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1131,
-      "leechers": 1748,
-      "peers": 2879
-    },
-    {
-      "title": "Bring Her Back",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1131,
-      "leechers": 1748,
-      "peers": 2879
-    },
-    {
-      "title": "The Unholy Trinity",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2488,
-      "leechers": 386,
-      "peers": 2874
-    },
-    {
-      "title": "The Unholy Trinity",
-      "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2488,
-      "leechers": 386,
-      "peers": 2874
     }
   ]
 }
