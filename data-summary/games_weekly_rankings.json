@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-12T20:07:18",
+  "updated_at": "2025-07-12T23:04:54",
   "rankings": [
     {
       "title": "Tony Hawk's Pro Skater 3",
@@ -66,13 +66,13 @@
       "peers": 1146
     },
     {
-      "title": "The Alters",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "seeders": 734,
+      "leechers": 412,
+      "peers": 1146
     },
     {
       "title": "The Alters",
@@ -129,22 +129,22 @@
       "peers": 803
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "The Alters",
       "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "The Alters",
       "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
       "title": "Call of Duty: Modern Warfare II",
