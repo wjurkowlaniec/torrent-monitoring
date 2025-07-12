@@ -1,186 +1,186 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-11T23:05:32",
+  "updated_at": "2025-07-12T02:25:07",
   "rankings": [
     {
       "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 1,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "previous_rank": 8,
+      "rank_change": 7,
+      "seeders": 734,
+      "leechers": 412,
+      "peers": 1146
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "The Alters",
       "current_rank": 2,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "previous_rank": 352,
+      "rank_change": 350,
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 3,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "previous_rank": 32,
+      "rank_change": 29,
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
       "current_rank": 4,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "previous_rank": 40,
+      "rank_change": 36,
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Date Everything! Lavish Edition",
       "current_rank": 5,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "previous_rank": 48,
+      "rank_change": 43,
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Call of Duty: Modern Warfare",
       "current_rank": 6,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "previous_rank": 56,
+      "rank_change": 50,
+      "seeders": 169,
+      "leechers": 280,
+      "peers": 449
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "RimWorld",
       "current_rank": 7,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "previous_rank": 440,
+      "rank_change": 433,
+      "seeders": 347,
+      "leechers": 40,
+      "peers": 387
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
       "current_rank": 8,
+      "previous_rank": 64,
+      "rank_change": 56,
+      "seeders": 331,
+      "leechers": 48,
+      "peers": 379
+    },
+    {
+      "title": "Victoria 3: Grand Edition",
+      "current_rank": 9,
+      "previous_rank": 72,
+      "rank_change": 63,
+      "seeders": 258,
+      "leechers": 14,
+      "peers": 272
+    },
+    {
+      "title": "Ancient Cities",
+      "current_rank": 10,
+      "previous_rank": 80,
+      "rank_change": 70,
+      "seeders": 257,
+      "leechers": 10,
+      "peers": 267
+    },
+    {
+      "title": "System Shock 2: 25th Anniversary Remaster [FitGirl",
+      "current_rank": 11,
+      "previous_rank": 88,
+      "rank_change": 77,
+      "seeders": 245,
+      "leechers": 18,
+      "peers": 263
+    },
+    {
+      "title": "Call of Duty: Modern Warfare [DO",
+      "current_rank": 12,
+      "previous_rank": 96,
+      "rank_change": 84,
+      "seeders": 83,
+      "leechers": 167,
+      "peers": 250
+    },
+    {
+      "title": "Little Nightmares",
+      "current_rank": 13,
+      "previous_rank": 104,
+      "rank_change": 91,
+      "seeders": 240,
+      "leechers": 9,
+      "peers": 249
+    },
+    {
+      "title": "Len's Island",
+      "current_rank": 14,
+      "previous_rank": 160,
+      "rank_change": 146,
+      "seeders": 238,
+      "leechers": 7,
+      "peers": 245
+    },
+    {
+      "title": "PATAPON 1 Plus 2 REPLAY-TENOKE",
+      "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 701,
-      "leechers": 581,
-      "peers": 1282
+      "seeders": 229,
+      "leechers": 11,
+      "peers": 240
     },
     {
-      "title": "The Alters",
-      "current_rank": 9,
-      "previous_rank": 184,
-      "rank_change": 175,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
-    },
-    {
-      "title": "The Alters",
-      "current_rank": 10,
-      "previous_rank": 184,
-      "rank_change": 174,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
-    },
-    {
-      "title": "The Alters",
-      "current_rank": 11,
-      "previous_rank": 184,
-      "rank_change": 173,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
-    },
-    {
-      "title": "The Alters",
-      "current_rank": 12,
-      "previous_rank": 184,
-      "rank_change": 172,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
-    },
-    {
-      "title": "The Alters",
-      "current_rank": 13,
-      "previous_rank": 184,
-      "rank_change": 171,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
-    },
-    {
-      "title": "The Alters",
-      "current_rank": 14,
-      "previous_rank": 184,
-      "rank_change": 170,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
-    },
-    {
-      "title": "The Alters",
-      "current_rank": 15,
-      "previous_rank": 184,
-      "rank_change": 169,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
-    },
-    {
-      "title": "The Alters",
+      "title": "Warhammer 40,000: Rogue Trader - Voidfarer Edition",
       "current_rank": 16,
-      "previous_rank": 184,
-      "rank_change": 168,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "previous_rank": 120,
+      "rank_change": 104,
+      "seeders": 192,
+      "leechers": 34,
+      "peers": 226
     },
     {
-      "title": "MindsEye",
+      "title": "Steep [FitGirl , Selectiv",
       "current_rank": 17,
-      "previous_rank": 8,
-      "rank_change": -9,
-      "seeders": 495,
-      "leechers": 137,
-      "peers": 632
+      "previous_rank": 112,
+      "rank_change": 95,
+      "seeders": 147,
+      "leechers": 73,
+      "peers": 220
     },
     {
-      "title": "MindsEye",
+      "title": "Call of Duty: Modern Warfare III",
       "current_rank": 18,
-      "previous_rank": 8,
-      "rank_change": -10,
-      "seeders": 495,
-      "leechers": 137,
-      "peers": 632
+      "previous_rank": 128,
+      "rank_change": 110,
+      "seeders": 140,
+      "leechers": 78,
+      "peers": 218
     },
     {
-      "title": "MindsEye",
+      "title": "Suit for Hire",
       "current_rank": 19,
-      "previous_rank": 8,
-      "rank_change": -11,
-      "seeders": 495,
-      "leechers": 137,
-      "peers": 632
+      "previous_rank": 136,
+      "rank_change": 117,
+      "seeders": 206,
+      "leechers": 11,
+      "peers": 217
     },
     {
-      "title": "MindsEye",
+      "title": "7 Days to Die [FitGirl , Selective D",
       "current_rank": 20,
-      "previous_rank": 8,
-      "rank_change": -12,
-      "seeders": 495,
-      "leechers": 137,
-      "peers": 632
+      "previous_rank": 184,
+      "rank_change": 164,
+      "seeders": 173,
+      "leechers": 30,
+      "peers": 203
     }
   ]
 }
