@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-12T11:05:40",
+  "updated_at": "2025-07-12T14:08:25",
   "rankings": [
     {
       "title": "Tony Hawk's Pro Skater 3",
@@ -39,13 +39,13 @@
       "peers": 1146
     },
     {
-      "title": "The Alters",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 5,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "seeders": 734,
+      "leechers": 412,
+      "peers": 1146
     },
     {
       "title": "The Alters",
@@ -75,22 +75,22 @@
       "peers": 803
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "The Alters",
       "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "The Alters",
       "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
       "title": "Call of Duty: Modern Warfare II",
@@ -111,31 +111,31 @@
       "peers": 544
     },
     {
-      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 504,
-      "leechers": 37,
-      "peers": 541
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
-      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 504,
-      "leechers": 37,
-      "peers": 541
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
-      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 504,
-      "leechers": 37,
-      "peers": 541
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
@@ -147,40 +147,40 @@
       "peers": 541
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
       "current_rank": 17,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
       "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
       "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
     }
   ]
 }
