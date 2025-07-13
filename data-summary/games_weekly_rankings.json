@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-13T02:28:50",
+  "updated_at": "2025-07-13T05:34:19",
   "rankings": [
     {
       "title": "S T A L K E R 2: Heart of Chornobyl",
@@ -12,8 +12,26 @@
       "peers": 1835
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 2,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 388,
+      "leechers": 1447,
+      "peers": 1835
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 3",
+      "current_rank": 3,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 662,
+      "leechers": 303,
+      "peers": 965
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 3",
+      "current_rank": 4,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 662,
@@ -22,7 +40,16 @@
     },
     {
       "title": "The Alters",
-      "current_rank": 3,
+      "current_rank": 5,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
+    },
+    {
+      "title": "The Alters",
+      "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 717,
@@ -31,7 +58,16 @@
     },
     {
       "title": "RimWorld",
-      "current_rank": 4,
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 563,
+      "leechers": 19,
+      "peers": 582
+    },
+    {
+      "title": "RimWorld",
+      "current_rank": 8,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 563,
@@ -40,7 +76,16 @@
     },
     {
       "title": "Call of Duty: Modern Warfare II",
-      "current_rank": 5,
+      "current_rank": 9,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
+    },
+    {
+      "title": "Call of Duty: Modern Warfare II",
+      "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 339,
@@ -49,7 +94,16 @@
     },
     {
       "title": "Five Nights at Freddy's: Secret of the Mimic",
-      "current_rank": 6,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 504,
+      "leechers": 37,
+      "peers": 541
+    },
+    {
+      "title": "Five Nights at Freddy's: Secret of the Mimic",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 504,
@@ -58,7 +112,16 @@
     },
     {
       "title": "Date Everything! Lavish Edition",
-      "current_rank": 7,
+      "current_rank": 13,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 477,
+      "leechers": 27,
+      "peers": 504
+    },
+    {
+      "title": "Date Everything! Lavish Edition",
+      "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 477,
@@ -67,7 +130,16 @@
     },
     {
       "title": "Call of Duty: Modern Warfare",
-      "current_rank": 8,
+      "current_rank": 15,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 169,
+      "leechers": 280,
+      "peers": 449
+    },
+    {
+      "title": "Call of Duty: Modern Warfare",
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 169,
@@ -76,7 +148,16 @@
     },
     {
       "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
-      "current_rank": 9,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 331,
+      "leechers": 48,
+      "peers": 379
+    },
+    {
+      "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 331,
@@ -85,7 +166,7 @@
     },
     {
       "title": "The Sims 4",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 187,
@@ -93,94 +174,13 @@
       "peers": 336
     },
     {
-      "title": "American Truck Simulator",
-      "current_rank": 11,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 264,
-      "leechers": 66,
-      "peers": 330
-    },
-    {
-      "title": "Ancient Cities",
-      "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 268,
-      "leechers": 13,
-      "peers": 281
-    },
-    {
-      "title": "Victoria 3: Grand Edition",
-      "current_rank": 13,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 258,
-      "leechers": 14,
-      "peers": 272
-    },
-    {
-      "title": "System Shock 2: 25th Anniversary Remaster [FitGirl",
-      "current_rank": 14,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 245,
-      "leechers": 18,
-      "peers": 263
-    },
-    {
-      "title": "Expeditions: A MudRunner Game",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 194,
-      "leechers": 68,
-      "peers": 262
-    },
-    {
-      "title": "PATAPON 1 Plus 2 REPLAY-TENOKE",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 239,
-      "leechers": 15,
-      "peers": 254
-    },
-    {
-      "title": "Call of Duty: Modern Warfare [DO",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 83,
-      "leechers": 167,
-      "peers": 250
-    },
-    {
-      "title": "Little Nightmares",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 240,
-      "leechers": 9,
-      "peers": 249
-    },
-    {
-      "title": "Len's Island",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 238,
-      "leechers": 7,
-      "peers": 245
-    },
-    {
-      "title": "Warhammer 40,000: Rogue Trader - Voidfarer Edition",
+      "title": "The Sims 4",
       "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 192,
-      "leechers": 34,
-      "peers": 226
+      "seeders": 187,
+      "leechers": 149,
+      "peers": 336
     }
   ]
 }

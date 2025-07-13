@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-13T02:28:50",
+  "updated_at": "2025-07-13T05:34:19",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -12,175 +12,175 @@
       "peers": 11208
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 2,
+      "previous_rank": 184,
+      "rank_change": 182,
+      "seeders": 5960,
+      "leechers": 5248,
+      "peers": 11208
+    },
+    {
+      "title": "Ballerina",
+      "current_rank": 3,
       "previous_rank": 183,
-      "rank_change": 181,
+      "rank_change": 180,
+      "seeders": 6074,
+      "leechers": 4891,
+      "peers": 10965
+    },
+    {
+      "title": "Ballerina",
+      "current_rank": 4,
+      "previous_rank": 183,
+      "rank_change": 179,
       "seeders": 6074,
       "leechers": 4891,
       "peers": 10965
     },
     {
       "title": "Heads of State",
-      "current_rank": 3,
+      "current_rank": 5,
       "previous_rank": 416,
-      "rank_change": 413,
+      "rank_change": 411,
+      "seeders": 2883,
+      "leechers": 3395,
+      "peers": 6278
+    },
+    {
+      "title": "Heads of State",
+      "current_rank": 6,
+      "previous_rank": 416,
+      "rank_change": 410,
       "seeders": 2883,
       "leechers": 3395,
       "peers": 6278
     },
     {
       "title": "Final Destination Bloodlines",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 192,
-      "rank_change": 188,
+      "rank_change": 185,
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
+    },
+    {
+      "title": "Final Destination Bloodlines",
+      "current_rank": 8,
+      "previous_rank": 192,
+      "rank_change": 184,
       "seeders": 4232,
       "leechers": 1083,
       "peers": 5315
     },
     {
       "title": "Karate Kid Legends",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 40,
-      "rank_change": 35,
+      "rank_change": 31,
+      "seeders": 3599,
+      "leechers": 1531,
+      "peers": 5130
+    },
+    {
+      "title": "Karate Kid Legends",
+      "current_rank": 10,
+      "previous_rank": 40,
+      "rank_change": 30,
       "seeders": 3599,
       "leechers": 1531,
       "peers": 5130
     },
     {
       "title": "The Old Guard 2",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 440,
-      "rank_change": 434,
+      "rank_change": 429,
+      "seeders": 2888,
+      "leechers": 1576,
+      "peers": 4464
+    },
+    {
+      "title": "The Old Guard 2",
+      "current_rank": 12,
+      "previous_rank": 440,
+      "rank_change": 428,
       "seeders": 2888,
       "leechers": 1576,
       "peers": 4464
     },
     {
       "title": "Bring Her Back",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 352,
-      "rank_change": 345,
+      "rank_change": 339,
+      "seeders": 1231,
+      "leechers": 2261,
+      "peers": 3492
+    },
+    {
+      "title": "Bring Her Back",
+      "current_rank": 14,
+      "previous_rank": 352,
+      "rank_change": 338,
       "seeders": 1231,
       "leechers": 2261,
       "peers": 3492
     },
     {
       "title": "Eden",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 56,
-      "rank_change": 48,
+      "rank_change": 41,
+      "seeders": 1742,
+      "leechers": 1550,
+      "peers": 3292
+    },
+    {
+      "title": "Eden",
+      "current_rank": 16,
+      "previous_rank": 56,
+      "rank_change": 40,
       "seeders": 1742,
       "leechers": 1550,
       "peers": 3292
     },
     {
       "title": "The Unholy Trinity",
-      "current_rank": 9,
+      "current_rank": 17,
       "previous_rank": 72,
-      "rank_change": 63,
+      "rank_change": 55,
+      "seeders": 2507,
+      "leechers": 392,
+      "peers": 2899
+    },
+    {
+      "title": "The Unholy Trinity",
+      "current_rank": 18,
+      "previous_rank": 72,
+      "rank_change": 54,
       "seeders": 2507,
       "leechers": 392,
       "peers": 2899
     },
     {
       "title": "The Phoenician Scheme",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 80,
-      "rank_change": 70,
+      "rank_change": 61,
       "seeders": 2072,
       "leechers": 817,
       "peers": 2889
     },
     {
-      "title": "Ice Road Vengeance",
-      "current_rank": 11,
-      "previous_rank": 112,
-      "rank_change": 101,
-      "seeders": 1204,
-      "leechers": 1526,
-      "peers": 2730
-    },
-    {
-      "title": "Sovereign",
-      "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1284,
-      "leechers": 214,
-      "peers": 1498
-    },
-    {
-      "title": "Brick",
-      "current_rank": 13,
-      "previous_rank": 104,
-      "rank_change": 91,
-      "seeders": 1064,
-      "leechers": 311,
-      "peers": 1375
-    },
-    {
-      "title": "Housefull 5A",
-      "current_rank": 14,
-      "previous_rank": 240,
-      "rank_change": 226,
-      "seeders": 934,
-      "leechers": 424,
-      "peers": 1358
-    },
-    {
-      "title": "Ballerina From the World of John Wick",
-      "current_rank": 15,
-      "previous_rank": 128,
-      "rank_change": 113,
-      "seeders": 759,
-      "leechers": 372,
-      "peers": 1131
-    },
-    {
-      "title": "Housefull 5B",
-      "current_rank": 16,
-      "previous_rank": 256,
-      "rank_change": 240,
-      "seeders": 696,
-      "leechers": 413,
-      "peers": 1109
-    },
-    {
-      "title": "Ice Road Vengeance",
-      "current_rank": 17,
-      "previous_rank": 112,
-      "rank_change": 95,
-      "seeders": 670,
-      "leechers": 253,
-      "peers": 923
-    },
-    {
-      "title": "Spaceballs",
-      "current_rank": 18,
-      "previous_rank": 144,
-      "rank_change": 126,
-      "seeders": 630,
-      "leechers": 227,
-      "peers": 857
-    },
-    {
-      "title": "Thunderbolts A K A The New Avengers",
-      "current_rank": 19,
-      "previous_rank": 160,
-      "rank_change": 141,
-      "seeders": 297,
-      "leechers": 559,
-      "peers": 856
-    },
-    {
-      "title": "Kuberaa",
+      "title": "The Phoenician Scheme",
       "current_rank": 20,
-      "previous_rank": 215,
-      "rank_change": 195,
-      "seeders": 681,
-      "leechers": 150,
-      "peers": 831
+      "previous_rank": 80,
+      "rank_change": 60,
+      "seeders": 2072,
+      "leechers": 817,
+      "peers": 2889
     }
   ]
 }
