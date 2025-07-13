@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-13T17:05:14",
+  "updated_at": "2025-07-13T20:07:08",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -57,13 +57,13 @@
       "peers": 11208
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 7,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 6074,
-      "leechers": 4891,
-      "peers": 10965
+      "previous_rank": 376,
+      "rank_change": 369,
+      "seeders": 5960,
+      "leechers": 5248,
+      "peers": 11208
     },
     {
       "title": "Ballerina",
@@ -111,22 +111,22 @@
       "peers": 10965
     },
     {
-      "title": "Heads of State",
+      "title": "Ballerina",
       "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 2883,
-      "leechers": 3395,
-      "peers": 6278
+      "seeders": 6074,
+      "leechers": 4891,
+      "peers": 10965
     },
     {
-      "title": "Heads of State",
+      "title": "Ballerina",
       "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 2883,
-      "leechers": 3395,
-      "peers": 6278
+      "seeders": 6074,
+      "leechers": 4891,
+      "peers": 10965
     },
     {
       "title": "Heads of State",
@@ -165,22 +165,22 @@
       "peers": 6278
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Heads of State",
       "current_rank": 19,
-      "previous_rank": 8,
-      "rank_change": -11,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2883,
+      "leechers": 3395,
+      "peers": 6278
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Heads of State",
       "current_rank": 20,
-      "previous_rank": 8,
-      "rank_change": -12,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2883,
+      "leechers": 3395,
+      "peers": 6278
     }
   ]
 }
