@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-13T14:09:14",
+  "updated_at": "2025-07-13T17:05:14",
   "rankings": [
     {
       "title": "S T A L K E R 2: Heart of Chornobyl",
@@ -48,13 +48,13 @@
       "peers": 1835
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 662,
-      "leechers": 303,
-      "peers": 965
+      "seeders": 388,
+      "leechers": 1447,
+      "peers": 1835
     },
     {
       "title": "Tony Hawk's Pro Skater 3",
@@ -93,22 +93,22 @@
       "peers": 965
     },
     {
-      "title": "The Alters",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 11,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "seeders": 662,
+      "leechers": 303,
+      "peers": 965
     },
     {
-      "title": "The Alters",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "seeders": 662,
+      "leechers": 303,
+      "peers": 965
     },
     {
       "title": "The Alters",
@@ -138,31 +138,31 @@
       "peers": 803
     },
     {
-      "title": "RimWorld",
+      "title": "The Alters",
       "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 563,
-      "leechers": 19,
-      "peers": 582
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
-      "title": "RimWorld",
+      "title": "The Alters",
       "current_rank": 17,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 563,
-      "leechers": 19,
-      "peers": 582
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
-      "title": "RimWorld",
+      "title": "The Alters",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 563,
-      "leechers": 19,
-      "peers": 582
+      "seeders": 717,
+      "leechers": 86,
+      "peers": 803
     },
     {
       "title": "RimWorld",
