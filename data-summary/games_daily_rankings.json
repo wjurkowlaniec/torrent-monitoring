@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-13T20:07:08",
+  "updated_at": "2025-07-13T23:05:14",
   "rankings": [
     {
       "title": "S T A L K E R 2: Heart of Chornobyl",
@@ -66,13 +66,13 @@
       "peers": 1835
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 8,
-      "previous_rank": 8,
-      "rank_change": 0,
-      "seeders": 662,
-      "leechers": 303,
-      "peers": 965
+      "previous_rank": 592,
+      "rank_change": 584,
+      "seeders": 388,
+      "leechers": 1447,
+      "peers": 1835
     },
     {
       "title": "Tony Hawk's Pro Skater 3",
@@ -129,22 +129,22 @@
       "peers": 965
     },
     {
-      "title": "The Alters",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 15,
-      "previous_rank": 368,
-      "rank_change": 353,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "previous_rank": 8,
+      "rank_change": -7,
+      "seeders": 662,
+      "leechers": 303,
+      "peers": 965
     },
     {
-      "title": "The Alters",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 16,
-      "previous_rank": 368,
-      "rank_change": 352,
-      "seeders": 717,
-      "leechers": 86,
-      "peers": 803
+      "previous_rank": 8,
+      "rank_change": -8,
+      "seeders": 662,
+      "leechers": 303,
+      "peers": 965
     },
     {
       "title": "The Alters",

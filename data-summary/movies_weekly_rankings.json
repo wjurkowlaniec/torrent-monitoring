@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-13T20:07:08",
+  "updated_at": "2025-07-13T23:05:14",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -66,13 +66,13 @@
       "peers": 11208
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 8,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 6074,
-      "leechers": 4891,
-      "peers": 10965
+      "previous_rank": 376,
+      "rank_change": 368,
+      "seeders": 5960,
+      "leechers": 5248,
+      "peers": 11208
     },
     {
       "title": "Ballerina",
@@ -129,22 +129,22 @@
       "peers": 10965
     },
     {
-      "title": "Heads of State",
+      "title": "Ballerina",
       "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 2883,
-      "leechers": 3395,
-      "peers": 6278
+      "seeders": 6074,
+      "leechers": 4891,
+      "peers": 10965
     },
     {
-      "title": "Heads of State",
+      "title": "Ballerina",
       "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 2883,
-      "leechers": 3395,
-      "peers": 6278
+      "seeders": 6074,
+      "leechers": 4891,
+      "peers": 10965
     },
     {
       "title": "Heads of State",
