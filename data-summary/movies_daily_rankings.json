@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-14T14:10:13",
+  "updated_at": "2025-07-14T17:06:36",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -48,13 +48,13 @@
       "peers": 10749
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 6,
-      "previous_rank": 184,
-      "rank_change": 178,
-      "seeders": 5737,
-      "leechers": 3850,
-      "peers": 9587
+      "previous_rank": 232,
+      "rank_change": 226,
+      "seeders": 5824,
+      "leechers": 4925,
+      "peers": 10749
     },
     {
       "title": "Ballerina",
@@ -93,22 +93,22 @@
       "peers": 9587
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Ballerina",
       "current_rank": 11,
-      "previous_rank": 200,
-      "rank_change": 189,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": 184,
+      "rank_change": 173,
+      "seeders": 5737,
+      "leechers": 3850,
+      "peers": 9587
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Ballerina",
       "current_rank": 12,
-      "previous_rank": 200,
-      "rank_change": 188,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": 184,
+      "rank_change": 172,
+      "seeders": 5737,
+      "leechers": 3850,
+      "peers": 9587
     },
     {
       "title": "Final Destination Bloodlines",
@@ -138,31 +138,31 @@
       "peers": 5315
     },
     {
-      "title": "Heads of State",
+      "title": "Final Destination Bloodlines",
       "current_rank": 16,
-      "previous_rank": 424,
-      "rank_change": 408,
-      "seeders": 2809,
-      "leechers": 2438,
-      "peers": 5247
+      "previous_rank": 200,
+      "rank_change": 184,
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
     },
     {
-      "title": "Heads of State",
+      "title": "Final Destination Bloodlines",
       "current_rank": 17,
-      "previous_rank": 424,
-      "rank_change": 407,
-      "seeders": 2809,
-      "leechers": 2438,
-      "peers": 5247
+      "previous_rank": 200,
+      "rank_change": 183,
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
     },
     {
-      "title": "Heads of State",
+      "title": "Final Destination Bloodlines",
       "current_rank": 18,
-      "previous_rank": 424,
-      "rank_change": 406,
-      "seeders": 2809,
-      "leechers": 2438,
-      "peers": 5247
+      "previous_rank": 200,
+      "rank_change": 182,
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
     },
     {
       "title": "Heads of State",
