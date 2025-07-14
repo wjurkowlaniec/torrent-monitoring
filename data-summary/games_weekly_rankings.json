@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-14T11:09:59",
+  "updated_at": "2025-07-14T14:10:13",
   "rankings": [
     {
       "title": "The Sims 4",
@@ -39,13 +39,13 @@
       "peers": 1513
     },
     {
-      "title": "S T A L K E R 2: Heart of Chornobyl",
+      "title": "The Sims 4",
       "current_rank": 5,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 378,
-      "leechers": 892,
-      "peers": 1270
+      "seeders": 633,
+      "leechers": 880,
+      "peers": 1513
     },
     {
       "title": "S T A L K E R 2: Heart of Chornobyl",
@@ -75,22 +75,22 @@
       "peers": 1270
     },
     {
-      "title": "Kunitsu-Gami: Path of the Goddess",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 523,
-      "leechers": 305,
-      "peers": 828
+      "seeders": 378,
+      "leechers": 892,
+      "peers": 1270
     },
     {
-      "title": "Kunitsu-Gami: Path of the Goddess",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 523,
-      "leechers": 305,
-      "peers": 828
+      "seeders": 378,
+      "leechers": 892,
+      "peers": 1270
     },
     {
       "title": "Kunitsu-Gami: Path of the Goddess",
@@ -111,31 +111,31 @@
       "peers": 828
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Kunitsu-Gami: Path of the Goddess",
       "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 576,
-      "leechers": 245,
-      "peers": 821
+      "seeders": 523,
+      "leechers": 305,
+      "peers": 828
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Kunitsu-Gami: Path of the Goddess",
       "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 576,
-      "leechers": 245,
-      "peers": 821
+      "seeders": 523,
+      "leechers": 305,
+      "peers": 828
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "Kunitsu-Gami: Path of the Goddess",
       "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 576,
-      "leechers": 245,
-      "peers": 821
+      "seeders": 523,
+      "leechers": 305,
+      "peers": 828
     },
     {
       "title": "Tony Hawk's Pro Skater 3",
@@ -147,40 +147,40 @@
       "peers": 821
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 17,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 576,
+      "leechers": 245,
+      "peers": 821
     },
     {
-      "title": "RimWorld",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 528,
-      "leechers": 16,
-      "peers": 544
+      "seeders": 576,
+      "leechers": 245,
+      "peers": 821
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 576,
+      "leechers": 245,
+      "peers": 821
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "seeders": 576,
+      "leechers": 245,
+      "peers": 821
     }
   ]
 }
