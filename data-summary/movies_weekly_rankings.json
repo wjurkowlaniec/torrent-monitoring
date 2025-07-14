@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-14T08:09:19",
+  "updated_at": "2025-07-14T11:09:59",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -30,13 +30,13 @@
       "peers": 10749
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 4,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 5737,
-      "leechers": 3850,
-      "peers": 9587
+      "previous_rank": 432,
+      "rank_change": 428,
+      "seeders": 5824,
+      "leechers": 4925,
+      "peers": 10749
     },
     {
       "title": "Ballerina",
@@ -57,22 +57,22 @@
       "peers": 9587
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Ballerina",
       "current_rank": 7,
-      "previous_rank": 216,
-      "rank_change": 209,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5737,
+      "leechers": 3850,
+      "peers": 9587
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Ballerina",
       "current_rank": 8,
-      "previous_rank": 216,
-      "rank_change": 208,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5737,
+      "leechers": 3850,
+      "peers": 9587
     },
     {
       "title": "Final Destination Bloodlines",
@@ -84,53 +84,80 @@
       "peers": 5315
     },
     {
-      "title": "Heads of State",
+      "title": "Final Destination Bloodlines",
       "current_rank": 10,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2809,
-      "leechers": 2438,
-      "peers": 5247
+      "previous_rank": 216,
+      "rank_change": 206,
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
     },
     {
-      "title": "Heads of State",
+      "title": "Final Destination Bloodlines",
       "current_rank": 11,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2809,
-      "leechers": 2438,
-      "peers": 5247
+      "previous_rank": 216,
+      "rank_change": 205,
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
+    },
+    {
+      "title": "Final Destination Bloodlines",
+      "current_rank": 12,
+      "previous_rank": 216,
+      "rank_change": 204,
+      "seeders": 4232,
+      "leechers": 1083,
+      "peers": 5315
     },
     {
       "title": "Heads of State",
-      "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2809,
-      "leechers": 2438,
-      "peers": 5247
-    },
-    {
-      "title": "Karate Kid Legends",
       "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3609,
-      "leechers": 1499,
-      "peers": 5108
+      "seeders": 2809,
+      "leechers": 2438,
+      "peers": 5247
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Heads of State",
       "current_rank": 14,
       "previous_rank": null,
       "rank_change": "new",
+      "seeders": 2809,
+      "leechers": 2438,
+      "peers": 5247
+    },
+    {
+      "title": "Heads of State",
+      "current_rank": 15,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2809,
+      "leechers": 2438,
+      "peers": 5247
+    },
+    {
+      "title": "Heads of State",
+      "current_rank": 16,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 2809,
+      "leechers": 2438,
+      "peers": 5247
+    },
+    {
+      "title": "Karate Kid Legends",
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
       "seeders": 3609,
       "leechers": 1499,
       "peers": 5108
     },
     {
       "title": "Karate Kid Legends",
-      "current_rank": 15,
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 3609,
@@ -138,49 +165,22 @@
       "peers": 5108
     },
     {
-      "title": "The Old Guard 2",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2681,
-      "leechers": 1325,
-      "peers": 4006
-    },
-    {
-      "title": "The Old Guard 2",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2681,
-      "leechers": 1325,
-      "peers": 4006
-    },
-    {
-      "title": "The Old Guard 2",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 2681,
-      "leechers": 1325,
-      "peers": 4006
-    },
-    {
-      "title": "Eden",
+      "title": "Karate Kid Legends",
       "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 1672,
-      "leechers": 1589,
-      "peers": 3261
+      "seeders": 3609,
+      "leechers": 1499,
+      "peers": 5108
     },
     {
-      "title": "Eden",
+      "title": "Karate Kid Legends",
       "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 1672,
-      "leechers": 1589,
-      "peers": 3261
+      "seeders": 3609,
+      "leechers": 1499,
+      "peers": 5108
     }
   ]
 }
