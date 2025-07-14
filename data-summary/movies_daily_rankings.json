@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-14T20:08:04",
+  "updated_at": "2025-07-14T23:05:48",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -66,13 +66,13 @@
       "peers": 10749
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 8,
-      "previous_rank": 184,
-      "rank_change": 176,
-      "seeders": 5737,
-      "leechers": 3850,
-      "peers": 9587
+      "previous_rank": 232,
+      "rank_change": 224,
+      "seeders": 5824,
+      "leechers": 4925,
+      "peers": 10749
     },
     {
       "title": "Ballerina",
@@ -129,22 +129,22 @@
       "peers": 9587
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Ballerina",
       "current_rank": 15,
-      "previous_rank": 200,
-      "rank_change": 185,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": 184,
+      "rank_change": 169,
+      "seeders": 5737,
+      "leechers": 3850,
+      "peers": 9587
     },
     {
-      "title": "Final Destination Bloodlines",
+      "title": "Ballerina",
       "current_rank": 16,
-      "previous_rank": 200,
-      "rank_change": 184,
-      "seeders": 4232,
-      "leechers": 1083,
-      "peers": 5315
+      "previous_rank": 184,
+      "rank_change": 168,
+      "seeders": 5737,
+      "leechers": 3850,
+      "peers": 9587
     },
     {
       "title": "Final Destination Bloodlines",

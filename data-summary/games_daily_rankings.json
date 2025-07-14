@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-14T20:08:04",
+  "updated_at": "2025-07-14T23:05:48",
   "rankings": [
     {
       "title": "The Sims 4",
@@ -66,13 +66,13 @@
       "peers": 1513
     },
     {
-      "title": "S T A L K E R 2: Heart of Chornobyl",
+      "title": "The Sims 4",
       "current_rank": 8,
-      "previous_rank": 608,
-      "rank_change": 600,
-      "seeders": 378,
-      "leechers": 892,
-      "peers": 1270
+      "previous_rank": 80,
+      "rank_change": 72,
+      "seeders": 633,
+      "leechers": 880,
+      "peers": 1513
     },
     {
       "title": "S T A L K E R 2: Heart of Chornobyl",
@@ -129,22 +129,22 @@
       "peers": 1270
     },
     {
-      "title": "Kunitsu-Gami: Path of the Goddess",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 523,
-      "leechers": 305,
-      "peers": 828
+      "previous_rank": 608,
+      "rank_change": 593,
+      "seeders": 378,
+      "leechers": 892,
+      "peers": 1270
     },
     {
-      "title": "Kunitsu-Gami: Path of the Goddess",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 523,
-      "leechers": 305,
-      "peers": 828
+      "previous_rank": 608,
+      "rank_change": 592,
+      "seeders": 378,
+      "leechers": 892,
+      "peers": 1270
     },
     {
       "title": "Kunitsu-Gami: Path of the Goddess",
