@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-15T14:10:28",
+  "updated_at": "2025-07-15T17:06:01",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -48,13 +48,13 @@
       "peers": 9026
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 6,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": 224,
+      "rank_change": 218,
+      "seeders": 5811,
+      "leechers": 3215,
+      "peers": 9026
     },
     {
       "title": "Ballerina",
@@ -93,22 +93,22 @@
       "peers": 8983
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Ballerina",
       "current_rank": 11,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Ballerina",
       "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
     },
     {
       "title": "Karate Kid Legends",
@@ -138,31 +138,31 @@
       "peers": 4582
     },
     {
-      "title": "Heads of State",
+      "title": "Karate Kid Legends",
       "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 2663,
-      "leechers": 1898,
-      "peers": 4561
+      "seeders": 3356,
+      "leechers": 1226,
+      "peers": 4582
     },
     {
-      "title": "Heads of State",
+      "title": "Karate Kid Legends",
       "current_rank": 17,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 2663,
-      "leechers": 1898,
-      "peers": 4561
+      "seeders": 3356,
+      "leechers": 1226,
+      "peers": 4582
     },
     {
-      "title": "Heads of State",
+      "title": "Karate Kid Legends",
       "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 2663,
-      "leechers": 1898,
-      "peers": 4561
+      "seeders": 3356,
+      "leechers": 1226,
+      "peers": 4582
     },
     {
       "title": "Heads of State",
