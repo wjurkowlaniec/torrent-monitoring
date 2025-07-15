@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-15T20:08:07",
+  "updated_at": "2025-07-15T23:04:43",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -66,13 +66,13 @@
       "peers": 9026
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 8,
-      "previous_rank": 184,
-      "rank_change": 176,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": 232,
+      "rank_change": 224,
+      "seeders": 5811,
+      "leechers": 3215,
+      "peers": 9026
     },
     {
       "title": "Ballerina",
@@ -129,22 +129,22 @@
       "peers": 8983
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Ballerina",
       "current_rank": 15,
-      "previous_rank": 40,
-      "rank_change": 25,
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "previous_rank": 184,
+      "rank_change": 169,
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Ballerina",
       "current_rank": 16,
-      "previous_rank": 40,
-      "rank_change": 24,
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "previous_rank": 184,
+      "rank_change": 168,
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
     },
     {
       "title": "Karate Kid Legends",
