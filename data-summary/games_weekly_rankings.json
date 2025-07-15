@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-15T05:34:03",
+  "updated_at": "2025-07-15T08:08:34",
   "rankings": [
     {
       "title": "The Sims 4",
@@ -21,13 +21,13 @@
       "peers": 1324
     },
     {
-      "title": "S T A L K E R 2: Heart of Chornobyl",
+      "title": "The Sims 4",
       "current_rank": 3,
       "previous_rank": null,
       "rank_change": "new",
-      "seeders": 364,
-      "leechers": 639,
-      "peers": 1003
+      "seeders": 797,
+      "leechers": 527,
+      "peers": 1324
     },
     {
       "title": "S T A L K E R 2: Heart of Chornobyl",
@@ -39,17 +39,44 @@
       "peers": 1003
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 5,
       "previous_rank": null,
       "rank_change": "new",
+      "seeders": 364,
+      "leechers": 639,
+      "peers": 1003
+    },
+    {
+      "title": "S T A L K E R 2: Heart of Chornobyl",
+      "current_rank": 6,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 364,
+      "leechers": 639,
+      "peers": 1003
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 3",
+      "current_rank": 7,
+      "previous_rank": null,
+      "rank_change": "new",
       "seeders": 501,
       "leechers": 178,
       "peers": 679
     },
     {
       "title": "Tony Hawk's Pro Skater 3",
-      "current_rank": 6,
+      "current_rank": 8,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 501,
+      "leechers": 178,
+      "peers": 679
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 3",
+      "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 501,
@@ -58,7 +85,7 @@
     },
     {
       "title": "Kunitsu-Gami: Path of the Goddess",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 430,
@@ -67,7 +94,16 @@
     },
     {
       "title": "Kunitsu-Gami: Path of the Goddess",
-      "current_rank": 8,
+      "current_rank": 11,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 430,
+      "leechers": 174,
+      "peers": 604
+    },
+    {
+      "title": "Kunitsu-Gami: Path of the Goddess",
+      "current_rank": 12,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 430,
@@ -76,7 +112,7 @@
     },
     {
       "title": "Call of Duty: Modern Warfare II",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 339,
@@ -85,7 +121,16 @@
     },
     {
       "title": "Call of Duty: Modern Warfare II",
-      "current_rank": 10,
+      "current_rank": 14,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
+    },
+    {
+      "title": "Call of Duty: Modern Warfare II",
+      "current_rank": 15,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 339,
@@ -94,7 +139,7 @@
     },
     {
       "title": "RimWorld",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 503,
@@ -103,7 +148,16 @@
     },
     {
       "title": "RimWorld",
-      "current_rank": 12,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 503,
+      "leechers": 10,
+      "peers": 513
+    },
+    {
+      "title": "RimWorld",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 503,
@@ -112,7 +166,7 @@
     },
     {
       "title": "Date Everything! Lavish Edition",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 477,
@@ -121,66 +175,12 @@
     },
     {
       "title": "Date Everything! Lavish Edition",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 477,
       "leechers": 27,
       "peers": 504
-    },
-    {
-      "title": "Call of Duty: Modern Warfare",
-      "current_rank": 15,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 169,
-      "leechers": 280,
-      "peers": 449
-    },
-    {
-      "title": "Call of Duty: Modern Warfare",
-      "current_rank": 16,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 169,
-      "leechers": 280,
-      "peers": 449
-    },
-    {
-      "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 331,
-      "leechers": 48,
-      "peers": 379
-    },
-    {
-      "title": "Broken Arrow: Vanguard Edition [FitGirl Repac",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 331,
-      "leechers": 48,
-      "peers": 379
-    },
-    {
-      "title": "Victoria 3: Grand Edition",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 258,
-      "leechers": 14,
-      "peers": 272
-    },
-    {
-      "title": "Victoria 3: Grand Edition",
-      "current_rank": 20,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 258,
-      "leechers": 14,
-      "peers": 272
     }
   ]
 }
