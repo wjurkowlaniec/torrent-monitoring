@@ -1,6 +1,6 @@
 {
   "period": "weekly",
-  "updated_at": "2025-07-16T05:33:21",
+  "updated_at": "2025-07-16T08:08:35",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -21,13 +21,13 @@
       "peers": 8996
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 3,
-      "previous_rank": 72,
-      "rank_change": 69,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": 100,
+      "rank_change": 97,
+      "seeders": 5784,
+      "leechers": 3212,
+      "peers": 8996
     },
     {
       "title": "Ballerina",
@@ -39,8 +39,26 @@
       "peers": 8983
     },
     {
-      "title": "How to Train Your Dragon",
+      "title": "Ballerina",
       "current_rank": 5,
+      "previous_rank": 72,
+      "rank_change": 67,
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
+    },
+    {
+      "title": "Ballerina",
+      "current_rank": 6,
+      "previous_rank": 72,
+      "rank_change": 66,
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "current_rank": 7,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 5261,
@@ -49,7 +67,16 @@
     },
     {
       "title": "How to Train Your Dragon",
-      "current_rank": 6,
+      "current_rank": 8,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5261,
+      "leechers": 1831,
+      "peers": 7092
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "current_rank": 9,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 5261,
@@ -58,129 +85,102 @@
     },
     {
       "title": "Karate Kid Legends",
-      "current_rank": 7,
+      "current_rank": 10,
       "previous_rank": 24,
-      "rank_change": 17,
+      "rank_change": 14,
       "seeders": 3158,
       "leechers": 1737,
       "peers": 4895
     },
     {
       "title": "Karate Kid Legends",
-      "current_rank": 8,
+      "current_rank": 11,
       "previous_rank": 24,
-      "rank_change": 16,
+      "rank_change": 13,
+      "seeders": 3158,
+      "leechers": 1737,
+      "peers": 4895
+    },
+    {
+      "title": "Karate Kid Legends",
+      "current_rank": 12,
+      "previous_rank": 24,
+      "rank_change": 12,
       "seeders": 3158,
       "leechers": 1737,
       "peers": 4895
     },
     {
       "title": "Heads of State",
-      "current_rank": 9,
+      "current_rank": 13,
       "previous_rank": 208,
-      "rank_change": 199,
+      "rank_change": 195,
       "seeders": 2486,
       "leechers": 1519,
       "peers": 4005
     },
     {
       "title": "Heads of State",
-      "current_rank": 10,
+      "current_rank": 14,
       "previous_rank": 208,
-      "rank_change": 198,
+      "rank_change": 194,
+      "seeders": 2486,
+      "leechers": 1519,
+      "peers": 4005
+    },
+    {
+      "title": "Heads of State",
+      "current_rank": 15,
+      "previous_rank": 208,
+      "rank_change": 193,
       "seeders": 2486,
       "leechers": 1519,
       "peers": 4005
     },
     {
       "title": "The Old Guard 2",
-      "current_rank": 11,
+      "current_rank": 16,
       "previous_rank": 212,
-      "rank_change": 201,
+      "rank_change": 196,
       "seeders": 2427,
       "leechers": 779,
       "peers": 3206
     },
     {
       "title": "The Old Guard 2",
-      "current_rank": 12,
+      "current_rank": 17,
       "previous_rank": 212,
-      "rank_change": 200,
+      "rank_change": 195,
+      "seeders": 2427,
+      "leechers": 779,
+      "peers": 3206
+    },
+    {
+      "title": "The Old Guard 2",
+      "current_rank": 18,
+      "previous_rank": 212,
+      "rank_change": 194,
       "seeders": 2427,
       "leechers": 779,
       "peers": 3206
     },
     {
       "title": "The Phoenician Scheme",
-      "current_rank": 13,
+      "current_rank": 19,
       "previous_rank": 36,
-      "rank_change": 23,
+      "rank_change": 17,
       "seeders": 2072,
       "leechers": 817,
       "peers": 2889
     },
     {
       "title": "The Phoenician Scheme",
-      "current_rank": 14,
+      "current_rank": 20,
       "previous_rank": 36,
-      "rank_change": 22,
+      "rank_change": 16,
       "seeders": 2072,
       "leechers": 817,
       "peers": 2889
-    },
-    {
-      "title": "Eden",
-      "current_rank": 15,
-      "previous_rank": 32,
-      "rank_change": 17,
-      "seeders": 1512,
-      "leechers": 1037,
-      "peers": 2549
-    },
-    {
-      "title": "Eden",
-      "current_rank": 16,
-      "previous_rank": 32,
-      "rank_change": 16,
-      "seeders": 1512,
-      "leechers": 1037,
-      "peers": 2549
-    },
-    {
-      "title": "M3GAN 2 0",
-      "current_rank": 17,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1859,
-      "leechers": 622,
-      "peers": 2481
-    },
-    {
-      "title": "M3GAN 2 0",
-      "current_rank": 18,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1859,
-      "leechers": 622,
-      "peers": 2481
-    },
-    {
-      "title": "The Unholy Trinity",
-      "current_rank": 19,
-      "previous_rank": 40,
-      "rank_change": 21,
-      "seeders": 2164,
-      "leechers": 265,
-      "peers": 2429
-    },
-    {
-      "title": "The Unholy Trinity",
-      "current_rank": 20,
-      "previous_rank": 40,
-      "rank_change": 20,
-      "seeders": 2164,
-      "leechers": 265,
-      "peers": 2429
     }
   ]
 }
