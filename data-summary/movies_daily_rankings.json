@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-16T02:26:05",
+  "updated_at": "2025-07-16T05:33:21",
   "rankings": [
     {
       "title": "Thunderbolts",
@@ -12,17 +12,44 @@
       "peers": 8996
     },
     {
-      "title": "Ballerina",
+      "title": "Thunderbolts",
       "current_rank": 2,
+      "previous_rank": 272,
+      "rank_change": 270,
+      "seeders": 5784,
+      "leechers": 3212,
+      "peers": 8996
+    },
+    {
+      "title": "Ballerina",
+      "current_rank": 3,
       "previous_rank": 224,
-      "rank_change": 222,
+      "rank_change": 221,
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
+    },
+    {
+      "title": "Ballerina",
+      "current_rank": 4,
+      "previous_rank": 224,
+      "rank_change": 220,
       "seeders": 5897,
       "leechers": 3086,
       "peers": 8983
     },
     {
       "title": "How to Train Your Dragon",
-      "current_rank": 3,
+      "current_rank": 5,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5261,
+      "leechers": 1831,
+      "peers": 7092
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "current_rank": 6,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 5261,
@@ -31,52 +58,106 @@
     },
     {
       "title": "Karate Kid Legends",
-      "current_rank": 4,
+      "current_rank": 7,
       "previous_rank": 24,
-      "rank_change": 20,
+      "rank_change": 17,
+      "seeders": 3158,
+      "leechers": 1737,
+      "peers": 4895
+    },
+    {
+      "title": "Karate Kid Legends",
+      "current_rank": 8,
+      "previous_rank": 24,
+      "rank_change": 16,
       "seeders": 3158,
       "leechers": 1737,
       "peers": 4895
     },
     {
       "title": "Heads of State",
-      "current_rank": 5,
+      "current_rank": 9,
       "previous_rank": 472,
-      "rank_change": 467,
+      "rank_change": 463,
+      "seeders": 2486,
+      "leechers": 1519,
+      "peers": 4005
+    },
+    {
+      "title": "Heads of State",
+      "current_rank": 10,
+      "previous_rank": 472,
+      "rank_change": 462,
       "seeders": 2486,
       "leechers": 1519,
       "peers": 4005
     },
     {
       "title": "The Old Guard 2",
-      "current_rank": 6,
+      "current_rank": 11,
       "previous_rank": 480,
-      "rank_change": 474,
+      "rank_change": 469,
+      "seeders": 2427,
+      "leechers": 779,
+      "peers": 3206
+    },
+    {
+      "title": "The Old Guard 2",
+      "current_rank": 12,
+      "previous_rank": 480,
+      "rank_change": 468,
       "seeders": 2427,
       "leechers": 779,
       "peers": 3206
     },
     {
       "title": "The Phoenician Scheme",
-      "current_rank": 7,
+      "current_rank": 13,
       "previous_rank": 56,
-      "rank_change": 49,
+      "rank_change": 43,
+      "seeders": 2072,
+      "leechers": 817,
+      "peers": 2889
+    },
+    {
+      "title": "The Phoenician Scheme",
+      "current_rank": 14,
+      "previous_rank": 56,
+      "rank_change": 42,
       "seeders": 2072,
       "leechers": 817,
       "peers": 2889
     },
     {
       "title": "Eden",
-      "current_rank": 8,
+      "current_rank": 15,
       "previous_rank": 48,
-      "rank_change": 40,
+      "rank_change": 33,
+      "seeders": 1512,
+      "leechers": 1037,
+      "peers": 2549
+    },
+    {
+      "title": "Eden",
+      "current_rank": 16,
+      "previous_rank": 48,
+      "rank_change": 32,
       "seeders": 1512,
       "leechers": 1037,
       "peers": 2549
     },
     {
       "title": "M3GAN 2 0",
-      "current_rank": 9,
+      "current_rank": 17,
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1859,
+      "leechers": 622,
+      "peers": 2481
+    },
+    {
+      "title": "M3GAN 2 0",
+      "current_rank": 18,
       "previous_rank": null,
       "rank_change": "new",
       "seeders": 1859,
@@ -85,102 +166,21 @@
     },
     {
       "title": "The Unholy Trinity",
-      "current_rank": 10,
+      "current_rank": 19,
       "previous_rank": 64,
-      "rank_change": 54,
+      "rank_change": 45,
       "seeders": 2164,
       "leechers": 265,
       "peers": 2429
     },
     {
-      "title": "M3gan 2 0",
-      "current_rank": 11,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 1250,
-      "leechers": 1139,
-      "peers": 2389
-    },
-    {
-      "title": "How to Train Your Dragon",
-      "current_rank": 12,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 539,
-      "leechers": 1606,
-      "peers": 2145
-    },
-    {
-      "title": "Bring Her Back",
-      "current_rank": 13,
-      "previous_rank": 336,
-      "rank_change": 323,
-      "seeders": 1166,
-      "leechers": 953,
-      "peers": 2119
-    },
-    {
-      "title": "Ice Road Vengeance",
-      "current_rank": 14,
-      "previous_rank": 160,
-      "rank_change": 146,
-      "seeders": 1270,
-      "leechers": 632,
-      "peers": 1902
-    },
-    {
-      "title": "Sovereign",
-      "current_rank": 15,
-      "previous_rank": 112,
-      "rank_change": 97,
-      "seeders": 1290,
-      "leechers": 576,
-      "peers": 1866
-    },
-    {
-      "title": "Final Destination Bloodlines",
-      "current_rank": 16,
-      "previous_rank": 184,
-      "rank_change": 168,
-      "seeders": 1539,
-      "leechers": 161,
-      "peers": 1700
-    },
-    {
-      "title": "Ballerina From the World of John Wick",
-      "current_rank": 17,
-      "previous_rank": 96,
-      "rank_change": 79,
-      "seeders": 898,
-      "leechers": 754,
-      "peers": 1652
-    },
-    {
-      "title": "Brick",
-      "current_rank": 18,
-      "previous_rank": 120,
-      "rank_change": 102,
-      "seeders": 766,
-      "leechers": 526,
-      "peers": 1292
-    },
-    {
-      "title": "From The World Of John Wick Ballerina",
-      "current_rank": 19,
-      "previous_rank": null,
-      "rank_change": "new",
-      "seeders": 228,
-      "leechers": 852,
-      "peers": 1080
-    },
-    {
-      "title": "Housefull 5A",
+      "title": "The Unholy Trinity",
       "current_rank": 20,
-      "previous_rank": 448,
-      "rank_change": 428,
-      "seeders": 652,
-      "leechers": 218,
-      "peers": 870
+      "previous_rank": 64,
+      "rank_change": 44,
+      "seeders": 2164,
+      "leechers": 265,
+      "peers": 2429
     }
   ]
 }
