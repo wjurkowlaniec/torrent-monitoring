@@ -1,186 +1,186 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-15T23:04:43",
+  "updated_at": "2025-07-16T02:26:05",
   "rankings": [
     {
       "title": "Thunderbolts",
       "current_rank": 1,
-      "previous_rank": 232,
-      "rank_change": 231,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": 272,
+      "rank_change": 271,
+      "seeders": 5784,
+      "leechers": 3212,
+      "peers": 8996
     },
     {
-      "title": "Thunderbolts",
+      "title": "Ballerina",
       "current_rank": 2,
-      "previous_rank": 232,
-      "rank_change": 230,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": 224,
+      "rank_change": 222,
+      "seeders": 5897,
+      "leechers": 3086,
+      "peers": 8983
     },
     {
-      "title": "Thunderbolts",
+      "title": "How to Train Your Dragon",
       "current_rank": 3,
-      "previous_rank": 232,
-      "rank_change": 229,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 5261,
+      "leechers": 1831,
+      "peers": 7092
     },
     {
-      "title": "Thunderbolts",
+      "title": "Karate Kid Legends",
       "current_rank": 4,
-      "previous_rank": 232,
-      "rank_change": 228,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": 24,
+      "rank_change": 20,
+      "seeders": 3158,
+      "leechers": 1737,
+      "peers": 4895
     },
     {
-      "title": "Thunderbolts",
+      "title": "Heads of State",
       "current_rank": 5,
-      "previous_rank": 232,
-      "rank_change": 227,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": 472,
+      "rank_change": 467,
+      "seeders": 2486,
+      "leechers": 1519,
+      "peers": 4005
     },
     {
-      "title": "Thunderbolts",
+      "title": "The Old Guard 2",
       "current_rank": 6,
-      "previous_rank": 232,
-      "rank_change": 226,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": 480,
+      "rank_change": 474,
+      "seeders": 2427,
+      "leechers": 779,
+      "peers": 3206
     },
     {
-      "title": "Thunderbolts",
+      "title": "The Phoenician Scheme",
       "current_rank": 7,
-      "previous_rank": 232,
-      "rank_change": 225,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": 56,
+      "rank_change": 49,
+      "seeders": 2072,
+      "leechers": 817,
+      "peers": 2889
     },
     {
-      "title": "Thunderbolts",
+      "title": "Eden",
       "current_rank": 8,
-      "previous_rank": 232,
-      "rank_change": 224,
-      "seeders": 5811,
-      "leechers": 3215,
-      "peers": 9026
+      "previous_rank": 48,
+      "rank_change": 40,
+      "seeders": 1512,
+      "leechers": 1037,
+      "peers": 2549
     },
     {
-      "title": "Ballerina",
+      "title": "M3GAN 2 0",
       "current_rank": 9,
-      "previous_rank": 184,
-      "rank_change": 175,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1859,
+      "leechers": 622,
+      "peers": 2481
     },
     {
-      "title": "Ballerina",
+      "title": "The Unholy Trinity",
       "current_rank": 10,
-      "previous_rank": 184,
-      "rank_change": 174,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": 64,
+      "rank_change": 54,
+      "seeders": 2164,
+      "leechers": 265,
+      "peers": 2429
     },
     {
-      "title": "Ballerina",
+      "title": "M3gan 2 0",
       "current_rank": 11,
-      "previous_rank": 184,
-      "rank_change": 173,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 1250,
+      "leechers": 1139,
+      "peers": 2389
     },
     {
-      "title": "Ballerina",
+      "title": "How to Train Your Dragon",
       "current_rank": 12,
-      "previous_rank": 184,
-      "rank_change": 172,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 539,
+      "leechers": 1606,
+      "peers": 2145
     },
     {
-      "title": "Ballerina",
+      "title": "Bring Her Back",
       "current_rank": 13,
-      "previous_rank": 184,
-      "rank_change": 171,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": 336,
+      "rank_change": 323,
+      "seeders": 1166,
+      "leechers": 953,
+      "peers": 2119
     },
     {
-      "title": "Ballerina",
+      "title": "Ice Road Vengeance",
       "current_rank": 14,
-      "previous_rank": 184,
-      "rank_change": 170,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": 160,
+      "rank_change": 146,
+      "seeders": 1270,
+      "leechers": 632,
+      "peers": 1902
     },
     {
-      "title": "Ballerina",
+      "title": "Sovereign",
       "current_rank": 15,
-      "previous_rank": 184,
-      "rank_change": 169,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "previous_rank": 112,
+      "rank_change": 97,
+      "seeders": 1290,
+      "leechers": 576,
+      "peers": 1866
     },
     {
-      "title": "Ballerina",
+      "title": "Final Destination Bloodlines",
       "current_rank": 16,
       "previous_rank": 184,
       "rank_change": 168,
-      "seeders": 5897,
-      "leechers": 3086,
-      "peers": 8983
+      "seeders": 1539,
+      "leechers": 161,
+      "peers": 1700
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Ballerina From the World of John Wick",
       "current_rank": 17,
-      "previous_rank": 40,
-      "rank_change": 23,
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "previous_rank": 96,
+      "rank_change": 79,
+      "seeders": 898,
+      "leechers": 754,
+      "peers": 1652
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Brick",
       "current_rank": 18,
-      "previous_rank": 40,
-      "rank_change": 22,
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "previous_rank": 120,
+      "rank_change": 102,
+      "seeders": 766,
+      "leechers": 526,
+      "peers": 1292
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "From The World Of John Wick Ballerina",
       "current_rank": 19,
-      "previous_rank": 40,
-      "rank_change": 21,
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "previous_rank": null,
+      "rank_change": "new",
+      "seeders": 228,
+      "leechers": 852,
+      "peers": 1080
     },
     {
-      "title": "Karate Kid Legends",
+      "title": "Housefull 5A",
       "current_rank": 20,
-      "previous_rank": 40,
-      "rank_change": 20,
-      "seeders": 3356,
-      "leechers": 1226,
-      "peers": 4582
+      "previous_rank": 448,
+      "rank_change": 428,
+      "seeders": 652,
+      "leechers": 218,
+      "peers": 870
     }
   ]
 }
