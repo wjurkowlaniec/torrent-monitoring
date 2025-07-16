@@ -1,6 +1,6 @@
 {
   "period": "daily",
-  "updated_at": "2025-07-16T11:09:01",
+  "updated_at": "2025-07-16T14:10:24",
   "rankings": [
     {
       "title": "The Sims 4",
@@ -39,13 +39,13 @@
       "peers": 1219
     },
     {
-      "title": "S T A L K E R 2: Heart of Chornobyl",
+      "title": "The Sims 4",
       "current_rank": 5,
-      "previous_rank": 607,
-      "rank_change": 602,
-      "seeders": 315,
-      "leechers": 486,
-      "peers": 801
+      "previous_rank": 8,
+      "rank_change": 3,
+      "seeders": 766,
+      "leechers": 453,
+      "peers": 1219
     },
     {
       "title": "S T A L K E R 2: Heart of Chornobyl",
@@ -75,22 +75,22 @@
       "peers": 801
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 9,
-      "previous_rank": 24,
-      "rank_change": 15,
-      "seeders": 431,
-      "leechers": 116,
-      "peers": 547
+      "previous_rank": 607,
+      "rank_change": 598,
+      "seeders": 315,
+      "leechers": 486,
+      "peers": 801
     },
     {
-      "title": "Tony Hawk's Pro Skater 3",
+      "title": "S T A L K E R 2: Heart of Chornobyl",
       "current_rank": 10,
-      "previous_rank": 24,
-      "rank_change": 14,
-      "seeders": 431,
-      "leechers": 116,
-      "peers": 547
+      "previous_rank": 607,
+      "rank_change": 597,
+      "seeders": 315,
+      "leechers": 486,
+      "peers": 801
     },
     {
       "title": "Tony Hawk's Pro Skater 3",
@@ -111,31 +111,31 @@
       "peers": 547
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 13,
-      "previous_rank": 40,
-      "rank_change": 27,
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "previous_rank": 24,
+      "rank_change": 11,
+      "seeders": 431,
+      "leechers": 116,
+      "peers": 547
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 14,
-      "previous_rank": 40,
-      "rank_change": 26,
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "previous_rank": 24,
+      "rank_change": 10,
+      "seeders": 431,
+      "leechers": 116,
+      "peers": 547
     },
     {
-      "title": "Call of Duty: Modern Warfare II",
+      "title": "Tony Hawk's Pro Skater 3",
       "current_rank": 15,
-      "previous_rank": 40,
-      "rank_change": 25,
-      "seeders": 339,
-      "leechers": 205,
-      "peers": 544
+      "previous_rank": 24,
+      "rank_change": 9,
+      "seeders": 431,
+      "leechers": 116,
+      "peers": 547
     },
     {
       "title": "Call of Duty: Modern Warfare II",
@@ -147,40 +147,40 @@
       "peers": 544
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 17,
-      "previous_rank": 56,
-      "rank_change": 39,
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "previous_rank": 40,
+      "rank_change": 23,
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 18,
-      "previous_rank": 56,
-      "rank_change": 38,
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "previous_rank": 40,
+      "rank_change": 22,
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 19,
-      "previous_rank": 56,
-      "rank_change": 37,
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "previous_rank": 40,
+      "rank_change": 21,
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     },
     {
-      "title": "Date Everything! Lavish Edition",
+      "title": "Call of Duty: Modern Warfare II",
       "current_rank": 20,
-      "previous_rank": 56,
-      "rank_change": 36,
-      "seeders": 477,
-      "leechers": 27,
-      "peers": 504
+      "previous_rank": 40,
+      "rank_change": 20,
+      "seeders": 339,
+      "leechers": 205,
+      "peers": 544
     }
   ]
 }
